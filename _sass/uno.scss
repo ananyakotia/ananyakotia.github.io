@@ -1344,6 +1344,7 @@ hr {
 .btn-mobile-menu {
 	display: none;
 	position: fixed;
+	z-index: 9999;
 	top: 5px;
 	right: 0;
 	left: 0;
