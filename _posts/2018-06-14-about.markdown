@@ -4,7 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-I am a Ph.D. candidate at the Department of Economics, London School of Economics. I am interested in combining mircro empirical methods and macroeconomic theory to study firm dynamics and economic growth in developing countries.
+I am a Ph.D. candidate at the Department of Economics, London School of Economics. I am interested in combining micro empirical methods and macroeconomic theory to study firm dynamics and economic growth in developing countries. Prior to starting my Ph.D., I was a predoctoral research fellow at the Energy Policy Institute at the University of Chicago and an Economist at the Ministry of Finance, Government of India.
 
 <!-- Current Affiliations:
 - [JPAL](https://www.povertyactionlab.org/)
