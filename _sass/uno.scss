@@ -54,7 +54,7 @@ body {
 @font-face {
 	font-family: "SF Pro";
 	src: url("../fonts/SF-Pro/SF-Pro-Text-Black.otf");
-	src: url("../fonts/SF-Pro/SF-Pro-Text-Black.otf?") format("embedded-opentype"), url("../fonts/SF-Pro/SF-Pro-Text-Black.otf") format(.otf"), url("../fonts/SF-Pro/SF-Pro-Text-Black.otf") format("truetype"), url("../fonts/SF-Pro/SF-Pro-Text-Black.otf") format(.otf");
+	src: url("../fonts/SF-Pro/SF-Pro-Text-Black.otf?") format("embedded-opentype"), url("../fonts/SF-Pro/SF-Pro-Text-Black.otf") format("opentype"), url("../fonts/SF-Pro/SF-Pro-Text-Black.otf") format("opentype"), url("../fonts/SF-Pro/SF-Pro-Text-Black.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal; }
 .icon:before {
