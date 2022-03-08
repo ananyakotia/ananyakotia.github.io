@@ -52,13 +52,13 @@ body {
  * MIT License
  */
 @font-face {
-	font-family: "SF-Pro";
-	src: url("../fonts/SF-Pro/SF-Pro.eot");
-	src: url("../fonts/SF-Pro/SF-Pro.eot?") format("embedded-opentype"), url("../fonts/SF-Pro/SF-Pro.woff") format("woff"), url("../fonts/SF-Pro/SF-Pro.ttf") format("truetype"), url("../fonts/SF-Pro/SF-Pro.svg") format("svg");
+	font-family: "foundation-icons";
+	src: url("../fonts/foundation-icons/foundation-icons.eot");
+	src: url("../fonts/foundation-icons/foundation-icons.eot?") format("embedded-opentype"), url("../fonts/foundation-icons/foundation-icons.woff") format("woff"), url("../fonts/foundation-icons/foundation-icons.ttf") format("truetype"), url("../fonts/foundation-icons/foundation-icons.svg") format("svg");
 	font-weight: normal;
 	font-style: normal; }
 .icon:before {
-	font-family: "SF-Pro";
+	font-family: "foundation-icons";
 	font-style: normal;
 	font-weight: normal;
 	font-variant: normal;
