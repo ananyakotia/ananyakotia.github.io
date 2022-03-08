@@ -1,4 +1,4 @@
-Cloned from [Vinayak Iyer](https://vinayakiyer.github.io/about/)
+Cloned from [Amit Khandelwal](https://akhandelwal8.github.io/about/)
 
 ### Copyright and license
 

@@ -1,14 +1,14 @@
 # Site settings
-title: Amit Khandelwal
-description: Chazen Professor of Global Business, Economics (Division Chair), Columbia GSB
-url: 'https://akhandelwal8.github.io'
+title: Ananya Kotia
+description: PhD candidate, London School of Economics
+url: 'https://ananyakotia.github.io'
 baseurl: ""
 google_analytics: 'UA-91934237-1'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Amit Khandelwal'
-  email: ak2796@columbia.edu
+  name: 'Ananya Kotia'
+  email: a.kotia1@lse.ac.uk
 
 defaults:
   -
