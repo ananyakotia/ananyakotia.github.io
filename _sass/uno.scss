@@ -47,10 +47,9 @@ body {
 		clear: both; }
 
 /*
- * Foundation Icons v 3.0
- * Made by ZURB 2013 http://zurb.com/playground/foundation-icon-fonts-3
- * MIT License
+ * SF fonts by Apple
  */
+
 @font-face {
 	font-family: "SF Pro";
 	src: url("../fonts/SF-Pro/SF-Pro-Text-Regular.otf");
@@ -1632,7 +1631,7 @@ input[type="tel"] {
 		width: 100%;
 		padding: 20px 0;
 		background: rgba(51, 51, 51, 0.98);
-		border-bottom: 1px solid rgba(255, 255, 255, 0.15); }
+		border-bottom: 1px solid rgba(220,20,60, 0.15); }
 		.navigation-wrapper.visible {
 			display: block; }
 

@@ -520,27 +520,1812 @@
 	"buffers":
 	[
 		{
-			"contents": "Searching 35 files for \"font-family\" (regex)\n\n/Users/kotia/Documents/GitHub/website/fonts/foundation-icons/foundation-icons.svg:\n   13  <font id=\"fontcustom\" horiz-adv-x=\"369\" >\n   14    <font-face \n   15:     font-family=\"fontcustom\"\n   16      font-weight=\"500\"\n   17      font-stretch=\"normal\"\n\n/Users/kotia/Documents/GitHub/website/_sass/uno.scss:\n   53   */\n   54  @font-face {\n   55: \tfont-family: \"foundation-icons\";\n   56  \tsrc: url(\"../fonts/foundation-icons/foundation-icons.eot\");\n   57  \tsrc: url(\"../fonts/foundation-icons/foundation-icons.eot?\") format(\"embedded-opentype\"), url(\"../fonts/foundation-icons/foundation-icons.woff\") format(\"woff\"), url(\"../fonts/foundation-icons/foundation-icons.ttf\") format(\"truetype\"), url(\"../fonts/foundation-icons/foundation-icons.svg\") format(\"svg\");\n   ..\n   59  \tfont-style: normal; }\n   60  .icon:before {\n   61: \tfont-family: \"foundation-icons\";\n   62  \tfont-style: normal;\n   63  \tfont-weight: normal;\n   ..\n  926  \n  927  body {\n  928: \tfont-family: \"Raleway\", sans-serif;\n  929  \tfont-size: 1em;\n  930  \tcolor: #1C1A1A; }\n  ...\n  954  \tmargin-top: .8em;\n  955  \tmargin-bottom: .4em;\n  956: \tfont-family: \"Roboto Slab\", serif;\n  957  \tfont-weight: lighter;\n  958  \tcolor: #333333;\n  ...\n  996  \tborder: 1px solid #eeeeee;\n  997  \tborder-radius: 3px;\n  998: \tfont-family: \"Roboto Slab\", serif;\n  999  \tfont-weight: lighter;\n 1000  \tfont-style: italic;\n ....\n 1023  \tborder: 1px solid #c9e1f6;\n 1024  \tborder-radius: 3px;\n 1025: \tfont-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;\n 1026  \tfont-size: .85em; }\n 1027  \n ....\n 1032  \tborder: 1px solid #c9e1f6; */\n 1033  \tborder-radius: 3px;\n 1034: \tfont-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;\n 1035  \tfont-size: .9em;\n 1036  \tfont-weight: normal;\n ....\n 1064  \n 1065  .intro {\n 1066: \tfont-family: \"Roboto Slab\", serif;\n 1067  \tfont-size: 1.2em;\n 1068  \tfont-weight: lighter;\n ....\n 1197  \n 1198  .panel-subtitle {\n 1199: \tfont-family: \"Roboto Slab\", serif;\n 1200  \tfont-size: 1.2em;\n 1201  \tfont-weight: lighter;\n ....\n 1415  \n 1416  i {\n 1417: \tfont-family: 'entypo';\n 1418  \tfont-weight: normal;\n 1419  \tfont-style: normal;\n ....\n 1421  \n 1422  .icon-social {\n 1423: \tfont-family: 'entypo-social';\n 1424  \tfont-size: 22px;\n 1425  \tdisplay: block;\n\n12 matches across 2 files\n",
+			"contents": "Searching 74 files for \"font-face\" (regex)\n\n/Users/kotia/Documents/GitHub/website/_sass/uno.scss:\n   52   * MIT License\n   53   */\n   54: @font-face {\n   55  \tfont-family: \"SF-Pro-Text-Regular\";\n   56  \tsrc: url(\"../fonts/SF-Pro-Text-Regular/SF-Pro-Text-Regular.eot\");\n\n1 match in 1 file\n\n\nSearching 74 files for \"font-family\" (regex)\n\n/Users/kotia/Documents/GitHub/website/_sass/uno.scss:\n   53   */\n   54  @font-face {\n   55: \tfont-family: \"SF-Pro-Text-Regular\";\n   56  \tsrc: url(\"../fonts/SF-Pro-Text-Regular/SF-Pro-Text-Regular.eot\");\n   57  \tsrc: url(\"../fonts/SF-Pro-Text-Regular/SF-Pro-Text-Regular.eot?\") format(\"embedded-opentype\"), url(\"../fonts/SF-Pro-Text-Regular/SF-Pro-Text-Regular.woff\") format(\"woff\"), url(\"../fonts/SF-Pro-Text-Regular/SF-Pro-Text-Regular.ttf\") format(\"truetype\"), url(\"../fonts/SF-Pro-Text-Regular/SF-Pro-Text-Regular.svg\") format(\"svg\");\n   ..\n   59  \tfont-style: normal; }\n   60  .icon:before {\n   61: \tfont-family: \"SF-Pro-Text-Regular\";\n   62  \tfont-style: normal;\n   63  \tfont-weight: normal;\n   ..\n  926  \n  927  body {\n  928: \tfont-family: \"SF-Pro-Text-Regular\", sans-serif;\n  929  \tfont-size: 1em;\n  930  \tcolor: #1C1A1A; }\n  ...\n  954  \tmargin-top: .8em;\n  955  \tmargin-bottom: .4em;\n  956: \tfont-family: \"SF-Pro-Text-Regular\", serif;\n  957  \tfont-weight: lighter;\n  958  \tcolor: #333333;\n  ...\n  996  \tborder: 1px solid #eeeeee;\n  997  \tborder-radius: 3px;\n  998: \tfont-family: \"SF-Pro-Text-Regular\", serif;\n  999  \tfont-weight: lighter;\n 1000  \tfont-style: italic;\n ....\n 1023  \tborder: 1px solid #c9e1f6;\n 1024  \tborder-radius: 3px;\n 1025: \tfont-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;\n 1026  \tfont-size: .85em; }\n 1027  \n ....\n 1032  \tborder: 1px solid #c9e1f6; */\n 1033  \tborder-radius: 3px;\n 1034: \tfont-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;\n 1035  \tfont-size: .9em;\n 1036  \tfont-weight: normal;\n ....\n 1064  \n 1065  .intro {\n 1066: \tfont-family: \"SF-Pro-Text-Regular\", serif;\n 1067  \tfont-size: 1.2em;\n 1068  \tfont-weight: lighter;\n ....\n 1197  \n 1198  .panel-subtitle {\n 1199: \tfont-family: \"SF-Pro-Text-Regular\", serif;\n 1200  \tfont-size: 1.2em;\n 1201  \tfont-weight: lighter;\n ....\n 1415  \n 1416  i {\n 1417: \tfont-family: 'SF-Pro-Text-Regular';\n 1418  \tfont-weight: normal;\n 1419  \tfont-style: normal;\n ....\n 1421  \n 1422  .icon-social {\n 1423: \tfont-family: 'SF-Pro-Text-Regular';\n 1424  \tfont-size: 22px;\n 1425  \tdisplay: block;\n\n11 matches in 1 file\n\n\nSearching 74 files for \"fonts/SF-Pro\" (regex)\n\n/Users/kotia/Documents/GitHub/website/_sass/uno.scss:\n   54  @font-face {\n   55  \tfont-family: \"SF-Pro-Text-Regular\";\n   56: \tsrc: url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.eot\");\n   57: \tsrc: url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.eot?\") format(\"embedded-opentype\"), url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.woff\") format(\"woff\"), url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.ttf\") format(\"truetype\"), url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.svg\") format(\"svg\");\n   58  \tfont-weight: normal;\n   59  \tfont-style: normal; }\n\n5 matches in 1 file\n\n\nSearching 74 files for \"CV\" (regex)\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Thin.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-SemiboldItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-UltralightItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Heavy.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-RegularItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Light.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Semibold.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Regular.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-MediumItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Bold.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Regular.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Medium.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Heavy.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Light.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Black.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Semibold.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-BlackItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Black.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Light.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Regular.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Ultralight.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Bold.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Thin.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-MediumItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-HeavyItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Ultralight.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-UltralightItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-LightItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Thin.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-ThinItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-BlackItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Black.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Medium.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-BoldItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-RegularItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Semibold.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-HeavyItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-ThinItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-LightItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Ultralight.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Medium.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Heavy.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-BoldItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Bold.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-SemiboldItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/_includes/header.html:\n   27              </ul>\n   28               <ul class=\"navigation\">\n   29:               <li class=\"navigation__item\"><a href=\"{{ site.baseurl }}/files/CV/KotiaCV.pdf\" title=\"cv\" class=\"blog-button\">cv</a></li>\n   30            </nav>\n   31            \n\n5039 matches across 46 files\n\n\nSearching 74 files for \"growth\" (regex)\n\n/Users/kotia/Documents/GitHub/website/_posts/2018-06-14-about.markdown:\n    5  ---\n    6  \n    7: I am a Ph.D. candidate at the Department of Economics, London School of Economics. I am interested in combining mircro empirical methods and macroeconomic theory to study firm dynamics and economic growth in developing countries.\n    8  \n    9  <!-- Current Affiliations:\n\n1 match in 1 file\n\n\nSearching 74 files for \"font\" (regex)\n\n/Users/kotia/Documents/GitHub/website/_sass/monokai.scss:\n   13  .highlight .c1 { color: #75715e } /* Comment.Single */\n   14  .highlight .cs { color: #75715e } /* Comment.Special */\n   15: .highlight .ge { font-style: italic } /* Generic.Emph */\n   16: .highlight .gs { font-weight: bold } /* Generic.Strong */\n   17  .highlight .kc { color: #66d9ef } /* Keyword.Constant */\n   18  .highlight .kd { color: #66d9ef } /* Keyword.Declaration */\n\n/Users/kotia/Documents/GitHub/website/_sass/tables.scss:\n    2  \tmargin-bottom: 1.3em;\n    3  \tthead {\n    4: \t\tfont-weight: bold;\n    5  \n    6  \t\tth {\n    7  \t\t\ttext-align: left;\n    8  \t\t\tborder-bottom: 4px solid #888;\n    9: \t\t\tfont-weight: bold;\n   10  \t\t\tpadding: 12px;\n   11  \t\t\tvertical-align: middle;\n\n/Users/kotia/Documents/GitHub/website/_sass/uno.scss:\n    1: @import 'https://fonts.googleapis.com/css?family=Raleway:400,700|Roboto+Slab:300,400)';\n    2  /* http://meyerweb.com/eric/tools/css/reset/\n    3  \t v2.0 | 20110126\n    .\n    9  \tpadding: 0;\n   10  \tborder: 0;\n   11: \tfont-size: 100%;\n   12: \tfont: inherit;\n   13  \tvertical-align: baseline; }\n   14  \n   ..\n   49  /*\n   50   * Foundation Icons v 3.0\n   51:  * Made by ZURB 2013 http://zurb.com/playground/foundation-icon-fonts-3\n   52   * MIT License\n   53   */\n   54: @font-face {\n   55: \tfont-family: \"SF-Pro-Text-Regular\";\n   56: \tsrc: url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf\");\n   57: \tsrc: url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf?\") format(\"embedded-opentype\"), url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf\") format(.otf\"), url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf\") format(\"truetype\"), url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf\") format(.otf\");\n   58: \tfont-weight: normal;\n   59: \tfont-style: normal; }\n   60  .icon:before {\n   61: \tfont-family: \"SF-Pro-Text-Regular\";\n   62: \tfont-style: normal;\n   63: \tfont-weight: normal;\n   64: \tfont-variant: normal;\n   65  \ttext-transform: none;\n   66  \tline-height: 1;\n   67: \t-webkit-font-smoothing: antialiased;\n   68  \tdisplay: inline-block;\n   69  \ttext-decoration: inherit; }\n   ..\n  926  \n  927  body {\n  928: \tfont-family: \"SF-Pro-Text-Regular\", sans-serif;\n  929: \tfont-size: 1em;\n  930  \tcolor: #1C1A1A; }\n  931  \n  ...\n  954  \tmargin-top: .8em;\n  955  \tmargin-bottom: .4em;\n  956: \tfont-family: \"SF-Pro-Text-Regular\", serif;\n  957: \tfont-weight: lighter;\n  958  \tcolor: #333333;\n  959: \t-webkit-font-smoothing: antialiased; }\n  960  \n  961  h1 {\n  962  \tmargin-top: 0;\n  963: \tfont-size: 3.2em;\n  964  \tline-height: 1.2em;\n  965  \tletter-spacing: .05em; }\n  966  \n  967  h2 {\n  968: \tfont-size: 2.2em; }\n  969  \n  970  h3 {\n  971: \tfont-size: 1.8em; }\n  972  \n  973  h4 {\n  974: \tfont-size: 1.4em; }\n  975  \n  976  h4 {\n  977: \tfont-size: 1.2em; }\n  978  \n  979  h5 {\n  980: \tfont-size: 1em; }\n  981  \n  982  p {\n  ...\n  985  \n  986  strong {\n  987: \tfont-weight: bold; }\n  988  \n  989  em {\n  990: \tfont-style: italic; }\n  991  \n  992  blockquote {\n  ...\n  996  \tborder: 1px solid #eeeeee;\n  997  \tborder-radius: 3px;\n  998: \tfont-family: \"SF-Pro-Text-Regular\", serif;\n  999: \tfont-weight: lighter;\n 1000: \tfont-style: italic;\n 1001: \tfont-size: 1.3em;\n 1002  \ttext-align: center; }\n 1003  \tblockquote p:last-child {\n ....\n 1023  \tborder: 1px solid #c9e1f6;\n 1024  \tborder-radius: 3px;\n 1025: \tfont-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;\n 1026: \tfont-size: .85em; }\n 1027  \n 1028  pre {\n ....\n 1032  \tborder: 1px solid #c9e1f6; */\n 1033  \tborder-radius: 3px;\n 1034: \tfont-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;\n 1035: \tfont-size: .9em;\n 1036: \tfont-weight: normal;\n 1037  \tline-height: 1.3em; }\n 1038  \tpre code {\n ....\n 1045  .author,\n 1046  .tags {\n 1047: \tfont-size: .8em;\n 1048  \tcolor: #c7c7c7; }\n 1049  \t.date a,\n ....\n 1060  .excerpt {\n 1061  \tmargin: 0;\n 1062: \tfont-size: .9em;\n 1063  \tcolor: #999999; }\n 1064  \n 1065  .intro {\n 1066: \tfont-family: \"SF-Pro-Text-Regular\", serif;\n 1067: \tfont-size: 1.2em;\n 1068: \tfont-weight: lighter;\n 1069  \tcolor: #999999; }\n 1070  \n ....\n 1076  \tposition: relative;\n 1077  \tbottom: -15px;\n 1078: \tfont-size: .8em;\n 1079: \tfont-weight: bold;\n 1080  \ttext-align: center;\n 1081  \ttext-transform: uppercase;\n ....\n 1111  \tpadding: 2em 0 0 0;\n 1112  \tborder-top: 2px solid #dddddd;\n 1113: \tfont-size: .7em;\n 1114  \tcolor: #b3b3b3; }\n 1115  \n ....\n 1179  \n 1180  .error-code {\n 1181: \tfont-size: 6em; }\n 1182  \n 1183  .panel {\n ....\n 1192  .panel-title {\n 1193  \tmargin: 0 0 5px 0;\n 1194: \tfont-size: 2.5em;\n 1195  \tletter-spacing: 4px;\n 1196  \tcolor: #FFF; }\n 1197  \n 1198  .panel-subtitle {\n 1199: \tfont-family: \"SF-Pro-Text-Regular\", serif;\n 1200: \tfont-size: 1.2em;\n 1201: \tfont-weight: lighter;\n 1202  \tletter-spacing: 3px;\n 1203  \tcolor: #cccccc;\n 1204: \t-webkit-font-smoothing: antialiased; }\n 1205  \n 1206  .panel-cover {\n ....\n 1271  \n 1272  .panel-inverted {\n 1273: \tfont-weight: 100;\n 1274  \ttext-align: center;\n 1275  \tcolor: #FFF;\n ....\n 1311  \tborder: 1px solid #e25440;\n 1312  \tborder-radius: 20px;\n 1313: \tfont-size: .9em;\n 1314: \tfont-weight: bold;\n 1315  \tletter-spacing: 1px;\n 1316  \ttext-shadow: none;\n 1317  \tcolor: #e25440;\n 1318: \t-webkit-font-smoothing: antialiased; }\n 1319  \t.btn:hover, .navigation__item a:hover {\n 1320  \t\tcolor: #b9301c;\n ....\n 1337  .btn-large {\n 1338  \tpadding: 10px 24px;\n 1339: \tfont-size: 1.1em; }\n 1340  \n 1341  .btn-small {\n 1342  \tpadding: 8px 12px;\n 1343: \tfont-size: .7em; }\n 1344  \n 1345  .btn-mobile-menu {\n ....\n 1360  \tposition: relative;\n 1361  \ttop: 3px;\n 1362: \tfont-size: 36px;\n 1363  \tcolor: #FFF; }\n 1364  \n ....\n 1397  \t\t.navigation--social a .icon {\n 1398  \t\t\tdisplay: block;\n 1399: \t\t\tfont-size: 1.7em; }\n 1400  \n 1401  .pagination {\n ....\n 1405  .pagination__page-number {\n 1406  \tmargin: 0;\n 1407: \tfont-size: .8em;\n 1408  \tcolor: #999999; }\n 1409  \n ....\n 1415  \n 1416  i {\n 1417: \tfont-family: 'SF-Pro-Text-Regular';\n 1418: \tfont-weight: normal;\n 1419: \tfont-style: normal;\n 1420: \tfont-size: 18px; }\n 1421  \n 1422  .icon-social {\n 1423: \tfont-family: 'SF-Pro-Text-Regular';\n 1424: \tfont-size: 22px;\n 1425  \tdisplay: block;\n 1426  \tposition: relative; }\n ....\n 1439  \tmargin-top: 0;\n 1440  \tmargin-bottom: .2em;\n 1441: \tfont-size: 1.5em;\n 1442  \tline-height: 1.3em; }\n 1443  \t.post-list__post-title a {\n ....\n 1449  \tdisplay: block;\n 1450  \tmargin: .7em 0 0 0;\n 1451: \tfont-size: .9em;\n 1452  \tcolor: #c7c7c7; }\n 1453  \n ....\n 1485  \tborder: 1px solid #dddddd;\n 1486  \tborder-radius: 3px;\n 1487: \tfont-size: .9em;\n 1488  \tcolor: #666666; }\n 1489  \tinput[type=\"text\"]:focus,\n ....\n 1566  \n 1567  \t.panel-title {\n 1568: \t\tfont-size: 2em; }\n 1569  \n 1570  \t.panel-subtitle {\n 1571: \t\tfont-size: 1em; }\n 1572  \n 1573  \t.panel-cover__description {\n 1574  \t\tmargin: 0 10px;\n 1575: \t\tfont-size: .9em; }\n 1576  \n 1577  \t.navigation--social {\n ....\n 1673  \t.panel-title {\n 1674  \t\tmargin-bottom: .1em;\n 1675: \t\tfont-size: 1.5em; }\n 1676  \n 1677  \t.panel-subtitle {\n 1678: \t\tfont-size: .9em; }\n 1679  \n 1680  \t.btn, .navigation__item a {\n\n/Users/kotia/Documents/GitHub/website/_posts/2018-06-13-research.markdown:\n    6  \n    7  ### Working Projects\n    8: - <a href=\"\" style=\"color:#e25440;font-weight: bold;\">How Much do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation</a>\n    9  <br/>\n   10  <br/>\n   11: - <a href=\"\" style=\"color:#e25440;font-weight: bold;\">Trade Liberalization and Misallocation</a>\n   12      * Funding: IGC ($23,000)\n   13  <br/>\n   14  <br/>\n   15: - <a href=\"\" style=\"color:#e25440;font-weight: bold;\">Aggregate Impacts of Command-and-Control Environmental Policy: Evidence from Court-Ordered Mining Bans in India</a>\n   16      * with Utkarsh Saxena and Henry Zhang (MIT)\n   17      * Funding: PEDL ($33,000)\n   18  <br/>\n   19  <br/>\n   20: - <a href=\"\" style=\"color:#e25440;font-weight: bold;\">Labor Market Frictions, the Organization of Labor, and Structural Change </a>\n   21      * with Chinmay Lohani (UPenn)\n   22      * Funding: STEG ($18,000)\n   ..\n   26  <!-- \n   27  ### Publications\n   28: - forth, <a href=\"{{site.baseurl}}/files/aeri_NN/aeri_NN.pdf\" style=\"color:#e25440;font-weight: bold;\">Using TITLE</a>, ***JOURNAL***&nbsp;&nbsp;&nbsp;&#10098;[git](https://github.com/thomas9t/spatial-econ-cnn)&#10099;\n   29      * AUTHORS\n   30  <br/>\n   31  <br/>\n   32: - 2022, <a href=\"{{site.baseurl}}/files/are_EITR/tradewar_1203.pdf\" style=\"color:#e25440;font-weight: bold;\">TITLE</a>, ***JOURNAL***\n   33      - AUTHOR\n   34    * [Economist](https://www.economist.com/finance-and-economics/2022/01/01/new-research-counts-the-costs-of-the-sino-american-trade-war) \n\n/Users/kotia/Documents/GitHub/website/css/main.scss:\n   34    color: #e25440;\n   35    display: inline-block;\n   36:   font-size: 12px;\n   37    margin: 5px 0;\n   38    padding: 5px 10px;\n   ..\n   42  \n   43  .post-meta__tags {\n   44:   font-size: 12px;\n   45    padding: 0 5px;\n   46  }\n   ..\n   66    background: red;\n   67    color: #fff;\n   68:   font-size: 500%;\n   69  }\n   70  \n   ..\n   77    color: #000; \n   78    float: left; \n   79:   font-size: 1.5em; \n   80:   font-weight: bold; \n   81    margin: -5px 10px 0 0; \n   82    padding: 0; \n\n/Users/kotia/Documents/GitHub/website/_includes/header.html:\n   41              {% if site.author.email %}\n   42                <!-- Email -->\n   43:               <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css\">\n   44                <li class=\"navigation__item\">\n   45                  <a href=\"mailto:{{ site.author.email }}\" title=\"Email {{ site.author.email }}\" target=\"_blank\">\n   ..\n   60                </li>\n   61                \n   62:               <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css\">\n   63                <li class=\"navigation__item\">\n   64                  <a href=\"https://akhandelwal.smugmug.com/Landscapes/\" title=\"SmugMug\" target=\"_blank\">\n\n96 matches across 6 files\n\n\nSearching 74 files for \"SF-Pro\" (regex)\n\n/Users/kotia/Documents/GitHub/website/_sass/uno.scss:\n   53   */\n   54  @font-face {\n   55: \tfont-family: \"SF-Pro-Text-Regular\";\n   56: \tsrc: url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf\");\n   57: \tsrc: url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf?\") format(\"embedded-opentype\"), url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf\") format(.otf\"), url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf\") format(\"truetype\"), url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf\") format(.otf\");\n   58  \tfont-weight: normal;\n   59  \tfont-style: normal; }\n   60  .icon:before {\n   61: \tfont-family: \"SF-Pro-Text-Regular\";\n   62  \tfont-style: normal;\n   63  \tfont-weight: normal;\n   ..\n  926  \n  927  body {\n  928: \tfont-family: \"SF-Pro-Text-Regular\", sans-serif;\n  929  \tfont-size: 1em;\n  930  \tcolor: #1C1A1A; }\n  ...\n  954  \tmargin-top: .8em;\n  955  \tmargin-bottom: .4em;\n  956: \tfont-family: \"SF-Pro-Text-Regular\", serif;\n  957  \tfont-weight: lighter;\n  958  \tcolor: #333333;\n  ...\n  996  \tborder: 1px solid #eeeeee;\n  997  \tborder-radius: 3px;\n  998: \tfont-family: \"SF-Pro-Text-Regular\", serif;\n  999  \tfont-weight: lighter;\n 1000  \tfont-style: italic;\n ....\n 1064  \n 1065  .intro {\n 1066: \tfont-family: \"SF-Pro-Text-Regular\", serif;\n 1067  \tfont-size: 1.2em;\n 1068  \tfont-weight: lighter;\n ....\n 1197  \n 1198  .panel-subtitle {\n 1199: \tfont-family: \"SF-Pro-Text-Regular\", serif;\n 1200  \tfont-size: 1.2em;\n 1201  \tfont-weight: lighter;\n ....\n 1415  \n 1416  i {\n 1417: \tfont-family: 'SF-Pro-Text-Regular';\n 1418  \tfont-weight: normal;\n 1419  \tfont-style: normal;\n ....\n 1421  \n 1422  .icon-social {\n 1423: \tfont-family: 'SF-Pro-Text-Regular';\n 1424  \tfont-size: 22px;\n 1425  \tdisplay: block;\n\n19 matches in 1 file\n\n\nSearching 74 files for \"working proj\" (regex)\n\n/Users/kotia/Documents/GitHub/website/_posts/2018-06-13-research.markdown:\n    5  ---\n    6  \n    7: ### Working Projects\n    8  - <a href=\"\" style=\"color:#e25440;font-weight: bold;\">How Much do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation</a>\n    9  <br/>\n\n1 match in 1 file\n\n\nSearching 75 files for \"SF-Pro\"\n\n/Users/kotia/Documents/GitHub/website/_sass/uno.scss:\n   54  @font-face {\n   55  \tfont-family: \"SF Pro\";\n   56: \tsrc: url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf\");\n   57: \tsrc: url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf?\") format(\"embedded-opentype\"), url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf\") format(\"opentype\"), url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf\") format(\"opentype\"), url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf\") format(\"opentype\");\n   58  \tfont-weight: normal;\n   59  \tfont-style: normal; }\n\n10 matches in 1 file\n\n\nSearching 75 files for \"black\"\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Thin.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-SemiboldItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-UltralightItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Heavy.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-RegularItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Light.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Semibold.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Regular.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-MediumItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Bold.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Regular.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Medium.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Heavy.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Light.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Black.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Semibold.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-BlackItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Black.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Light.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Regular.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Ultralight.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Bold.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Thin.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-MediumItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-HeavyItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Ultralight.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-UltralightItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-LightItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Thin.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-ThinItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-BlackItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-Black.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Medium.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-BoldItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-RegularItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Semibold.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-HeavyItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-ThinItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-LightItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Ultralight.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-Medium.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Heavy.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Display-BoldItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Rounded-Bold.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/fonts/SF-Pro/SF-Pro-Text-SemiboldItalic.otf:\n    <binary>\n\n/Users/kotia/Documents/GitHub/website/_includes/head.html:\n   18    <meta name=\"MobileOptimized\" content=\"320\">\n   19    <meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n   20:   <meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black-translucent\">\n   21    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\">\n   22  \n\n389 matches across 46 files\n\n\nSearching 75 files for \"other-writing\"\n\n/Users/kotia/Documents/GitHub/website/_includes/header.html:\n   30              </ul>\n   31              <ul class=\"navigation\">\n   32:               <li class=\"navigation__item\"><a href=\"{{ site.baseurl }}/other-writing\" title=\"other-writing\" class=\"blog-button\">other writing</a></li>\n   33              </ul>\n   34            </nav>\n\n2 matches in 1 file\n",
 			"settings":
 			{
-				"buffer_size": 2478,
+				"buffer_size": 26058,
 				"line_ending": "Unix",
 				"name": "Find Results",
 				"scratch": true
+			}
+		},
+		{
+			"file": "_includes/header.html",
+			"settings":
+			{
+				"buffer_size": 2956,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
+				[
+					8,
+					1,
+					"paste",
+					null,
+					"AQAAAGQDAAAAAAAAgwMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABkAwAAAAAAAGQDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "\t\t\t\t"
+					},
+					"BAAAAGQDAAAAAAAAZgMAAAAAAAAAAAAAZgMAAAAAAABoAwAAAAAAAAAAAABoAwAAAAAAAGoDAAAAAAAAAAAAAGoDAAAAAAAAbAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABkAwAAAAAAAGQDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					5,
+					"left_delete",
+					null,
+					"BQAAAGwDAAAAAAAAbAMAAAAAAAAfAAAAZGl2LmEgewogIHRleHQtYWxpZ246IGNlbnRlcjsKfWoDAAAAAAAAagMAAAAAAAACAAAAICBoAwAAAAAAAGgDAAAAAAAAAgAAACAgZgMAAAAAAABmAwAAAAAAAAIAAAAgIGQDAAAAAAAAZAMAAAAAAAACAAAAICA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABsAwAAAAAAAIsDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					16,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGMDAAAAAAAAYwMAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABkAwAAAAAAAGQDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAGMDAAAAAAAAZAMAAAAAAAAAAAAAZAMAAAAAAABsAwAAAAAAAAAAAABsAwAAAAAAAG4DAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABjAwAAAAAAAGMDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAOkFAAAAAAAA6gUAAAAAAAAAAAAA6gUAAAAAAAD2BQAAAAAAAAAAAABkAwAAAAAAAGQDAAAAAAAACgAAACAgICAgICAgICA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADpBQAAAAAAAOkFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					21,
+					1,
+					"paste",
+					null,
+					"AQAAAOwFAAAAAAAA8AUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADsBQAAAAAAAOwFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAO8FAAAAAAAA8AUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADvBQAAAAAAAO8FAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAN8FAAAAAAAA4AUAAAAAAAAAAAAA4AUAAAAAAADsBQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADfBQAAAAAAAN8FAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAAsGAAAAAAAADAYAAAAAAAAAAAAADAYAAAAAAAAYBgAAAAAAAAAAAADgBQAAAAAAAOAFAAAAAAAADAAAACAgICAgICAgICAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAALBgAAAAAAAAsGAAAAAAAAAAAAAAAAXkA"
+				],
+				[
+					67,
+					1,
+					"cut",
+					null,
+					"AQAAAOEFAAAAAAAA4QUAAAAAAAASAAAAICAgICAgICAgICAgPGJyLz4K",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADhBQAAAAAAAPMFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					68,
+					2,
+					"left_delete",
+					null,
+					"AgAAAOAFAAAAAAAA4AUAAAAAAAABAAAACt8FAAAAAAAA3wUAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADhBQAAAAAAAOEFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					71,
+					1,
+					"paste",
+					null,
+					"AQAAACIFAAAAAAAANAUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAiBQAAAAAAACIFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					74,
+					1,
+					"right_delete",
+					null,
+					"AQAAAFgJAAAAAAAAWAkAAAAAAADCAwAAICAgICAgICAgICAgICAgPCEtLSBUd2l0dGVyIAogICAgICAgICAgICAgIAogICAgICAgICAgICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jZG4ucmF3Z2l0LmNvbS9qcHN3YWxzaC9hY2FkZW1pY29ucy9tYXN0ZXIvY3NzL2FjYWRlbWljb25zLm1pbi5jc3MiPgogICAgICAgICAgICAgIDxsaSBjbGFzcz0ibmF2aWdhdGlvbl9faXRlbSI+CiAgICAgICAgICAgICAgICA8YSBocmVmPSJodHRwczovL3NjaG9sYXIuZ29vZ2xlLmNvbS9jaXRhdGlvbnM/dXNlcj1zWW9WRFRrQUFBQUomaGw9ZW4iIHRpdGxlPSJHb29nbGUgU2Nob2xhciIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iYWkgYWktZ29vZ2xlLXNjaG9sYXItc3F1YXJlIGFpLTJ4IiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9pPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ibGFiZWwiPnNjaG9sYXI8L3NwYW4+CiAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAKICAgICAgICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vbWF4Y2RuLmJvb3RzdHJhcGNkbi5jb20vZm9udC1hd2Vzb21lLzQuNC4wL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzcyI+CiAgICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXZpZ2F0aW9uX19pdGVtIj4KICAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vYWtoYW5kZWx3YWwuc211Z211Zy5jb20vTGFuZHNjYXBlcy8iIHRpdGxlPSJTbXVnTXVnIiB0YXJnZXQ9Il9ibGFuayI+CiAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1jYW1lcmEgZmEtMngiPjwvaT4KICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImxhYmVsIj5waG90b3M8L3NwYW4+CiAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAtLT4",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAaDQAAAAAAAFgJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					79,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFcJAAAAAAAAVwkAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABYCQAAAAAAAFgJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					81,
+					1,
+					"left_delete",
+					null,
+					"AQAAAD4JAAAAAAAAPgkAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/CQAAAAAAAD8JAAAAAAAAAAAAAADAbEA"
+				]
+			]
+		},
+		{
+			"file": "_posts/2018-06-13-research.markdown",
+			"redo_stack":
+			[
+				[
+					419,
+					1,
+					"right_delete",
+					null,
+					"AQAAAE0AAAAAAAAATgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABNAAAAAAAAAE0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					417,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPcAAAAAAAAA+AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD3AAAAAAAAAPcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					414,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AQAAAFsBAAAAAAAAWwEAAAAAAAABAAAALQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABcAQAAAAAAAFwBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					413,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFsBAAAAAAAAXAEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABbAQAAAAAAAFsBAAAAAAAAAAAAAAAA8L8"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 1610,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					12,
+					1,
+					"paste",
+					null,
+					"AQAAADsDAAAAAAAARQMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA7AwAAAAAAADsDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEUDAAAAAAAARgMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABFAwAAAAAAAEUDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					1,
+					"paste",
+					null,
+					"AQAAAEQDAAAAAAAAWQMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAwAAAAAAAEQDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					25,
+					1,
+					"paste",
+					null,
+					"AQAAAFsDAAAAAAAAhAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABbAwAAAAAAAFsDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIQDAAAAAAAAhQMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACEAwAAAAAAAIQDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					1,
+					"paste",
+					null,
+					"AQAAAJMDAAAAAAAAlwMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACTAwAAAAAAAJMDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "regular"
+					},
+					"CAAAAH0DAAAAAAAAfgMAAAAAAAAAAAAAfgMAAAAAAAB+AwAAAAAAAAQAAABib2xkfgMAAAAAAAB/AwAAAAAAAAAAAAB/AwAAAAAAAIADAAAAAAAAAAAAAIADAAAAAAAAgQMAAAAAAAAAAAAAgQMAAAAAAACCAwAAAAAAAAAAAACCAwAAAAAAAIMDAAAAAAAAAAAAAIMDAAAAAAAAhAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB9AwAAAAAAAIEDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					40,
+					1,
+					"cut",
+					null,
+					"AQAAAI0DAAAAAAAAjQMAAAAAAAAJAAAAKCQxOCwwMDAp",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACNAwAAAAAAAJYDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAJEDAAAAAAAAkgMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACRAwAAAAAAAJEDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					44,
+					1,
+					"paste",
+					null,
+					"AQAAAJIDAAAAAAAAmwMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACSAwAAAAAAAJIDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					50,
+					1,
+					"paste",
+					null,
+					"AQAAADIDAAAAAAAANAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAyAwAAAAAAADIDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADQDAAAAAAAANQMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA0AwAAAAAAADQDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					61,
+					1,
+					"paste",
+					null,
+					"AQAAADUDAAAAAAAASQMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA1AwAAAAAAADUDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEkDAAAAAAAASgMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABJAwAAAAAAAEkDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					67,
+					1,
+					"paste",
+					null,
+					"AQAAALMDAAAAAAAAuAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACzAwAAAAAAALMDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "\""
+					},
+					"AQAAAEkDAAAAAAAASgMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABJAwAAAAAAAEkDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": ">"
+					},
+					"AQAAAEoDAAAAAAAASwMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABKAwAAAAAAAEoDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					78,
+					1,
+					"paste",
+					null,
+					"AgAAAEMDAAAAAAAASgMAAAAAAAAAAAAASgMAAAAAAABKAwAAAAAAAAYAAABlMjU0NDA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAwAAAAAAAEkDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					81,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEMDAAAAAAAAQwMAAAAAAAABAAAAIw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAwAAAAAAAEQDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					84,
+					1,
+					"cut",
+					null,
+					"AQAAADIDAAAAAAAAMgMAAAAAAAAZAAAAPGEgc3R5bGU9ImNvbG9yOiNBOUE5QTkiPg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAyAwAAAAAAAEsDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					87,
+					1,
+					"paste",
+					null,
+					"AQAAABADAAAAAAAAKQMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAQAwAAAAAAABADAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					90,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEsDAAAAAAAASwMAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABMAwAAAAAAAEwDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					97,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACkDAAAAAAAAKgMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAApAwAAAAAAACkDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					109,
+					1,
+					"paste",
+					null,
+					"AgAAACEDAAAAAAAAKAMAAAAAAAAAAAAAKAMAAAAAAAAoAwAAAAAAAAYAAABBOUE5QTk",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAhAwAAAAAAACcDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					112,
+					1,
+					"left_delete",
+					null,
+					"AQAAACEDAAAAAAAAIQMAAAAAAAABAAAAIw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAiAwAAAAAAACIDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					118,
+					1,
+					"paste",
+					null,
+					"AQAAAEUDAAAAAAAASQMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABFAwAAAAAAAEUDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					121,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEUDAAAAAAAARgMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABFAwAAAAAAAEUDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					127,
+					1,
+					"paste",
+					null,
+					"AQAAAFEDAAAAAAAAawMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABRAwAAAAAAAFEDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					128,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAGsDAAAAAAAAbAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABrAwAAAAAAAGsDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					140,
+					1,
+					"cut",
+					null,
+					"AQAAAMcDAAAAAAAAxwMAAAAAAAAEAAAAPC9hPg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADHAwAAAAAAAMsDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					144,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAANEDAAAAAAAA0gMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADRAwAAAAAAANEDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					156,
+					1,
+					"paste",
+					null,
+					"AQAAAMcDAAAAAAAAywMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADHAwAAAAAAAMcDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					165,
+					1,
+					"paste",
+					null,
+					"AQAAAMwDAAAAAAAA5QMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADMAwAAAAAAAMwDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					166,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAOUDAAAAAAAA5gMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADlAwAAAAAAAOUDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					177,
+					1,
+					"paste",
+					null,
+					"AQAAAHUDAAAAAAAAegMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB1AwAAAAAAAHUDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					178,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAHoDAAAAAAAAewMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB6AwAAAAAAAHoDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					183,
+					1,
+					"insert",
+					{
+						"characters": "005D"
+					},
+					"BQAAAOMDAAAAAAAA5AMAAAAAAAAAAAAA5AMAAAAAAADkAwAAAAAAAAYAAAA5MDkwOTDkAwAAAAAAAOUDAAAAAAAAAAAAAOUDAAAAAAAA5gMAAAAAAAAAAAAA5gMAAAAAAADnAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADjAwAAAAAAAOkDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					184,
+					1,
+					"insert",
+					{
+						"characters": "68"
+					},
+					"AgAAAOcDAAAAAAAA6AMAAAAAAAAAAAAA6AMAAAAAAADpAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADnAwAAAAAAAOcDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					204,
+					1,
+					"paste",
+					null,
+					"AgAAAKkDAAAAAAAArwMAAAAAAAAAAAAArwMAAAAAAACvAwAAAAAAAAYAAABlMjU0NDA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACpAwAAAAAAAK8DAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					218,
+					1,
+					"paste",
+					null,
+					"AgAAAOMDAAAAAAAA6QMAAAAAAAAAAAAA6QMAAAAAAADpAwAAAAAAAAYAAAAwMDVENjg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADjAwAAAAAAAOkDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					223,
+					1,
+					"insert",
+					{
+						"characters": "DE"
+					},
+					"AwAAAKECAAAAAAAAogIAAAAAAAAAAAAAogIAAAAAAACiAgAAAAAAAAYAAABlMjU0NDCiAgAAAAAAAKMCAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAChAgAAAAAAAKcCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					224,
+					1,
+					"insert",
+					{
+						"characters": "5134"
+					},
+					"BAAAAKMCAAAAAAAApAIAAAAAAAAAAAAApAIAAAAAAAClAgAAAAAAAAAAAAClAgAAAAAAAKYCAAAAAAAAAAAAAKYCAAAAAAAApwIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACjAgAAAAAAAKMCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					241,
+					1,
+					"paste",
+					null,
+					"AgAAAKECAAAAAAAApwIAAAAAAAAAAAAApwIAAAAAAACnAgAAAAAAAAYAAABERTUxMzQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAChAgAAAAAAAKcCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					244,
+					2,
+					"left_delete",
+					null,
+					"AgAAAHUDAAAAAAAAdQMAAAAAAABSAAAAPC9hPiAgPGEgaHJlZj0iaHR0cHM6Ly9zdGVnLmNlcHIub3JnIiBzdHlsZT0iY29sb3I6IzAwNUQ2ODtmb250LXdlaWdodDogcmVndWxhcjsiPnQDAAAAAAAAdAMAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB1AwAAAAAAAMcDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					248,
+					2,
+					"left_delete",
+					null,
+					"AgAAAHoDAAAAAAAAegMAAAAAAAAeAAAAPC9hPiA8YSBzdHlsZT0iY29sb3I6IzkwOTA5MCI+eQMAAAAAAAB5AwAAAAAAAAEAAAAg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB6AwAAAAAAAJgDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					250,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGsDAAAAAAAAawMAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABsAwAAAAAAAGwDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					262,
+					1,
+					"insert",
+					{
+						"characters": "600"
+					},
+					"BAAAALUCAAAAAAAAtgIAAAAAAAAAAAAAtgIAAAAAAAC2AgAAAAAAAAQAAABib2xktgIAAAAAAAC3AgAAAAAAAAAAAAC3AgAAAAAAALgCAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC1AgAAAAAAALkCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					276,
+					1,
+					"paste",
+					null,
+					"AwAAAGICAAAAAAAAewIAAAAAAAAAAAAAMgIAAAAAAABLAgAAAAAAAAAAAABfAQAAAAAAAHgBAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAMAAABfAQAAAAAAAF8BAAAAAAAAAAAAAAAA8L8yAgAAAAAAADICAAAAAAAAAAAAAAAA8L9iAgAAAAAAAGICAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					277,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AwAAAK0CAAAAAAAArgIAAAAAAAAAAAAAZAIAAAAAAABlAgAAAAAAAAAAAAB4AQAAAAAAAHkBAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAMAAAB4AQAAAAAAAHgBAAAAAAAAAAAAAAAA8L9kAgAAAAAAAGQCAAAAAAAAAAAAAAAA8L+tAgAAAAAAAK0CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					287,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AwAAAMcCAAAAAAAAyAIAAAAAAAAAAAAAjwIAAAAAAACQAgAAAAAAAAAAAACPAQAAAAAAAJABAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAMAAACPAQAAAAAAAI8BAAAAAAAAAAAAAAAA8L+PAgAAAAAAAI8CAAAAAAAAAAAAAAAA8L/HAgAAAAAAAMcCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					288,
+					1,
+					"paste",
+					null,
+					"AwAAAMoCAAAAAAAAzwIAAAAAAAAAAAAAkQIAAAAAAACWAgAAAAAAAAAAAACQAQAAAAAAAJUBAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAMAAACQAQAAAAAAAJABAAAAAAAAAAAAAAAA8L+RAgAAAAAAAJECAAAAAAAAAAAAAAAA8L/KAgAAAAAAAMoCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					305,
+					1,
+					"paste",
+					null,
+					"CAAAAAEDAAAAAAAACAMAAAAAAAAAAAAACAMAAAAAAAAIAwAAAAAAAAYAAAAwMDVENji9AQAAAAAAAMQBAAAAAAAAAAAAAMQBAAAAAAAAxAEAAAAAAAAGAAAAZTI1NDQwEwEAAAAAAAAaAQAAAAAAAAAAAAAaAQAAAAAAABoBAAAAAAAABgAAAGUyNTQ0MGgAAAAAAAAAbwAAAAAAAAAAAAAAbwAAAAAAAABvAAAAAAAAAAYAAABlMjU0NDA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAQAAABoAAAAAAAAAG4AAAAAAAAAAAAAAAAA8L8TAQAAAAAAABkBAAAAAAAAAAAAAAAA8L+9AQAAAAAAAMMBAAAAAAAAAAAAAAAA8L8BAwAAAAAAAAcDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					307,
+					1,
+					"left_delete",
+					null,
+					"BAAAAAQDAAAAAAAABAMAAAAAAAABAAAAI78BAAAAAAAAvwEAAAAAAAABAAAAIxQBAAAAAAAAFAEAAAAAAAABAAAAI2gAAAAAAAAAaAAAAAAAAAABAAAAIw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAQAAABpAAAAAAAAAGkAAAAAAAAAAAAAAAAA8L8VAQAAAAAAABUBAAAAAAAAAAAAAAAA8L/AAQAAAAAAAMABAAAAAAAAAAAAAAAA8L8FAwAAAAAAAAUDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					343,
+					1,
+					"paste",
+					null,
+					"CAAAAAEDAAAAAAAABwMAAAAAAAAAAAAABwMAAAAAAAAHAwAAAAAAAAYAAAAyQzdFNUG9AQAAAAAAAMMBAAAAAAAAAAAAAMMBAAAAAAAAwwEAAAAAAAAGAAAAMkM3RTVBEwEAAAAAAAAZAQAAAAAAAAAAAAAZAQAAAAAAABkBAAAAAAAABgAAADJDN0U1QWgAAAAAAAAAbgAAAAAAAAAAAAAAbgAAAAAAAABuAAAAAAAAAAYAAAAyQzdFNUE",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAQAAABoAAAAAAAAAG4AAAAAAAAAAAAAAAAA8L8TAQAAAAAAABkBAAAAAAAAAAAAAAAA8L+9AQAAAAAAAMMBAAAAAAAAAAAAAAAA8L8BAwAAAAAAAAcDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					360,
+					1,
+					"insert",
+					{
+						"characters": "500"
+					},
+					"EAAAABUDAAAAAAAAFgMAAAAAAAAAAAAAFgMAAAAAAAAWAwAAAAAAAAMAAAA2MDDRAQAAAAAAANIBAAAAAAAAAAAAANIBAAAAAAAA0gEAAAAAAAAEAAAAYm9sZCcBAAAAAAAAKAEAAAAAAAAAAAAAKAEAAAAAAAAoAQAAAAAAAAQAAABib2xkfAAAAAAAAAB9AAAAAAAAAAAAAAB9AAAAAAAAAH0AAAAAAAAABAAAAGJvbGQNAwAAAAAAAA4DAAAAAAAAAAAAAMwBAAAAAAAAzQEAAAAAAAAAAAAAJQEAAAAAAAAmAQAAAAAAAAAAAAB9AAAAAAAAAH4AAAAAAAAAAAAAABEDAAAAAAAAEgMAAAAAAAAAAAAAzwEAAAAAAADQAQAAAAAAAAAAAAAnAQAAAAAAACgBAAAAAAAAAAAAAH4AAAAAAAAAfwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAQAAAB8AAAAAAAAAIAAAAAAAAAAAAAAAAAA8L8nAQAAAAAAACsBAAAAAAAAAAAAAAAA8L/RAQAAAAAAANUBAAAAAAAAAAAAAAAA8L8VAwAAAAAAABgDAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "_posts/2018-06-13-other-writing.markdown",
+			"settings":
+			{
+				"buffer_size": 3327,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "Policy"
+					},
+					"BwAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA9AAAAAAAAABAAAABXb3JraW5nIFByb2plY3RzPQAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD8AAAAAAAAAAAAAAD8AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABBAAAAAAAAAAAAAABBAAAAAAAAAEIAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA8AAAAAAAAAEwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"paste",
+					null,
+					"AgAAAHkAAAAAAAAAowAAAAAAAAAAAAAAowAAAAAAAACjAAAAAAAAAGQAAABIb3cgTXVjaCBkbyBGaXJtcyBTYXZlPyBGaW5hbmNpYWwgRnJpY3Rpb25zIGFuZCB0aGUgTWljcm9lY29ub21pYyBJbXBsaWNhdGlvbnMgb2YgdGhlIEV1bGVyIEVxdWF0aW9u",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB5AAAAAAAAAN0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					17,
+					1,
+					"paste",
+					null,
+					"AQAAAE4AAAAAAAAApwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABOAAAAAAAAAE4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAABAAAAAAAAAQEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					28,
+					1,
+					"paste",
+					null,
+					"AQAAAAEBAAAAAAAAIwEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAQAAAAAAAAEBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					31,
+					1,
+					"left_delete",
+					null,
+					"AQAAACIBAAAAAAAAIgEAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAjAQAAAAAAACMBAAAAAAAAAAAAAACgdEA"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "Rathin"
+					},
+					"BwAAAAwBAAAAAAAADQEAAAAAAAAAAAAADQEAAAAAAAANAQAAAAAAABYAAABDaGlubWF5IExvaGFuaSAoVVBlbm4pDQEAAAAAAAAOAQAAAAAAAAAAAAAOAQAAAAAAAA8BAAAAAAAAAAAAAA8BAAAAAAAAEAEAAAAAAAAAAAAAEAEAAAAAAAARAQAAAAAAAAAAAAARAQAAAAAAABIBAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAMAQAAAAAAACIBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": " Roy"
+					},
+					"BAAAABIBAAAAAAAAEwEAAAAAAAAAAAAAEwEAAAAAAAAUAQAAAAAAAAAAAAAUAQAAAAAAABUBAAAAAAAAAAAAABUBAAAAAAAAFgEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAASAQAAAAAAABIBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					40,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOoAAAAAAAAA6gAAAAAAAAABAAAAXA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADrAAAAAAAAAOsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "2019,"
+					},
+					"BQAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABFAAAAAAAAAEUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEoAAAAAAAAASwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABKAAAAAAAAAEoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					49,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEgAAAAAAAAASAAAAAAAAAABAAAAOQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABJAAAAAAAAAEkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": "8"
+					},
+					"AQAAAEgAAAAAAAAASQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABIAAAAAAAAAEgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAAUBAAAAAAAABgEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAFAQAAAAAAAAUBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": " Economics"
+					},
+					"CgAAAAYBAAAAAAAABwEAAAAAAAAAAAAABwEAAAAAAAAIAQAAAAAAAAAAAAAIAQAAAAAAAAkBAAAAAAAAAAAAAAkBAAAAAAAACgEAAAAAAAAAAAAACgEAAAAAAAALAQAAAAAAAAAAAAALAQAAAAAAAAwBAAAAAAAAAAAAAAwBAAAAAAAADQEAAAAAAAAAAAAADQEAAAAAAAAOAQAAAAAAAAAAAAAOAQAAAAAAAA8BAAAAAAAAAAAAAA8BAAAAAAAAEAEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAGAQAAAAAAAAYBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": " and"
+					},
+					"BAAAABABAAAAAAAAEQEAAAAAAAAAAAAAEQEAAAAAAAASAQAAAAAAAAAAAAASAQAAAAAAABMBAAAAAAAAAAAAABMBAAAAAAAAFAEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAQAQAAAAAAABABAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": " Political"
+					},
+					"CgAAABQBAAAAAAAAFQEAAAAAAAAAAAAAFQEAAAAAAAAWAQAAAAAAAAAAAAAWAQAAAAAAABcBAAAAAAAAAAAAABcBAAAAAAAAGAEAAAAAAAAAAAAAGAEAAAAAAAAZAQAAAAAAAAAAAAAZAQAAAAAAABoBAAAAAAAAAAAAABoBAAAAAAAAGwEAAAAAAAAAAAAAGwEAAAAAAAAcAQAAAAAAAAAAAAAcAQAAAAAAAB0BAAAAAAAAAAAAAB0BAAAAAAAAHgEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAUAQAAAAAAABQBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": " Weekly"
+					},
+					"BwAAAB4BAAAAAAAAHwEAAAAAAAAAAAAAHwEAAAAAAAAgAQAAAAAAAAAAAAAgAQAAAAAAACEBAAAAAAAAAAAAACEBAAAAAAAAIgEAAAAAAAAAAAAAIgEAAAAAAAAjAQAAAAAAAAAAAAAjAQAAAAAAACQBAAAAAAAAAAAAACQBAAAAAAAAJQEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAeAQAAAAAAAB4BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAACUBAAAAAAAAJgEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAlAQAAAAAAACUBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					64,
+					1,
+					"paste",
+					null,
+					"AgAAAEkBAAAAAAAAAgUAAAAAAAAAAAAAAgUAAAAAAAACBQAAAAAAAF0CAAAtIDxhIGhyZWY9IiIgc3R5bGU9ImNvbG9yOiNlMjU0NDA7Zm9udC13ZWlnaHQ6IGJvbGQ7Ij5UcmFkZSBMaWJlcmFsaXphdGlvbiBhbmQgTWlzYWxsb2NhdGlvbjwvYT4KICAgICogRnVuZGluZzogSUdDICgkMjMsMDAwKQo8YnIvPgo8YnIvPgotIDxhIGhyZWY9IiIgc3R5bGU9ImNvbG9yOiNlMjU0NDA7Zm9udC13ZWlnaHQ6IGJvbGQ7Ij5BZ2dyZWdhdGUgSW1wYWN0cyBvZiBDb21tYW5kLWFuZC1Db250cm9sIEVudmlyb25tZW50YWwgUG9saWN5OiBFdmlkZW5jZSBmcm9tIENvdXJ0LU9yZGVyZWQgTWluaW5nIEJhbnMgaW4gSW5kaWE8L2E+CiAgICAqIHdpdGggVXRrYXJzaCBTYXhlbmEgYW5kIEhlbnJ5IFpoYW5nIChNSVQpCiAgICAqIEZ1bmRpbmc6IFBFREwgKCQzMywwMDApCjxici8+Cjxici8+Ci0gPGEgaHJlZj0iIiBzdHlsZT0iY29sb3I6I2UyNTQ0MDtmb250LXdlaWdodDogYm9sZDsiPkxhYm9yIE1hcmtldCBGcmljdGlvbnMsIHRoZSBPcmdhbml6YXRpb24gb2YgTGFib3IsIGFuZCBTdHJ1Y3R1cmFsIENoYW5nZSA8L2E+CiAgICAqIHdpdGggQ2hpbm1heSBMb2hhbmkgKFVQZW5uKQogICAgKiBGdW5kaW5nOiBTVEVHICgkMTgsMDAwKQo8YnIvPgo8YnIvPg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACmAwAAAAAAAEkBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					69,
+					1,
+					"cut",
+					null,
+					"AQAAAEMAAAAAAAAAQwAAAAAAAAAFAQAALSAyMDE4LCA8YSBocmVmPSJodHRwczovL3d3dy5lcHcuaW4vam91cm5hbC8yMDE4LzkvcGVyc3BlY3RpdmVzL3Nob3VsZC1zdGF0ZXMtdGFyZ2V0LTMtZmlzY2FsLWRlZmljaXQuaHRtbCIgc3R5bGU9ImNvbG9yOiNlMjU0NDA7Zm9udC13ZWlnaHQ6IGJvbGQ7Ij5TaG91bGQgU3RhdGVzIFRhcmdldCBhIDMlIEZpc2NhbCBEZWZpY2l0PzwvYT4sIEVjb25vbWljcyBhbmQgUG9saXRpY2FsIFdlZWtseS4KICAgICogd2l0aCBSYXRoaW4gUm95Cjxici8+Cjxici8+",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABIAQAAAAAAAEMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					70,
+					1,
+					"right_delete",
+					null,
+					"AQAAAEMAAAAAAAAAQwAAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAAAAAAAAAEMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABbAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABZAAAAAAAAAFkAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					74,
+					1,
+					"paste",
+					null,
+					"AQAAAFkAAAAAAAAAXgEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABZAAAAAAAAAFkAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					77,
+					1,
+					"insert",
+					{
+						"characters": "2018,"
+					},
+					"BQAAAGIBAAAAAAAAYwEAAAAAAAAAAAAAYwEAAAAAAABkAQAAAAAAAAAAAABkAQAAAAAAAGUBAAAAAAAAAAAAAGUBAAAAAAAAZgEAAAAAAAAAAAAAZgEAAAAAAABnAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABiAQAAAAAAAGIBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAGcBAAAAAAAAaAEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABnAQAAAAAAAGcBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					84,
+					1,
+					"paste",
+					null,
+					"AQAAAHEBAAAAAAAAygEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABxAQAAAAAAAHEBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					94,
+					1,
+					"paste",
+					null,
+					"AgAAAPQBAAAAAAAAQgIAAAAAAAAAAAAAQgIAAAAAAABCAgAAAAAAAGgAAABIb3cgTXVjaCBkbyBGaXJtcyBTYXZlPyBGaW5hbmNpYWwgRnJpY3Rpb25zIGFuZCB0aGUgTWljcm9lY29ub21pYyBJbXBsaWNhdGlvbnMgb2YgdGhlIEV1bGVyIEVxdWF0aW9uPC9hPg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD0AQAAAAAAAFwCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					97,
+					1,
+					"right_delete",
+					null,
+					"AQAAAFkAAAAAAAAAWQAAAAAAAAAGAQAALSAyMDE4LCA8YSBocmVmPSJodHRwczovL3d3dy5lcHcuaW4vam91cm5hbC8yMDE4LzkvcGVyc3BlY3RpdmVzL3Nob3VsZC1zdGF0ZXMtdGFyZ2V0LTMtZmlzY2FsLWRlZmljaXQuaHRtbCIgc3R5bGU9ImNvbG9yOiNlMjU0NDA7Zm9udC13ZWlnaHQ6IGJvbGQ7Ij5TaG91bGQgU3RhdGVzIFRhcmdldCBhIDMlIEZpc2NhbCBEZWZpY2l0PzwvYT4sIEVjb25vbWljcyBhbmQgUG9saXRpY2FsIFdlZWtseS4KICAgICogd2l0aCBSYXRoaW4gUm95Cjxici8+Cjxici8+Cg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABfAQAAAAAAAFkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					100,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEQAAAAAAAAARAAAAAAAAAAVAAAAIyMjIFdvcmtpbmcgUHJvamVjdHMKQwAAAAAAAABDAAAAAAAAAAEAAAAK",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAAAAAAAAAFkAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					118,
+					1,
+					"left_delete",
+					null,
+					"AQAAADMBAAAAAAAAMwEAAAAAAAD5AgAALSA8YSBocmVmPSIiIHN0eWxlPSJjb2xvcjojMmM3ZTVhO2ZvbnQtd2VpZ2h0OiA1MDA7Ij5UcmFkZSBMaWJlcmFsaXphdGlvbiBhbmQgTWlzYWxsb2NhdGlvbjwvYT4KICAgICogPGEgc3R5bGU9ImNvbG9yOiM5MDkwOTAiPiBGdW5kaW5nOiBJR0MgKCQyMywwMDApIDwvYT4gCjxici8+Cjxici8+Ci0gPGEgaHJlZj0iIiBzdHlsZT0iY29sb3I6IzJjN2U1YTtmb250LXdlaWdodDogNTAwOyI+QWdncmVnYXRlIEltcGFjdHMgb2YgQ29tbWFuZC1hbmQtQ29udHJvbCBFbnZpcm9ubWVudGFsIFBvbGljeTogRXZpZGVuY2UgZnJvbSBDb3VydC1PcmRlcmVkIE1pbmluZyBCYW5zIGluIEluZGlhPC9hPgogICAgKiA8YSBzdHlsZT0iY29sb3I6IzkwOTA5MCI+IHdpdGggVXRrYXJzaCBTYXhlbmEgYW5kIEhlbnJ5IFpoYW5nIChNSVQpIDwvYT4gCiAgICAqIDxhIHN0eWxlPSJjb2xvcjojOTA5MDkwIj4gRnVuZGluZzogUEVETCAoJDMzLDAwMCkgPC9hPiAKPGJyLz4KPGJyLz4KLSA8YSBocmVmPSIiIHN0eWxlPSJjb2xvcjojMmM3ZTVhO2ZvbnQtd2VpZ2h0OiA1MDA7Ij5MYWJvciBNYXJrZXQgRnJpY3Rpb25zLCB0aGUgT3JnYW5pemF0aW9uIG9mIExhYm9yLCBhbmQgU3RydWN0dXJhbCBDaGFuZ2UgPC9hPgogICAgKiA8YSBzdHlsZT0iY29sb3I6IzkwOTA5MCI+IHdpdGggQ2hpbm1heSBMb2hhbmkgKFVQZW5uKSA8L2E+CiAgICAqIDxhIHN0eWxlPSJjb2xvcjojOTA5MDkwIj4gRnVuZGluZzogU1RFRyAoJDE4LDAwMCkgPC9hPiAKPGJyLz4KPGJyLz4",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAsBAAAAAAAADMBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					121,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAACYBAAAAAAAAJwEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAmAQAAAAAAACYBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					122,
+					1,
+					"paste",
+					null,
+					"AQAAACcBAAAAAAAAdwEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAnAQAAAAAAACcBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					126,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHYBAAAAAAAAdgEAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB3AQAAAAAAAHcBAAAAAAAAAAAAAAAASUA"
+				],
+				[
+					131,
+					1,
+					"insert",
+					{
+						"characters": "rathin"
+					},
+					"BwAAAEwBAAAAAAAATQEAAAAAAAAAAAAATQEAAAAAAABNAQAAAAAAACQAAABVdGthcnNoIFNheGVuYSBhbmQgSGVucnkgWmhhbmcgKE1JVClNAQAAAAAAAE4BAAAAAAAAAAAAAE4BAAAAAAAATwEAAAAAAAAAAAAATwEAAAAAAABQAQAAAAAAAAAAAABQAQAAAAAAAFEBAAAAAAAAAAAAAFEBAAAAAAAAUgEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABMAQAAAAAAAHABAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					132,
+					1,
+					"insert",
+					{
+						"characters": " Roy"
+					},
+					"BAAAAFIBAAAAAAAAUwEAAAAAAAAAAAAAUwEAAAAAAABUAQAAAAAAAAAAAABUAQAAAAAAAFUBAAAAAAAAAAAAAFUBAAAAAAAAVgEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABSAQAAAAAAAFIBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					135,
+					1,
+					"insert",
+					{
+						"characters": "R"
+					},
+					"AgAAAEwBAAAAAAAATQEAAAAAAAAAAAAATQEAAAAAAABNAQAAAAAAAAEAAABy",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABNAQAAAAAAAEwBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					138,
+					1,
+					"insert",
+					{
+						"characters": "**"
+					},
+					"AgAAAAcBAAAAAAAACAEAAAAAAAAAAAAACAEAAAAAAAAJAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAHAQAAAAAAAAcBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					139,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAgBAAAAAAAACAEAAAAAAAABAAAAKg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAJAQAAAAAAAAkBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					142,
+					1,
+					"insert",
+					{
+						"characters": "*"
+					},
+					"AQAAACYBAAAAAAAAJwEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAmAQAAAAAAACYBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					147,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAGoBAAAAAAAAawEAAAAAAAAAAAAAawEAAAAAAABsAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABqAQAAAAAAAGoBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					148,
+					1,
+					"paste",
+					null,
+					"AQAAAGwBAAAAAAAAkgIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABsAQAAAAAAAGwBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					154,
+					1,
+					"paste",
+					null,
+					"AgAAAAACAAAAAAAAcAIAAAAAAAAAAAAAcAIAAAAAAABwAgAAAAAAACkAAABTaG91bGQgU3RhdGVzIFRhcmdldCBhIDMlIEZpc2NhbCBEZWZpY2l0Pw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAgAAAAAAACkCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					159,
+					1,
+					"paste",
+					null,
+					"AgAAALgCAAAAAAAAyQIAAAAAAAAAAAAAyQIAAAAAAADJAgAAAAAAAA8AAAB3aXRoIFJhdGhpbiBSb3k",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC4AgAAAAAAAMcCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					164,
+					1,
+					"paste",
+					null,
+					"AgAAAHcCAAAAAAAAiAIAAAAAAAAAAAAAiAIAAAAAAACIAgAAAAAAAB4AAABFY29ub21pY3MgYW5kIFBvbGl0aWNhbCBXZWVrbHk",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB3AgAAAAAAAJUCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					169,
+					1,
+					"paste",
+					null,
+					"AgAAAG4BAAAAAAAAcgEAAAAAAAAAAAAAcgEAAAAAAAByAQAAAAAAAAQAAAAyMDE4",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABuAQAAAAAAAHIBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					174,
+					1,
+					"paste",
+					null,
+					"AgAAAH0BAAAAAAAAEwIAAAAAAAAAAAAAEwIAAAAAAAATAgAAAAAAAFkAAABodHRwczovL3d3dy5lcHcuaW4vam91cm5hbC8yMDE4LzkvcGVyc3BlY3RpdmVzL3Nob3VsZC1zdGF0ZXMtdGFyZ2V0LTMtZmlzY2FsLWRlZmljaXQuaHRtbA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB9AQAAAAAAANYBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					177,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAGsBAAAAAAAAbAEAAAAAAAAAAAAAbAEAAAAAAABtAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABrAQAAAAAAAGsBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					183,
+					1,
+					"paste",
+					null,
+					"AQAAAGwBAAAAAAAACwMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABsAQAAAAAAAGwBAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					184,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAAsDAAAAAAAADAMAAAAAAAAAAAAADAMAAAAAAAANAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAALAwAAAAAAAAsDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					185,
+					1,
+					"paste",
+					null,
+					"AQAAAA0DAAAAAAAArAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAANAwAAAAAAAA0DAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					190,
+					1,
+					"paste",
+					null,
+					"AgAAAD0CAAAAAAAApwIAAAAAAAAAAAAApwIAAAAAAACnAgAAAAAAAHAAAABTdWItTmF0aW9uYWwgRmlzY2FsIFJ1bGVzLCBWZXJ0aWNhbCBGaXNjYWwgSW1iYWxhbmNlcywgYW5kIEZpc2NhbCBEaXNjaXBsaW5lOiBOZXcgRW1waXJpY2FsIEV2aWRlbmNlIGZyb20gRXVyb3Bl",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AgAAAAAAAK0CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					195,
+					1,
+					"paste",
+					null,
+					"AgAAAK4CAAAAAAAA1gIAAAAAAAAAAAAA1gIAAAAAAADWAgAAAAAAABEAAABJTUYgV29ya2luZyBQYXBlcg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACuAgAAAAAAAL8CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					205,
+					1,
+					"paste",
+					null,
+					"AgAAAP4CAAAAAAAACAMAAAAAAAAAAAAACAMAAAAAAAAIAwAAAAAAAAwAAABWaWN0b3IgTGxlZG8",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD+AgAAAAAAAAoDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					208,
+					1,
+					"paste",
+					null,
+					"AgAAAH0BAAAAAAAAwgEAAAAAAAAAAAAAwgEAAAAAAADCAQAAAAAAAJYAAABodHRwczovL3d3dy5pbWYub3JnL2VuL1B1YmxpY2F0aW9ucy9XUC9Jc3N1ZXMvMjAxNi8xMi8zMS9Eby1TdWJuYXRpb25hbC1GaXNjYWwtUnVsZXMtRm9zdGVyLUZpc2NhbC1EaXNjaXBsaW5lLU5ldy1FbXBpcmljYWwtRXZpZGVuY2UtZnJvbS1FdXJvcGUtNDM4NTc",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB9AQAAAAAAABMCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					212,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHEBAAAAAAAAcQEAAAAAAAABAAAANg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAByAQAAAAAAAHIBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					213,
+					1,
+					"insert",
+					{
+						"characters": "7"
+					},
+					"AQAAAHEBAAAAAAAAcgEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABxAQAAAAAAAHEBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					220,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAMkCAAAAAAAAygIAAAAAAAAAAAAAygIAAAAAAADLAgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADJAgAAAAAAAMkCAAAAAAAA////////738"
+				],
+				[
+					221,
+					1,
+					"paste",
+					null,
+					"AQAAAMsCAAAAAAAAKAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADLAgAAAAAAAMsCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					226,
+					1,
+					"paste",
+					null,
+					"AgAAAEsDAAAAAAAArQMAAAAAAAAAAAAArQMAAAAAAACtAwAAAAAAAGoAAABIaXN0b3J5IGFuZCBFdm9sdXRpb24gb2YgVGhlIEZpc2NhbCBSZXNwb25zaWJpbGl0eSBhbmQgQnVkZ2V0IE1hbmFnZW1lbnQgQWN0ICgyMDAzKTogSXNzdWVzIGFuZCBDaGFsbGVuZ2Vz",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABLAwAAAAAAALUDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					227,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAK0DAAAAAAAArgMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACtAwAAAAAAAK0DAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					237,
+					1,
+					"paste",
+					null,
+					"AQAAAMMFAAAAAAAAzgUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADDBQAAAAAAAMMFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					239,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAMMFAAAAAAAAxAUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADDBQAAAAAAAMMFAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					243,
+					1,
+					"insert",
+					{
+						"characters": "Op-eds"
+					},
+					"BwAAAMgFAAAAAAAAyQUAAAAAAAAAAAAAyQUAAAAAAADJBQAAAAAAAAYAAABQb2xpY3nJBQAAAAAAAMoFAAAAAAAAAAAAAMoFAAAAAAAAywUAAAAAAAAAAAAAywUAAAAAAADMBQAAAAAAAAAAAADMBQAAAAAAAM0FAAAAAAAAAAAAAM0FAAAAAAAAzgUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADOBQAAAAAAAMgFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					251,
+					1,
+					"paste",
+					null,
+					"AgAAAKEGAAAAAAAA0QYAAAAAAAAAAAAA0QYAAAAAAADRBgAAAAAAAHAAAABTdWItTmF0aW9uYWwgRmlzY2FsIFJ1bGVzLCBWZXJ0aWNhbCBGaXNjYWwgSW1iYWxhbmNlcywgYW5kIEZpc2NhbCBEaXNjaXBsaW5lOiBOZXcgRW1waXJpY2FsIEV2aWRlbmNlIGZyb20gRXVyb3Bl",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAChBgAAAAAAABEHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					258,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOwGAAAAAAAA7AYAAAAAAAA4AAAAICAgICogPGEgc3R5bGU9ImNvbG9yOiM5MDkwOTAiPiB3aXRoIFZpY3RvciBMbGVkbyA8L2E+IAo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADsBgAAAAAAACQHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					263,
+					1,
+					"paste",
+					null,
+					"AgAAANgGAAAAAAAA6wYAAAAAAAAAAAAA6wYAAAAAAADrBgAAAAAAABEAAABJTUYgV29ya2luZyBQYXBlcg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADYBgAAAAAAAOkGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					266,
+					1,
+					"paste",
+					null,
+					"AgAAAOIFAAAAAAAASAYAAAAAAAAAAAAASAYAAAAAAABIBgAAAAAAAJUAAAB0dHBzOi8vd3d3LmltZi5vcmcvZW4vUHVibGljYXRpb25zL1dQL0lzc3Vlcy8yMDE2LzEyLzMxL0RvLVN1Ym5hdGlvbmFsLUZpc2NhbC1SdWxlcy1Gb3N0ZXItRmlzY2FsLURpc2NpcGxpbmUtTmV3LUVtcGlyaWNhbC1FdmlkZW5jZS1mcm9tLUV1cm9wZS00Mzg1Nw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADiBQAAAAAAAHcGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					269,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOEFAAAAAAAA4QUAAAAAAAABAAAAaA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADiBQAAAAAAAOIFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					278,
+					1,
+					"insert",
+					{
+						"characters": "7"
+					},
+					"AgAAANUFAAAAAAAA1gUAAAAAAAAAAAAA1gUAAAAAAADWBQAAAAAAAAEAAAA2",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADWBQAAAAAAANUFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					285,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAMkGAAAAAAAAygYAAAAAAAAAAAAAygYAAAAAAADLBgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADJBgAAAAAAAMkGAAAAAAAA////////738"
+				],
+				[
+					286,
+					1,
+					"paste",
+					null,
+					"AQAAAMsGAAAAAAAAxAcAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADLBgAAAAAAAMsGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					292,
+					1,
+					"paste",
+					null,
+					"AgAAAGwHAAAAAAAAmQcAAAAAAAAAAAAAmQcAAAAAAACZBwAAAAAAADAAAABXaHkgYXJlIGZpbmFuY2VzIG9mIEluZGlhbiBzdGF0ZXMgZGV0ZXJpb3JhdGluZz8",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABsBwAAAAAAAJwHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					297,
+					1,
+					"paste",
+					null,
+					"AgAAAKAHAAAAAAAAsQcAAAAAAAAAAAAAsQcAAAAAAACxBwAAAAAAABMAAABJR0MgSWRlYXMgZm9yIEluZGlh",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACgBwAAAAAAALMHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					300,
+					1,
+					"paste",
+					null,
+					"AgAAANwGAAAAAAAATgcAAAAAAAAAAAAATgcAAAAAAABOBwAAAAAAAGYAAABodHRwczovL3d3dy5pZGVhc2ZvcmluZGlhLmluL3RvcGljcy9tb25leS1maW5hbmNlL3doeS1hcmUtZmluYW5jZXMtb2YtaW5kaWFuLXN0YXRlcy1kZXRlcmlvcmF0aW5nLmh0bWw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADcBgAAAAAAAEIHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					305,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAMsHAAAAAAAAzAcAAAAAAAAAAAAAzAcAAAAAAADNBwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADLBwAAAAAAAMsHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					306,
+					1,
+					"paste",
+					null,
+					"AQAAAM0HAAAAAAAAzQgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADNBwAAAAAAAM0HAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					307,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAM0IAAAAAAAAzggAAAAAAAAAAAAAzggAAAAAAADPCAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADNCAAAAAAAAM0IAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					308,
+					1,
+					"paste",
+					null,
+					"AQAAAM8IAAAAAAAAzwkAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADPCAAAAAAAAM8IAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					309,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAM8JAAAAAAAA0AkAAAAAAAAAAAAA0AkAAAAAAADRCQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADPCQAAAAAAAM8JAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					310,
+					1,
+					"paste",
+					null,
+					"AQAAANEJAAAAAAAA0QoAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADRCQAAAAAAANEJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					313,
+					1,
+					"paste",
+					null,
+					"AgAAAN4HAAAAAAAASwgAAAAAAAAAAAAASwgAAAAAAABLCAAAAAAAAHIAAABodHRwOi8vd3d3LmJ1c2luZXNzLXN0YW5kYXJkLmNvbS9hcnRpY2xlL29waW5pb24vaG93LXRvLWFycmVzdC1kZXRlcmlvcmF0aW9uLWluLXN0YXRlLWZpbmFuY2VzLTExNzA3MDYwMTQ2OV8xLmh0bWw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABQCAAAAAAAAN4HAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					316,
+					1,
+					"paste",
+					null,
+					"AgAAANwIAAAAAAAAPAkAAAAAAAAAAAAAPAkAAAAAAAA8CQAAAAAAAHEAAAB0dHA6Ly93d3cuYnVzaW5lc3Mtc3RhbmRhcmQuY29tL2FydGljbGUvb3Bpbmlvbi9ob3ctdG8tYXJyZXN0LWRldGVyaW9yYXRpb24taW4tc3RhdGUtZmluYW5jZXMtMTE3MDcwNjAxNDY5XzEuaHRtbA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADcCAAAAAAAAE0JAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					319,
+					1,
+					"left_delete",
+					null,
+					"AQAAANsIAAAAAAAA2wgAAAAAAAABAAAAaA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADcCAAAAAAAANwIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					322,
+					1,
+					"paste",
+					null,
+					"AgAAAMsJAAAAAAAAHgoAAAAAAAAAAAAAHgoAAAAAAAAeCgAAAAAAAHIAAABodHRwOi8vd3d3LmJ1c2luZXNzLXN0YW5kYXJkLmNvbS9hcnRpY2xlL29waW5pb24vaG93LXRvLWFycmVzdC1kZXRlcmlvcmF0aW9uLWluLXN0YXRlLWZpbmFuY2VzLTExNzA3MDYwMTQ2OV8xLmh0bWw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADLCQAAAAAAAD0KAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					327,
+					1,
+					"paste",
+					null,
+					"AgAAAEgKAAAAAAAAZAoAAAAAAAAAAAAAZAoAAAAAAABkCgAAAAAAAC0AAABIb3cgdG8gYXJyZXN0IGRldGVyaW9yYXRpb24gaW4gc3RhdGUgZmluYW5jZXM",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABICgAAAAAAAHUKAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					332,
+					1,
+					"paste",
+					null,
+					"AgAAAGsKAAAAAAAAfAoAAAAAAAAAAAAAfAoAAAAAAAB8CgAAAAAAABEAAABCdXNpbmVzcyBTdGFuZGFyZA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABrCgAAAAAAAHwKAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					335,
+					1,
+					"left_delete",
+					null,
+					"AQAAAL8JAAAAAAAAvwkAAAAAAAABAAAANw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADACQAAAAAAAMAJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					336,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAL8JAAAAAAAAwAkAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC/CQAAAAAAAL8JAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					341,
+					1,
+					"paste",
+					null,
+					"AgAAAGUJAAAAAAAAiQkAAAAAAAAAAAAAiQkAAAAAAACJCQAAAAAAAC0AAABIb3cgdG8gYXJyZXN0IGRldGVyaW9yYXRpb24gaW4gc3RhdGUgZmluYW5jZXM",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABlCQAAAAAAAJIJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					346,
+					1,
+					"paste",
+					null,
+					"AgAAAJAJAAAAAAAAlAkAAAAAAAAAAAAAlAkAAAAAAACUCQAAAAAAABEAAABCdXNpbmVzcyBTdGFuZGFyZA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACQCQAAAAAAAKEJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					349,
+					1,
+					"left_delete",
+					null,
+					"AQAAAM8IAAAAAAAAzwgAAAAAAAABAAAANw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADQCAAAAAAAANAIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					350,
+					1,
+					"insert",
+					{
+						"characters": "6"
+					},
+					"AQAAAM8IAAAAAAAA0AgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADPCAAAAAAAAM8IAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					355,
+					1,
+					"paste",
+					null,
+					"AgAAAHUIAAAAAAAAnQgAAAAAAAAAAAAAnQgAAAAAAACdCAAAAAAAAC0AAABIb3cgdG8gYXJyZXN0IGRldGVyaW9yYXRpb24gaW4gc3RhdGUgZmluYW5jZXM",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB1CAAAAAAAAKIIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					365,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAALcIAAAAAAAAuAgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC3CAAAAAAAALcIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					366,
+					1,
+					"paste",
+					null,
+					"AQAAALgIAAAAAAAA8AgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC4CAAAAAAAALgIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					367,
+					1,
+					"left_delete",
+					null,
+					"AQAAAO8IAAAAAAAA7wgAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADwCAAAAAAAAPAIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					372,
+					1,
+					"insert",
+					{
+						"characters": "Arvind"
+					},
+					"BwAAAN0IAAAAAAAA3ggAAAAAAAAAAAAA3ggAAAAAAADeCAAAAAAAAAwAAABWaWN0b3IgTGxlZG/eCAAAAAAAAN8IAAAAAAAAAAAAAN8IAAAAAAAA4AgAAAAAAAAAAAAA4AgAAAAAAADhCAAAAAAAAAAAAADhCAAAAAAAAOIIAAAAAAAAAAAAAOIIAAAAAAAA4wgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADdCAAAAAAAAOkIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					373,
+					1,
+					"insert",
+					{
+						"characters": " Subramanian"
+					},
+					"DAAAAOMIAAAAAAAA5AgAAAAAAAAAAAAA5AgAAAAAAADlCAAAAAAAAAAAAADlCAAAAAAAAOYIAAAAAAAAAAAAAOYIAAAAAAAA5wgAAAAAAAAAAAAA5wgAAAAAAADoCAAAAAAAAAAAAADoCAAAAAAAAOkIAAAAAAAAAAAAAOkIAAAAAAAA6ggAAAAAAAAAAAAA6ggAAAAAAADrCAAAAAAAAAAAAADrCAAAAAAAAOwIAAAAAAAAAAAAAOwIAAAAAAAA7QgAAAAAAAAAAAAA7QgAAAAAAADuCAAAAAAAAAAAAADuCAAAAAAAAO8IAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADjCAAAAAAAAOMIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					380,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMkGAAAAAAAAyQYAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADKBgAAAAAAAMoGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					383,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMoHAAAAAAAAygcAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADLBwAAAAAAAMsHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					386,
+					1,
+					"left_delete",
+					null,
+					"AQAAAP8IAAAAAAAA/wgAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					389,
+					1,
+					"left_delete",
+					null,
+					"AQAAANgJAAAAAAAA2AkAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADZCQAAAAAAANkJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					392,
+					1,
+					"left_delete",
+					null,
+					"AQAAACEEAAAAAAAAIQQAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAiBAAAAAAAACIEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					395,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMkCAAAAAAAAyQIAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADKAgAAAAAAAMoCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					398,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGoBAAAAAAAAagEAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABrAQAAAAAAAGsBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					405,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAMIBAAAAAAAAwwEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADCAQAAAAAAAMIBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					406,
+					1,
+					"paste",
+					null,
+					"AQAAAMMBAAAAAAAABwIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADDAQAAAAAAAMMBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					407,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAcCAAAAAAAACAIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAHAgAAAAAAAAcCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					411,
+					1,
+					"cut",
+					null,
+					"AQAAAMMBAAAAAAAAwwEAAAAAAABEAAAAaHR0cHM6Ly9kZWEuZ292LmluL3NpdGVzL2RlZmF1bHQvZmlsZXMvVm9sdW1lLTQtRG9tYWluJTIwRXhwZXJ0cy5wZGY",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADDAQAAAAAAAAcCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					412,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMIBAAAAAAAAwgEAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADDAQAAAAAAAMMBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					421,
+					1,
+					"paste",
+					null,
+					"BAAAANsCAAAAAAAAHwMAAAAAAAAAAAAAHwMAAAAAAAAfAwAAAAAAAEUAAABodHRwczovL2RlYS5nb3YuaW4vc2l0ZXMvZGVmYXVsdC9maWxlcy9Wb2x1bWUtNC1Eb21haW5cJTIwRXhwZXJ0cy5wZGZ8AQAAAAAAAMABAAAAAAAAAAAAAMABAAAAAAAAwAEAAAAAAABFAAAAaHR0cHM6Ly9kZWEuZ292LmluL3NpdGVzL2RlZmF1bHQvZmlsZXMvVm9sdW1lLTQtRG9tYWluXCUyMEV4cGVydHMucGRm",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAIAAAB8AQAAAAAAAMEBAAAAAAAAAAAAAAAA8L/bAgAAAAAAACADAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					427,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKoDAAAAAAAAqgMAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACrAwAAAAAAAKsDAAAAAAAAAAAAAAAA8L8"
+				]
 			]
 		},
 		{
 			"file": "_sass/uno.scss",
 			"settings":
 			{
-				"buffer_size": 31686,
+				"buffer_size": 31611,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
+				[
+					1,
+					1,
+					"",
+					null,
+					"BQAAAEQHAAAAAAAAUAcAAAAAAAAZAAAAZm9udHMvU0YtUHJvLVRleHQtUmVndWxhcvQGAAAAAAAAAAcAAAAAAAAZAAAAZm9udHMvU0YtUHJvLVRleHQtUmVndWxhcqcGAAAAAAAAswYAAAAAAAAZAAAAZm9udHMvU0YtUHJvLVRleHQtUmVndWxhck0GAAAAAAAAWQYAAAAAAAAZAAAAZm9udHMvU0YtUHJvLVRleHQtUmVndWxhcgoGAAAAAAAAFgYAAAAAAAAZAAAAZm9udHMvU0YtUHJvLVRleHQtUmVndWxhcg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"",
+					null,
+					"AgAAAGAGAAAAAAAAZAYAAAAAAAAEAAAALmVvdCoGAAAAAAAALgYAAAAAAAAEAAAALmVvdA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABhBgAAAAAAAGQGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"",
+					null,
+					"AgAAALwGAAAAAAAAwAYAAAAAAAAFAAAAIndvZmatBgAAAAAAALEGAAAAAAAABQAAAC53b2Zm",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABhBgAAAAAAAGQGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					16,
+					1,
+					"",
+					null,
+					"AQAAAOsGAAAAAAAA7wYAAAAAAAAEAAAALnR0Zg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABhBgAAAAAAAGQGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					17,
+					1,
+					"",
+					null,
+					"AgAAADwHAAAAAAAAQAcAAAAAAAAEAAAAInN2Zy4HAAAAAAAAMgcAAAAAAAAEAAAALnN2Zw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABhBgAAAAAAAGQGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					36,
+					1,
+					"",
+					null,
+					"DgAAADRiAAAAAAAARWIAAAAAAAATAAAAU0YtUHJvLVRleHQtUmVndWxhcsBhAAAAAAAA0WEAAAAAAAATAAAAU0YtUHJvLVRleHQtUmVndWxhcjxPAAAAAAAATU8AAAAAAAATAAAAU0YtUHJvLVRleHQtUmVndWxhcrBGAAAAAAAAwUYAAAAAAAATAAAAU0YtUHJvLVRleHQtUmVndWxhcldBAAAAAAAAaEEAAAAAAAATAAAAU0YtUHJvLVRleHQtUmVndWxhchg/AAAAAAAAKT8AAAAAAAATAAAAU0YtUHJvLVRleHQtUmVndWxhcn49AAAAAAAAjz0AAAAAAAATAAAAU0YtUHJvLVRleHQtUmVndWxhco8HAAAAAAAAoAcAAAAAAAATAAAAU0YtUHJvLVRleHQtUmVndWxhchsHAAAAAAAALAcAAAAAAAATAAAAU0YtUHJvLVRleHQtUmVndWxhctgGAAAAAAAA6QYAAAAAAAATAAAAU0YtUHJvLVRleHQtUmVndWxhcpoGAAAAAAAAqwYAAAAAAAATAAAAU0YtUHJvLVRleHQtUmVndWxhck0GAAAAAAAAXgYAAAAAAAATAAAAU0YtUHJvLVRleHQtUmVndWxhchcGAAAAAAAAKAYAAAAAAAATAAAAU0YtUHJvLVRleHQtUmVndWxhcuYFAAAAAAAA9wUAAAAAAAATAAAAU0YtUHJvLVRleHQtUmVndWxhcg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADmBQAAAAAAAPkFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					65,
+					1,
+					"",
+					null,
+					"BwAAABhPAAAAAAAALU8AAAAAAAAgAAAAZm9udC1mYW1pbHk6ICJTRi1Qcm8tVGV4dC1CbGFjayKORgAAAAAAAKNGAAAAAAAAIAAAAGZvbnQtZmFtaWx5OiAiU0YtUHJvLVRleHQtQmxhY2siN0EAAAAAAABMQQAAAAAAACAAAABmb250LWZhbWlseTogIlNGLVByby1UZXh0LUJsYWNrIvo+AAAAAAAADz8AAAAAAAAgAAAAZm9udC1mYW1pbHk6ICJTRi1Qcm8tVGV4dC1CbGFjayJiPQAAAAAAAHc9AAAAAAAAIAAAAGZvbnQtZmFtaWx5OiAiU0YtUHJvLVRleHQtQmxhY2sidQcAAAAAAACKBwAAAAAAACAAAABmb250LWZhbWlseTogIlNGLVByby1UZXh0LUJsYWNrItgFAAAAAAAA7QUAAAAAAAAgAAAAZm9udC1mYW1pbHk6ICJTRi1Qcm8tVGV4dC1CbGFjayI",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADXBQAAAAAAAPgFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					87,
+					1,
+					"",
+					null,
+					"AgAAAB4HAAAAAAAAMAcAAAAAAAANAAAAZm9ybWF0KC5vdGYiKaEGAAAAAAAAswYAAAAAAAANAAAAZm9ybWF0KC5vdGYiKQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAChBgAAAAAAAK4GAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					91,
+					1,
+					"",
+					null,
+					"AQAAAOIGAAAAAAAA9AYAAAAAAAASAAAAZm9ybWF0KCJ0cnVldHlwZSIp",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADiBgAAAAAAAPQGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					113,
+					1,
+					"insert",
+					{
+						"characters": "Regular"
+					},
+					"KAAAABcHAAAAAAAAGAcAAAAAAAAAAAAAGAcAAAAAAAAYBwAAAAAAAAUAAABCbGFja9YGAAAAAAAA1wYAAAAAAAAAAAAA1wYAAAAAAADXBgAAAAAAAAUAAABCbGFja5UGAAAAAAAAlgYAAAAAAAAAAAAAlgYAAAAAAACWBgAAAAAAAAUAAABCbGFja0oGAAAAAAAASwYAAAAAAAAAAAAASwYAAAAAAABLBgAAAAAAAAUAAABCbGFjaxYGAAAAAAAAFwYAAAAAAAAAAAAAFwYAAAAAAAAXBgAAAAAAAAUAAABCbGFjawgHAAAAAAAACQcAAAAAAAAAAAAAywYAAAAAAADMBgAAAAAAAAAAAACOBgAAAAAAAI8GAAAAAAAAAAAAAEcGAAAAAAAASAYAAAAAAAAAAAAAFwYAAAAAAAAYBgAAAAAAAAAAAAANBwAAAAAAAA4HAAAAAAAAAAAAAM8GAAAAAAAA0AYAAAAAAAAAAAAAkQYAAAAAAACSBgAAAAAAAAAAAABJBgAAAAAAAEoGAAAAAAAAAAAAABgGAAAAAAAAGQYAAAAAAAAAAAAAEgcAAAAAAAATBwAAAAAAAAAAAADTBgAAAAAAANQGAAAAAAAAAAAAAJQGAAAAAAAAlQYAAAAAAAAAAAAASwYAAAAAAABMBgAAAAAAAAAAAAAZBgAAAAAAABoGAAAAAAAAAAAAABcHAAAAAAAAGAcAAAAAAAAAAAAA1wYAAAAAAADYBgAAAAAAAAAAAACXBgAAAAAAAJgGAAAAAAAAAAAAAE0GAAAAAAAATgYAAAAAAAAAAAAAGgYAAAAAAAAbBgAAAAAAAAAAAAAcBwAAAAAAAB0HAAAAAAAAAAAAANsGAAAAAAAA3AYAAAAAAAAAAAAAmgYAAAAAAACbBgAAAAAAAAAAAABPBgAAAAAAAFAGAAAAAAAAAAAAABsGAAAAAAAAHAYAAAAAAAAAAAAAIQcAAAAAAAAiBwAAAAAAAAAAAADfBgAAAAAAAOAGAAAAAAAAAAAAAJ0GAAAAAAAAngYAAAAAAAAAAAAAUQYAAAAAAABSBgAAAAAAAAAAAAAcBgAAAAAAAB0GAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAUAAAAbBgAAAAAAABYGAAAAAAAAAAAAAAAA8L9KBgAAAAAAAE8GAAAAAAAAAAAAAAAA8L+VBgAAAAAAAJoGAAAAAAAAAAAAAAAA8L/WBgAAAAAAANsGAAAAAAAAAAAAAAAA8L8XBwAAAAAAABwHAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					132,
+					1,
+					"insert",
+					{
+						"characters": "SF"
+					},
+					"BgAAAOFhAAAAAAAA4mEAAAAAAAAAAAAA4mEAAAAAAADiYQAAAAAAABEAAABTRi1Qcm8tVGV4dC1CbGFja29hAAAAAAAAcGEAAAAAAAAAAAAAcGEAAAAAAABwYQAAAAAAABEAAABTRi1Qcm8tVGV4dC1CbGFja9JhAAAAAAAA02EAAAAAAAAAAAAAcGEAAAAAAABxYQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAIAAABvYQAAAAAAAIBhAAAAAAAAAAAAAAAA8L/hYQAAAAAAAPJhAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					133,
+					1,
+					"insert",
+					{
+						"characters": " Pro"
+					},
+					"CAAAANRhAAAAAAAA1WEAAAAAAAAAAAAAcWEAAAAAAAByYQAAAAAAAAAAAADWYQAAAAAAANdhAAAAAAAAAAAAAHJhAAAAAAAAc2EAAAAAAAAAAAAA2GEAAAAAAADZYQAAAAAAAAAAAABzYQAAAAAAAHRhAAAAAAAAAAAAANphAAAAAAAA22EAAAAAAAAAAAAAdGEAAAAAAAB1YQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAIAAABxYQAAAAAAAHFhAAAAAAAAAAAAAAAA8L/UYQAAAAAAANRhAAAAAAAAAAAAAAAA8L8"
+				]
 			]
 		}
 	],
@@ -646,11 +2431,24 @@
 	"expanded_folders":
 	[
 		"/Users/kotia/Documents/GitHub/website",
+		"/Users/kotia/Documents/GitHub/website/_includes",
+		"/Users/kotia/Documents/GitHub/website/_layouts",
+		"/Users/kotia/Documents/GitHub/website/_posts",
+		"/Users/kotia/Documents/GitHub/website/css",
+		"/Users/kotia/Documents/GitHub/website/files",
+		"/Users/kotia/Documents/GitHub/website/fonts",
+		"/Users/kotia/Documents/GitHub/website/fonts/SF-Pro",
 		"/Users/kotia/Documents/GitHub/website/images",
 		"/Users/kotia/Documents/GitHub/website/images/favicons"
 	],
 	"file_history":
 	[
+		"/Users/kotia/Dropbox/Personal/CV/KotiaCV.tex",
+		"/Users/kotia/Documents/GitHub/website/_posts/2018-06-13-other-writing.markdown",
+		"/Users/kotia/Documents/GitHub/website/_includes/header.html",
+		"/Users/kotia/Documents/GitHub/website/_posts/2018-06-14-about.markdown",
+		"/Users/kotia/Documents/GitHub/website/_posts/2018-06-13-research.markdown",
+		"/Users/kotia/Documents/GitHub/website/css/main.scss",
 		"/Users/kotia/Documents/GitHub/website/_sass/uno.scss",
 		"/Users/kotia/Dropbox/micro_data/mca/code/00_preamble.do",
 		"/Users/kotia/Dropbox/micro_data/mca/code/BS_new_format.do",
@@ -772,13 +2570,7 @@
 		"/C/Users/kotia/OneDrive - London School of Economics/2 Research Ideas/replications/GuceriLiu/data/analysis.do",
 		"/C/Users/kotia/OneDrive - London School of Economics/WB/data/cpdx/code/2_1_1_analysis_trans_cases_23_9.do",
 		"/C/Users/kotia/OneDrive - London School of Economics/WB/data/cpdx/code/1_4_5_clean_cons.do",
-		"/C/Users/kotia/OneDrive - London School of Economics/WB/data/cpdx/code/1_4_2_clean_cons_14_12.do",
-		"/C/Users/kotia/OneDrive - London School of Economics/WB/data/cpdx/code/1_3_3_clean_inc_hh_people_merge_14_12.do",
-		"/C/Users/kotia/OneDrive - London School of Economics/WB/data/cpdx/code/1_4_4_clean_cons_cons_trans_matrix_0405.do",
-		"/C/Users/kotia/OneDrive - London School of Economics/WB/data/cpdx/code/misallocation/test.do",
-		"/C/Users/kotia/OneDrive - London School of Economics/WB/data/cpdx/code/misallocation/1_1_clean_peoples.do",
-		"/C/Users/kotia/OneDrive - London School of Economics/2 Research Ideas/trade_ineq/code/inflation_ineq_wpi.do",
-		"/C/Users/kotia/OneDrive - London School of Economics/WB/data/cpdx/code/misallocation/2_1_trans.do"
+		"/C/Users/kotia/OneDrive - London School of Economics/WB/data/cpdx/code/1_4_2_clean_cons_14_12.do"
 	],
 	"find":
 	{
@@ -798,6 +2590,41 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"other-writing",
+			"black",
+			"SF-Pro",
+			"black",
+			"format(",
+			"format(\"truetype\")",
+			"format(.otf\")",
+			"working proj",
+			"font-family: \"SF-Pro-Text-Black\"",
+			"SF-Pro-Text-Regular",
+			"SF-Pro",
+			"font",
+			".svg",
+			".ttf",
+			".woff",
+			"research",
+			"growth",
+			"CV",
+			".eot",
+			"SF-",
+			"fonts/SF-Pro",
+			"fonts/SF-Pro-Text-Regular",
+			"font-family",
+			"font-face",
+			"SF-",
+			"SF-Pro",
+			"font-family",
+			"font",
+			"Raleway",
+			"font-family",
+			"font",
+			"font-family",
+			"working projects",
+			"font-family",
+			"foundation-icons",
 			"font-family",
 			"family",
 			"font",
@@ -808,9 +2635,17 @@
 		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": true,
+		"regex": false,
 		"replace_history":
 		[
+			"format(\"opentype\")",
+			"format(\"oprntype\")",
+			"font-family: \"SF Pro\"",
+			"SF-Pro-Text-Black",
+			".otf",
+			"fonts/SF-Pro",
+			"SF-Pro-Text-Regular",
+			"SF-Pro"
 		],
 		"reverse": false,
 		"scrollbar_highlights": true,
@@ -830,78 +2665,28 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2478,
+						"buffer_size": 26058,
 						"regions":
 						{
 							"match":
 							{
 								"flags": 112,
-								"regions":
-								[
-									[
-										210,
-										221
-									],
-									[
-										391,
-										402
-									],
-									[
-										869,
-										880
-									],
-									[
-										995,
-										1006
-									],
-									[
-										1150,
-										1161
-									],
-									[
-										1316,
-										1327
-									],
-									[
-										1486,
-										1497
-									],
-									[
-										1748,
-										1759
-									],
-									[
-										1986,
-										1997
-									],
-									[
-										2124,
-										2135
-									],
-									[
-										2248,
-										2259
-									],
-									[
-										2372,
-										2383
-									]
-								],
+								"regions": "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",
 								"scope": ""
 							}
 						},
 						"selection":
 						[
 							[
-								892,
-								892
+								25931,
+								25931
 							]
 						],
 						"settings":
 						{
 							"detect_indentation": false,
 							"line_numbers": false,
-							"output_tag": 1,
+							"output_tag": 11,
 							"result_base_dir": "",
 							"result_file_regex": "^([^ \t].*):$",
 							"result_line_regex": "^ +([0-9]+):",
@@ -909,7 +2694,113 @@
 							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 101.0,
+						"translation.y": 16397.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_includes/header.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2956,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2366,
+								2366
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 345.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_posts/2018-06-13-research.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							],
+							[
+								297,
+								297
+							],
+							[
+								466,
+								466
+							],
+							[
+								789,
+								789
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_posts/2018-06-13-other-writing.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1222,
+								1222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -917,21 +2808,24 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 4,
 					"file": "_sass/uno.scss",
-					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 31686,
+						"buffer_size": 31611,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1969,
-								1985
+								24949,
+								24949
+							],
+							[
+								25052,
+								25052
 							]
 						],
 						"settings":
@@ -941,10 +2835,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 914.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -1036,7 +2930,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 234.0,
+	"side_bar_width": 75.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
