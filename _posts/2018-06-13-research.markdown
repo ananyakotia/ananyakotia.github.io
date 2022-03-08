@@ -19,7 +19,7 @@ tags: [jekyll]
 <br/>
 - <a href="" style="color:#e25440;font-weight: bold;">Labor Market Frictions, the Organization of Labor, and Structural Change </a>
     * with Chinmay Lohani (UPenn)
-    * Funding: STEG ($18,000)
+    * Funding: <a href="https://steg.cepr.org" style="color:#e25440;font-weight: regular;"> STEG ($18,000)</a>
 <br/>
 <br/>
 
