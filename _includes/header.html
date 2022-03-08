@@ -1,0 +1,85 @@
+<span class="mobile btn-mobile-menu">
+  <i class="icon icon-list btn-mobile-menu__icon"></i>
+  <i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
+</span>
+
+<header class="panel-cover" style="background-image: url({{ site.baseurl }}/images/5.jpg)">
+  <div class="panel-main">
+
+    <div class="panel-main__inner panel-inverted">
+    <div class="panel-main__content">
+        <a href="{{ site.baseurl }}/" title="link to home of {{ site.title }}">
+          <img src="{{ site.baseurl }}/images/profile.jpg" class="user-image" alt="picture">
+          <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
+        </a>
+        <hr class="panel-cover__divider">
+        <p class="panel-cover__description">{{ site.description }}</p>
+        <hr class="panel-cover__divider panel-cover__divider--secondary">
+
+        <div class="navigation-wrapper">
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="{{ site.baseurl }}/about" title="affiliations" class="blog-button">about</a></li>
+            </ul>
+            <ul class="navigation">
+              <li class="navigation__item"><a href="{{ site.baseurl }}/research" title="papers" class="blog-button">papers</a></li>
+            </ul>
+             <ul class="navigation">
+              <li class="navigation__item"><a href="{{ site.baseurl }}/files/CV/KhandelwalCV.pdf" title="cv" class="blog-button">cv</a></li>
+          </nav>
+          
+          <br/>
+
+          <nav class="cover-navigation navigation--social">
+            <ul class="navigation">
+
+            {% if site.author.email %}
+              <!-- Email -->
+              <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+              <li class="navigation__item">
+                <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
+                  <i class="fa fa-at fa-2x"></i>
+                  <span class="label">email</span>
+                </a>
+              </li>
+
+            {% endif %}
+               <!-- Twitter -->
+              
+              <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+              <li class="navigation__item">
+                <a href="https://scholar.google.com/citations?user=sYoVDTkAAAAJ&hl=en" title="Google Scholar" target="_blank">
+                  <i class="ai ai-google-scholar-square ai-2x" aria-hidden="true"></i>
+                  <span class="label">scholar</span>
+                </a>
+              </li>
+              
+              <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+              <li class="navigation__item">
+                <a href="https://akhandelwal.smugmug.com/Landscapes/" title="SmugMug" target="_blank">
+                  <i class="fa fa-camera fa-2x"></i>
+                  <span class="label">photos</span>
+                </a>
+              </li>
+
+              <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+              <li class="navigation__item">
+                <a href="https://twitter.com/akhandelwal8" title="Twitter" target="_blank">
+                  <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
+                  <span class="label">twitter</span>
+                </a>
+              </li>
+
+            </ul>
+          </nav>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="panel-cover--overlay"></div>
+  </div>
+</header>

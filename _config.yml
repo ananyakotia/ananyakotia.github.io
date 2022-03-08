@@ -1,0 +1,48 @@
+# Site settings
+title: Amit Khandelwal
+description: Chazen Professor of Global Business, Economics (Division Chair), Columbia GSB
+url: 'https://akhandelwal8.github.io'
+baseurl: ""
+google_analytics: 'UA-91934237-1'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Amit Khandelwal'
+  email: ak2796@columbia.edu
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+      layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+timezone: EST5EDT
+
+gems:
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
+
