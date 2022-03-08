@@ -3,10 +3,11 @@ title:  ""
 categories: [jekyll]
 tags: [jekyll]
 ---
-I study international trade and economic development. I am currently Chair of the Economics Division at Columbia Business School.
 
-Current Affiliations:
+I am a Ph.D. candidate at the Department of Economics, London School of Economics. I am interested in combining mircro empirical methods and macroeconomic theory to study firm dynamics and economic growth in developing countries.
+
+<!-- Current Affiliations:
 - [JPAL](https://www.povertyactionlab.org/)
 - [NBER](https://nber.org/)
 - [BREAD](http://ibread.org/bread/)
-- [IGC](https://www.theigc.org/)
+- [IGC](https://www.theigc.org/)-->
