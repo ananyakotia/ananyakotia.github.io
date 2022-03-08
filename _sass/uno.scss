@@ -53,8 +53,8 @@ body {
  */
 @font-face {
 	font-family: "SF Pro";
-	src: url("../fonts/SF-Pro/SF-Pro-Text-Black.otf");
-	src: url("../fonts/SF-Pro/SF-Pro-Text-Black.otf?") format("embedded-opentype"), url("../fonts/SF-Pro/SF-Pro-Text-Black.otf") format("opentype"), url("../fonts/SF-Pro/SF-Pro-Text-Black.otf") format("opentype"), url("../fonts/SF-Pro/SF-Pro-Text-Black.otf") format("opentype");
+	src: url("../fonts/SF-Pro/SF-Pro-Text-Regular.otf");
+	src: url("../fonts/SF-Pro/SF-Pro-Text-Regular.otf?") format("embedded-opentype"), url("../fonts/SF-Pro/SF-Pro-Text-Regular.otf") format("opentype"), url("../fonts/SF-Pro/SF-Pro-Text-Regular.otf") format("opentype"), url("../fonts/SF-Pro/SF-Pro-Text-Regular.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal; }
 .icon:before {
@@ -1414,13 +1414,13 @@ nav {
 	margin-left: 1em; }
 
 i {
-	font-family: 'SF-Pro-Text-Black';
+	font-family: 'SF Pro';
 	font-weight: normal;
 	font-style: normal;
 	font-size: 18px; }
 
 .icon-social {
-	font-family: 'SF-Pro-Text-Black';
+	font-family: 'SF Pro';
 	font-size: 22px;
 	display: block;
 	position: relative; }
