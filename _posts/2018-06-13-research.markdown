@@ -5,19 +5,19 @@ tags: [jekyll]
 ---
 
 ### Working Projects
-- <a href="" style="color:#e25440;font-weight: bold;">How Much do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation</a> &nbsp;&nbsp;&nbsp;&#10098;&#10099;
+- <a href="" style="color:#e25440;font-weight: bold;">How Much do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation</a>;
 <br/>
 <br/>
-- <a href="" style="color:#e25440;font-weight: bold;">Trade Liberalization and Misallocation</a> &nbsp;&nbsp;&nbsp;&#10098; &#10099;
+- <a href="" style="color:#e25440;font-weight: bold;">Trade Liberalization and Misallocation</a>;
     * Funding: IGC ($23,000)
 <br/>
 <br/>
-- <a href="" style="color:#e25440;font-weight: bold;">Aggregate Impacts of Command-and-Control Environmental Policy: Evidence from Court-Ordered Mining Bans in India</a> &nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_TWGR/TWGR_bib.bib)&#10099;
+- <a href="" style="color:#e25440;font-weight: bold;">Aggregate Impacts of Command-and-Control Environmental Policy: Evidence from Court-Ordered Mining Bans in India</a>;
     * with Utkarsh Saxena and Henry Zhang (MIT)
     * Funding: PEDL ($33,000)
 <br/>
 <br/>
-- <a href="" style="color:#e25440;font-weight: bold;">Labor Market Frictions, the Organization of Labor, and Structural Change </a> *NBER 29562*&nbsp;&nbsp;&nbsp;&#10098;[&#10099;
+- <a href="" style="color:#e25440;font-weight: bold;">Labor Market Frictions, the Organization of Labor, and Structural Change </a>;
     * with Chinmay Lohani (UPenn)
     * Funding: STEG ($18,000)
 <br/>
