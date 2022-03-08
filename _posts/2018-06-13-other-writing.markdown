@@ -5,22 +5,23 @@ tags: [jekyll]
 ---
 
 ### Policy
-- 2018, <a href="https://www.epw.in/journal/2018/9/perspectives/should-states-target-3-fiscal-deficit.html" style="color:#e25440;font-weight: bold;">Should States Target a 3% Fiscal Deficit?</a>, Economics and Political Weekly.
-    * with Rathin Roy
+
+- 2018, <a href="https://www.epw.in/journal/2018/9/perspectives/should-states-target-3-fiscal-deficit.html" style="color:#2c7e5a;font-weight: 500;">Should States Target a 3% Fiscal Deficit?</a>, Economics and Political Weekly.
 <br/>
 <br/>
-- <a href="" style="color:#e25440;font-weight: bold;">Trade Liberalization and Misallocation</a>
-    * Funding: IGC ($23,000)
+- 2018, <a href="https://www.epw.in/journal/2018/9/perspectives/should-states-target-3-fiscal-deficit.html" style="color:#2c7e5a;font-weight: 500;">Should States Target a 3% Fiscal Deficit?</a>, Economics and Political Weekly.
 <br/>
 <br/>
-- <a href="" style="color:#e25440;font-weight: bold;">Aggregate Impacts of Command-and-Control Environmental Policy: Evidence from Court-Ordered Mining Bans in India</a>
-    * with Utkarsh Saxena and Henry Zhang (MIT)
-    * Funding: PEDL ($33,000)
+- 2018, <a href="https://www.epw.in/journal/2018/9/perspectives/should-states-target-3-fiscal-deficit.html" style="color:#2c7e5a;font-weight: 500;">Should States Target a 3% Fiscal Deficit?</a>, Economics and Political Weekly.
 <br/>
 <br/>
-- <a href="" style="color:#e25440;font-weight: bold;">Labor Market Frictions, the Organization of Labor, and Structural Change </a>
-    * with Chinmay Lohani (UPenn)
-    * Funding: STEG ($18,000)
+- 2018, <a href="https://www.epw.in/journal/2018/9/perspectives/should-states-target-3-fiscal-deficit.html" style="color:#2c7e5a;font-weight: 500;">Should States Target a 3% Fiscal Deficit?</a>, Economics and Political Weekly.
+<br/>
+<br/>
+- 2018, <a href="https://www.epw.in/journal/2018/9/perspectives/should-states-target-3-fiscal-deficit.html" style="color:#2c7e5a;font-weight: 500;">Should States Target a 3% Fiscal Deficit?</a>, Economics and Political Weekly.
+<br/>
+<br/>
+- 2018, <a href="https://www.epw.in/journal/2018/9/perspectives/should-states-target-3-fiscal-deficit.html" style="color:#2c7e5a;font-weight: 500;">Should States Target a 3% Fiscal Deficit?</a>, Economics and Political Weekly.
 <br/>
 <br/>
 
