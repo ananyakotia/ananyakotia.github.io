@@ -5,177 +5,28 @@ tags: [jekyll]
 ---
 
 ### Working Projects
-- <a href="http://pfajgelb.mycpanel.princeton.edu/TWGR_1206.pdf" style="color:#e25440;font-weight: bold;">The US-China Trade War and Global Reallocations</a>, *NBER 29562*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_TWGR/TWGR_bib.bib)&#10099;
-    * P. Goldberg, P. Fajgelbaum, P. Kennedy, D. Taglioni
+- <a href="http://pfajgelb.mycpanel.princeton.edu/TWGR_1206.pdf" style="color:#e25440;font-weight: bold;">The TITLE</a>, *NBER 29562*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_TWGR/TWGR_bib.bib)&#10099;
+    * AUTHORS
 <br/>
 <br/>
-- <a href="https://www.ashley-terese-swanson.com/uploads/1/2/0/3/120330286/akps_aug2021.pdf" style="color:#e25440;font-weight: bold;">Knowledge Acquisition in a High-Stakes Environment: Evidence from the Covid-19 Pandemic</a>
-    * C. Angelucci, A. Prat, A. Swanson
+- <a href="https://www.ashley-terese-swanson.com/uploads/1/2/0/3/120330286/akps_aug2021.pdf" style="color:#e25440;font-weight: bold;">TITLE</a>
+    * AUTHORS
 <br/>
 <br/>
-- <a href="{{site.baseurl}}/files/wp_LBKT/LBKTdraft_tosubmit.pdf" style="color:#e25440;font-weight: bold;">Language Barriers in Multinationals and Knowledge Transfers</a>, *NBER 28807*&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wp_LBKT/LBKT_bib.bib), [vox](https://voxeu.org/article/language-subsidies-improve-knowledge-transfers-multinationals?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=)&#10099;
-    * L. Guillouet, R. Macchiavello, M. Teachout
-<br/>
-<br/>
-- Using Satellite Imagery to Detect the Impacts of New Highways: An Application to India
-    * K. Baragwanath, G. Hanson, C. Liu, H. Park
 
+
+<!-- 
 ### Publications
-- forth, <a href="{{site.baseurl}}/files/aeri_NN/aeri_NN.pdf" style="color:#e25440;font-weight: bold;">Using Neural Networks to Predict Micro-Spatial Economic Growth</a>, ***American Economic Review: Insights***&nbsp;&nbsp;&nbsp;&#10098;[git](https://github.com/thomas9t/spatial-econ-cnn)&#10099;
-    * A. Khachiyan, A. Thomas, H. Zhou, G. Hanson, A. Cloninger, T. Rosing
+- forth, <a href="{{site.baseurl}}/files/aeri_NN/aeri_NN.pdf" style="color:#e25440;font-weight: bold;">Using TITLE</a>, ***JOURNAL***&nbsp;&nbsp;&nbsp;&#10098;[git](https://github.com/thomas9t/spatial-econ-cnn)&#10099;
+    * AUTHORS
 <br/>
 <br/>
-- 2022, <a href="{{site.baseurl}}/files/are_EITR/tradewar_1203.pdf" style="color:#e25440;font-weight: bold;">The Economic Impacts of the US-China Trade War</a>, ***Annual Review of Economics***
-    - P. Fajgelbaum
-    * [Economist](https://www.economist.com/finance-and-economics/2022/01/01/new-research-counts-the-costs-of-the-sino-american-trade-war)
-<br/>
-<br/>
-
-- 2021, <a href="{{site.baseurl}}/files/aeri_OLCN/OLCN.pdf" style="color:#e25440;font-weight: bold;">Optimal Lockdown in a Commuting Network</a>, ***American Economic Review: Insights***&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aeri_OLCN/OLCN_appendix.pdf), [sld]({{site.baseurl}}/files/aeri_OLCN/OLCN_slides.pdf), [rep](https://www.openicpsr.org/openicpsr/project/127341/version/V1/view), [bib]({{site.baseurl}}/files/aeri_OLCN/OLCN_bib.bib), [vox](https://voxeu.org/article/estimating-gains-spatially-targeted-lockdowns-against-covid-19)&#10099;
-    * P. Fajgelbaum, W. Kim, C. Mantovani, E. Schaal
+- 2022, <a href="{{site.baseurl}}/files/are_EITR/tradewar_1203.pdf" style="color:#e25440;font-weight: bold;">TITLE</a>, ***JOURNAL***
+    - AUTHOR
+  * [Economist](https://www.economist.com/finance-and-economics/2022/01/01/new-research-counts-the-costs-of-the-sino-american-trade-war) 
 <br/>
 <br/>
 
-- 2020, <a href="{{site.baseurl}}/files/qje_RTP/RTP.pdf" style="color:#e25440;font-weight: bold;">The Return to Protectionism</a>, ***Quarterly Journal of Economics*** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[+2019 waves]({{site.baseurl}}/files/qje_RTP/RTP_update.pdf), [app]({{site.baseurl}}/files/qje_RTP/RTP_appendix.pdf), [sld]({{site.baseurl}}/files/qje_RTP/RTP_slides.pdf), [dat]({{site.baseurl}}/files/qje_RTP/RTP_data.zip), [rep](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KSOVSE), [bib]({{site.baseurl}}/files/qje_RTP/RTP_bib.bib), [vox](https://voxeu.org/article/return-protectionism)&#10099;
-    * P. Goldberg, P. Fajgelbaum, P. Kennedy
-    * [Economist1](https://www.economist.com/finance-and-economics/2019/04/04/trade-talks-will-probably-end-with-tariffs-still-in-place/), [Economist2](https://www.economist.com/finance-and-economics/2019/05/09/so-far-donald-trumps-trade-war-has-not-derailed-the-global-economy), [Trade Talks Podcast](https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-77-happy-tariffversary), [CEA](https://www.whitehouse.gov/wp-content/uploads/2020/02/2020-Economic-Report-of-the-President-WHCEA.pdf), [JEC](https://www.jec.senate.gov/public/_cache/files/0edc8a6c-d7b4-4e3d-a9ed-d854be73fcea/joint-response-to-the-economic-report-of-the-president.pdf)
-<br/>
-<br/>
-
-- 2020, <a href="{{site.baseurl}}/files/are_DAIIT/DAIIT.pdf" style="color:#e25440;font-weight: bold;">How Distortions Alter the Impacts of International Trade in Developing Countries</a>, ***Annual Review of Economics***&nbsp;&nbsp;&nbsp;&#10098;[sld]({{site.baseurl}}/files/are_DAIIT/DAIIT_slides.pdf), [bib]({{site.baseurl}}/files/are_DAIIT/DAIIT_bib.bib), [conf](https://egc.yale.edu/trade-and-development-mini-conference), [voxdev podcast](https://voxdev.org/topic/firms-trade/trade-developing-economies)&#10099;
-    * D. Aktin
-<br/>
-<br/>
-
-- 2019, <a href="{{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB.pdf" style="color:#e25440;font-weight: bold;">Measuring Productivity: Lessons from Tailored Surveys and Productivity Benchmarking</a>, ***American Economic Review Papers & Proceedings***&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_appendix.pdf), [rep](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PYWKJH), [sld]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_slides.pdf), [bib]({{site.baseurl}}/files/aerpp_MPTSPB/MPTSPB_bib.bib)&#10099;
-    * D. Atkin, A. Osman
-<br/>
-<br/>
-
-- 2019, <a href="{{site.baseurl}}/files/jue_DUM/DUM.pdf" style="color:#e25440;font-weight: bold;">Detecting Urban Markets with Satellite Imagery: An Application to India</a>, ***Journal of Urban Economics***&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/jue_DUM/DUM_appendix.pdf), [dat]({{site.baseurl}}/files/jue_DUM/DUM_data.zip), [sld]({{site.baseurl}}/files/jue_DUM/DUM_slides.pptx), [bib]({{site.baseurl}}/files/jue_DUM/DUM_bib.bib), [vox](https://voxdev.org/topic/infrastructure-urbanisation/satellite-imagery-future-tracking-urban-markets)&#10099;
-    * K. Baragwanath, R. Goldblatt, G. Hanson
-<br/>
-<br/>
-
-- 2018, <a href="{{site.baseurl}}/files/rse_ULNLSPBIC/ULNLSPBIC.pdf" style="color:#e25440;font-weight: bold;">Using Landsat and Nighttime Lights for Supervised Pixel-Based Image Classification of Urban Land Cover</a>, ***Remote Sensing of Environment***&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/rse_ULNLSPBIC/ULNLSPBIC_bib.bib)&#10099;
-    * R. Goldblatt, M. Stuhlmacher, B. Tellman, N. Clinton, G. Hanson, M. Georgescu, C. Wang, F. Serrano-Candela, W. Cheng, R. Balling
-<br/>
-<br/>
-
-- 2017, <a href="{{site.baseurl}}/files/qje_OBTAP/OBTAP.pdf" style="color:#e25440;font-weight: bold;">Organizational Barriers to Technology Adoption: Evidence from Soccer-ball Producers in Pakistan</a>, ***Quarterly Journal of Economics***&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/qje_OBTAP/OBTAP_appendix.pdf), [bib]({{site.baseurl}}/files/qje_OBTAP/OBTAP_bib.bib), [vox](https://voxdev.org/topic/technology-innovation/incentivising-technology-adoption-pakistani-firms)&#10099;
-    * D. Atkin, A. Chaudhry, S. Chaudry, E. Verhoogen
-    * [Atlantic](https://www.theatlantic.com/business/archive/2014/07/one-city-in-pakistan-produces-nearly-half-of-the-worlds-soccer-balls/373802/), [WSJ](https://blogs.wsj.com/economics/2014/04/28/how-automation-fell-flat-in-the-worlds-soccer-ball-capital/)
-<br/>
-<br/>
-
-- 2017, <a href="{{site.baseurl}}/files/qje_EFP/EFP.pdf" style="color:#e25440;font-weight: bold;">Exporting and Firm Performance: Evidence from a Randomized Trial</a>, ***Quarterly Journal of Economics*** [Editor's Choice]&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/qje_EFP/EFP_appendix.pdf), [sld]({{site.baseurl}}/files/qje_EFP/EFP_slides.pdf), [rep](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QOGMVI), [bib]({{site.baseurl}}/files/qje_EFP/EFP_bib.bib), [vox](https://voxeu.org/article/exports-and-firm-performance-randomised-trial-evidence)&#10099;
-    * D. Atkin, A. Osman
-    * [CEA](https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_trade_report_final_non-embargoed_v2.pdf), [Bloomberg](https://www.bloomberg.com/opinion/articles/2017-12-14/u-s-could-give-exporters-a-helping-hand), [Trade Talks Podcast](https://www.piie.com/experts/peterson-perspectives/trade-talks-episode-62-randomized-trade)
-<br/>
-<br/>
-
-- 2016, <a href="{{site.baseurl}}/files/rs_DBUAI/DBUAI.pdf" style="color:#e25440;font-weight: bold;">Detecting the Boundaries of Urban Areas in India: A Dataset for Pixel-Based Image Classification in Google Earth Engine</a>, ***Remote Sensing***&nbsp;&nbsp;&nbsp;&#10098;[dat]({{site.baseurl}}/files/rs_DBUAI/IndiaFinal20k_IndiaFinal20k_5samples.kml), [bib]({{site.baseurl}}/files/rs_DBUAI/DBUAI_bib.bib)&#10099;
-    * R. Goldblatt, W. You, H. Hanson
-    * [Citylab](https://www.citylab.com/life/2017/04/you-can-now-help-map-the-human-footprint-urbanization/522903/)
-<br/>
-<br/>
-
-- 2016, <a href="{{site.baseurl}}/files/wbr_ODPCBC/ODPCBC.pdf" style="color:#e25440;font-weight: bold;">On the Orgins and Development of the Pakistan's Soccer-Ball Cluster</a>, ***World Bank Economic Review (ABCDE Conference Papers & Proceedings)***&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/wbr_ODPCBC/ODPCBC_bib.bib)&#10099;
-    * D. Atkin, A. Chaudhry, S. Chaudry, T. Raza, E. Verhoogen
-<br/>
-<br/>
-
-- 2016, <a href="{{site.baseurl}}/files/qje_MUGFT/MUGFT.pdf" style="color:#e25440;font-weight: bold;">Measuring the Unequal Gains from Trade</a>, ***Quarterly Journal of Economics***&nbsp;&nbsp;&nbsp;&#10098;[sld]({{site.baseurl}}/files/qje_MUGFT/MUGFT_slides.pdf), [bib]({{site.baseurl}}/files/qje_MUGFT/MUGFT_bib.bib), [vox](https://voxeu.org/article/pro-poor-bias-trade-new-research-expenditure-channel)&#10099; 
-    * P. Fajgelbaum
-    * [Economist](https://www.economist.com/special-report/2016/09/29/coming-and-going/), [CEA](https://obamawhitehouse.archives.gov/sites/default/files/docs/cea_trade_report_final_non-embargoed_v2.pdf/), [NYTimes](https://www.nytimes.com/2015/05/18/business/a-decade-later-loss-of-maytag-factory-still-resonates.html?smprod=nytcore-ipad&smid=nytcore-ipad-share/), [IMF](https://www.imf.org/en/News/Articles/2016/09/13/sp09132016-Making-Globalization-Work-for-All/)
-<br/>
-<br/>
-<!--<a href="https://www.forbes.com/sites/realspin/2017/07/17/why-trade-should-be-core-to-trumps-pro-growth-economic-policy/#4587b23a3d07/" style="color:black;">Forbes</a>, <a href="https://www.newsweek.com/trump-about-wage-dumb-trade-war-against-china-771775/" style="color:black;">Newsweek</a>, 
-, <a href="https://www.usnews.com/opinion/economic-intelligence/articles/2016-10-27/trumps-protectionist-trade-policy-would-hurt-poor-americans/" style="color:black;">USNews</a>
-<a href="https://qz.com/407864/hey-average-american-heres-how-you-benefit-from-free-trade/" style="color:black;">Quartz</a>, 
-<a href="https://thehill.com/blogs/pundits-blog/economy-budget/316137-the-hidden-benefit-of-global-trade/" style="color:black;">Hill</a>, 
--->    
-
-- 2016, <a href="{{site.baseurl}}/files/ecma_PMTR/PMTR.pdf" style="color:#e25440;font-weight: bold;">Prices, Markups and Trade Reform</a>, ***Econometrica***&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/ecma_PMTR/PMTR_appendix.pdf), [sld]({{site.baseurl}}/files/ecma_PMTR/PMTR_slides.pdf), [bib]({{site.baseurl}}/files/ecma_PMTR/PMTR_bib.bib), [mi](https://microeconomicinsights.org/prices-markups-and-trade-reform/)&#10099;
-    * J. De Loecker, P. Goldberg, N. Pavcnik
-<br/>
-<br/>
-
-- 2015, <a href="{{site.baseurl}}/files/aerpp_MCDAF/MCDAF.pdf" style="color:#e25440;font-weight: bold;">Mark-up and Cost Dispersion Across Firms: Direct Evidence from Producer Surveys in Pakistan</a>, ***American Economic Review Papers & Proceedings***&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF_appendix.pdf), [bib]({{site.baseurl}}/files/aerpp_MCDAF/MCDAF_bib.bib)&#10099;
-    * D. Atkin, A. Chaudhry, S. Chaudry, E. Verhoogen
-<br/>
-<br/>
-
-- 2013, <a href="{{site.baseurl}}/files/aer_TLEIR/TLEIR.pdf" style="color:#e25440;font-weight: bold;">Trade Liberalization and Embedded Institutional Reform: Evidence from Chinese Exporters</a>, ***American Economic Review***&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/aer_TLEIR/TLEIR_appendix.pdf), [dat](https://sompks4.github.io/sub_data.html), [sld]({{site.baseurl}}/files/aer_TLEIR/TLEIR_slides.pptx), [bib]({{site.baseurl}}/files/aer_TLEIR/TLEIR_bib.bib), [vox](https://voxeu.org/article/hidden-gains-trade-liberalisation)&#10099;
-    * P. Schott, S.J. Wei
-<br/>
-<br/>
-
-- 2013, <a href="{{site.baseurl}}/files/restat_ICQU/ICQU.pdf" style="color:#e25440;font-weight: bold;">Import Competition and Quality Upgrading</a>, ***Review of Economics & Statistics***&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/restat_ICQU/ICQU_bib.bib), [vox](https://voxdev.org/topic/firms-trade/import-competition-and-quality-domestic-goods)&#10099;
-    * M. Amiti
-<br/>
-<br/>
-
-- 2011, <a href="{{site.baseurl}}/files/restat_TLFPI/TLFPI.pdf" style="color:#e25440;font-weight: bold;">Trade Liberalization and Firm Productivity: The Case of India</a>, ***Review of Economics & Statistics***&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/restat_TLFPI/TLFPI_appendix.pdf), [bib]({{site.baseurl}}/files/restat_TLFPI/TLFPI_bib.bib)&#10099;
-    * P. Topalova
-<br/>
-<br/>
-
-- 2011, <a href="{{site.baseurl}}/files/jie_RIFT/RIFT.pdf" style="color:#e25440;font-weight: bold;">The Role of Intermediaries in Facilitating Trade</a>, ***Journal of International Economics***&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/jie_RIFT/RIFT_appendix.pdf), [dat]({{site.baseurl}}/files/jie_RIFT/RIFT_data.zip), [bib]({{site.baseurl}}/files/jie_RIFT/RIFT_bib.bib)&#10099;
-    * J.B. Ahn, S.J. Wei
-<br/>
-<br/>
-
-- 2010, <a href="{{site.baseurl}}/files/qje_IIIDPG/IIDPG.pdf" style="color:#e25440;font-weight: bold;">Imported Intermediate Inputs and Domestic Product Growth: Evidence from India</a>, ***Quarterly Journal of Economics***&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/qje_IIIDPG/IIDPG_bib.bib), [vox](https://voxeu.org/article/imported-inputs-and-domestic-product-growth-india)&#10099;
-    * P. Goldberg, N. Pavcnik, P. Topalova
-    * [Economist](https://www.economist.com/finance-and-economics/2009/05/07/opening-the-floodgates/)
-<br/>
-<br/>
-
-- 2010, <a href="{{site.baseurl}}/files/restud_TLSQL/TLSQL.pdf" style="color:#e25440;font-weight: bold;">The Long and Short (of) Quality Ladders</a>, ***Review of Economic Studies***&nbsp;&nbsp;&nbsp;&#10098;[dat]({{site.baseurl}}/files/restud_TLSQL/ladders_100113.zip), [bib]({{site.baseurl}}/files/restud_TLSQL/TLSQL_bib.bib)&#10099;
-<br/>
-<br/>
-
-- 2010, <a href="{{site.baseurl}}/files/restat_MFPTDW/MFPTDW.pdf" style="color:#e25440;font-weight: bold;">Multi-product Firms and Product Turnover in the Developing World: Evidence from India</a>, ***Review of Economics & Statistics***&nbsp;&nbsp;&nbsp;&#10098;[app]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW_appendix.pdf), [bib]({{site.baseurl}}/files/restat_MFPTDW/MFPTDW_bib.bib)&#10099;
-    * P. Goldberg, N. Pavcnik, P. Topalova
-<br/>
-<br/>
-
-- 2009, <a href="{{site.baseurl}}/files/aerpp_TLNII/TLNII.pdf" style="color:#e25440;font-weight: bold;">Trade Liberalization and New Imported Inputs</a>, ***American Economic Review Papers & Proceedings***&nbsp;&nbsp;&nbsp;&#10098;[bib]({{site.baseurl}}/files/aerpp_TLNII/TLNII_bib.bib)&#10099; 
-    * P. Goldberg, N. Pavcnik, P. Topalova
-<br/>
-<br/>
+### Chapters & Policy Notes -->
 
 
-### Chapters & Policy Notes
-
-- 2016, <a href="{{site.baseurl}}/files/book_SEZ/book_SEZ.pdf" style="color:#e25440;font-weight: bold;">Special Economic Zones for Myanmar</a>, International Growth Centre
-    * M. Teachout
-<br/>	
-<br/>
-
-- 2015, <a href="{{site.baseurl}}/files/book_HS/CHS.pdf" style="color:#e25440;font-weight: bold;">Comment</a> on ["Grasp the Large, Let Go of the Small"](https://www.brookings.edu/wp-content/uploads/2016/07/2015a_hsieh.pdf) by Hseih and Song, *Brookings Papers in Economic Activity*.
-<br/>
-<br/>
-
-
-
-- 2013, <a href="{{site.baseurl}}/files/book_VIVO/VIVO.pdf" style="color:#e25440;font-weight: bold;">Variety In, Variety Out: Imported Inputs and Product Scope Expansion in India</a>, *Reforms and Economic Transformation in India*. 
-    * Goldberg, Pavcnik
-<br/>
-<br/>
-
-- 2009, <a href="{{site.baseurl}}/files/book_MFA/MFA.pdf" style="color:#e25440;font-weight: bold;">China's Experience under the Multifiber Arrangement and the Agreement on Textile and Clothing</a>, *China's Growing Role in World Trade*.&nbsp;&nbsp;&nbsp;&#10098;[dat](https://sompks4.github.io/sub_data.html), [bib]({{site.baseurl}}/files/book_MFA/MFA_bib.bib)&#10099;
-    * Brambilla, Schott
-<br/>
-<br/>
-
-### Cases
-- 2018, <a href="https://www8.gsb.columbia.edu/caseworks/node/681" style="color:#e25440;font-weight: bold;">Innovation in Pakistan's Soccer Ball Industry: Barriers to Adoption</a>, Columbia CaseWorks 180311
-    * R.A. Farrokhnia, E. Verhoogen
-<br/>
-<br/>
-- 2017, <a href="https://www8.gsb.columbia.edu/caseworks/node/644" style="color:#e25440;font-weight: bold;">Pace Ethiopia: Gaining a Foothold in the Global Footwear Industry</a>, Columbia CaseWorks 180301
-<br/>
-<br/>
-- 2019, <a href="https://www8.gsb.columbia.edu/caseworks/node/270" style="color:#e25440;font-weight: bold;">Trade Liberalizations: Evidence from India</a>, Columbia CaseWorks 090315
