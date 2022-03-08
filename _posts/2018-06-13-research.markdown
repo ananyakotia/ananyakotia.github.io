@@ -17,7 +17,7 @@ tags: [jekyll]
     * Funding: PEDL ($33,000)
 <br/>
 <br/>
-- <a href="" style="color:#005D68;font-weight: bold;">Labor Market Frictions, the Organization of Labor, and Structural Change </a>
+- <a href="" style="color:#005D68;font-weight: 600;">Labor Market Frictions, the Organization of Labor, and Structural Change </a>
     * <a style="color:#909090"> with Chinmay Lohani (UPenn) </a>
     * <a style="color:#909090"> Funding: STEG ($18,000) </a> 
 <br/>
