@@ -11,6 +11,26 @@ tags: [jekyll]
 <br/>
 <br/>
 
+- 2017, <a href="https://dea.gov.in/sites/default/files/Volume-4-Domain\%20Experts.pdf" style="color:#2c7e5a;font-weight: 500;">History and Evolution of The Fiscal Responsibility and Budget Management Act (2003): Issues and Challenges</a>, *Ministry of Finance, Government of India*.
+    * <a style="color:#909090"> with Rathin Roy </a> 
+<br/>
+<br/>
+
+- 2017, <a href="https://dea.gov.in/sites/default/files/Volume-4-Domain\%20Experts.pdf" style="color:#2c7e5a;font-weight: 500;">India's Experience with Sub-National Fiscal Responsibility Legislation: Performance and Challenges </a>, *Ministry of Finance, Government of India*.
+    * <a style="color:#909090"> with Rathin Roy </a> 
+<br/>
+<br/>
+
+- 2016, <a href="https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Do-Subnational-Fiscal-Rules-Foster-Fiscal-Discipline-New-Empirical-Evidence-from-Europe-43857" style="color:#2c7e5a;font-weight: 500;">Sub-National Fiscal Rules, Vertical Fiscal Imbalances, and Fiscal Discipline: New Empirical Evidence from Europe</a>, *IMF Working Paper*.
+    * <a style="color:#909090"> with Victor Lledo </a> 
+<br/>
+<br/>
+
+- 2016, <a href="https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Do-Subnational-Fiscal-Rules-Foster-Fiscal-Discipline-New-Empirical-Evidence-from-Europe-43857" style="color:#2c7e5a;font-weight: 500;">Sub-National Fiscal Rules, Vertical Fiscal Imbalances, and Fiscal Discipline: New Empirical Evidence from Europe</a>, *IMF Working Paper*.
+    * <a style="color:#909090"> with Victor Lledo </a> 
+<br/>
+<br/>
+
 
 <!-- 
 ### Publications
