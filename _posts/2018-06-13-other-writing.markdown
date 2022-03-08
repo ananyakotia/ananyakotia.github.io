@@ -26,8 +26,13 @@ tags: [jekyll]
 <br/>
 <br/>
 
-- 2016, <a href="https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Do-Subnational-Fiscal-Rules-Foster-Fiscal-Discipline-New-Empirical-Evidence-from-Europe-43857" style="color:#2c7e5a;font-weight: 500;">Sub-National Fiscal Rules, Vertical Fiscal Imbalances, and Fiscal Discipline: New Empirical Evidence from Europe</a>, *IMF Working Paper*.
-    * <a style="color:#909090"> with Victor Lledo </a> 
+### Op-eds
+
+- 2017, <a href="https://www.ideasforindia.in/topics/money-finance/why-are-finances-of-indian-states-deteriorating.html" style="color:#2c7e5a;font-weight: 500;">Why are finances of Indian states deteriorating?</a>, *IGC Ideas for India*.
+<br/>
+<br/>
+
+- 2017, <a href="http://www.business-standard.com/article/opinion/how-to-arrest-deterioration-in-state-finances-117070601469_1.html" style="color:#2c7e5a;font-weight: 500;">How to arrest deterioration in state finances</a>, *Business Standard*.
 <br/>
 <br/>
 
