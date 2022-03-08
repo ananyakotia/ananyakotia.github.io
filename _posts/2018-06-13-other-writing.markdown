@@ -4,8 +4,9 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-### Working Projects
-- <a href="" style="color:#e25440;font-weight: bold;">How Much do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation</a>
+### Policy
+- <a href="https://www.epw.in/journal/2018/9/perspectives/should-states-target-3-fiscal-deficit.html" style="color:#e25440;font-weight: bold;">Should States Target a 3\% Fiscal Deficit?</a>
+    * with Rathin Roy
 <br/>
 <br/>
 - <a href="" style="color:#e25440;font-weight: bold;">Trade Liberalization and Misallocation</a>
