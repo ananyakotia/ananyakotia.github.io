@@ -6,7 +6,7 @@ tags: [jekyll]
 
 ### Policy
 
-- 2018, <a href="https://www.epw.in/journal/2018/9/perspectives/should-states-target-3-fiscal-deficit.html" style="color:#2c7e5a;font-weight: 500;">Should States Target a 3% Fiscal Deficit?</a>, Economics and Political Weekly.
+- 2018, <a href="https://www.epw.in/journal/2018/9/perspectives/should-states-target-3-fiscal-deficit.html" style="color:#2c7e5a;font-weight: 500;">Should States Target a 3% Fiscal Deficit?</a>, *Economics and Political Weekly*.
     * <a style="color:#909090"> with Rathin Roy </a> 
 <br/>
 <br/>
