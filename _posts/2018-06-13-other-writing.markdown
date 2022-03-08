@@ -36,6 +36,19 @@ tags: [jekyll]
 <br/>
 <br/>
 
+- 2017, <a href="http://www.business-standard.com/article/opinion/india-s-distinctive-demographic-dividend-117021401382_1.html" style="color:#2c7e5a;font-weight: 500;">India's distinctive demographic dividend</a>, *Business Standard*.
+    * <a style="color:#909090"> with Arvind Subramanian </a> 
+<br/>
+<br/>
+
+- 2016, <a href="http://www.livemint.com/Opinion/hZGUhZSau5fRkoGYPBqHMN/An-economic-defence-of-surge-pricing.html" style="color:#2c7e5a;font-weight: 500;">An economic defence of surge pricing</a>, *Mint*.
+<br/>
+<br/>
+
+- 2015, <a href="http://www.financialexpress.com/opinion/columns-fine-tune-the-frbm-framework/45475/" style="color:#2c7e5a;font-weight: 500;">Fine-tune the FRBM framework</a>, *Financial Express*.
+<br/>
+<br/>
+
 
 <!-- 
 ### Publications
