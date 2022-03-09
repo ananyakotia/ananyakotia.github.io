@@ -64,7 +64,7 @@ body {
 	text-transform: none;
 	line-height: 1;
 	-webkit-font-smoothing: antialiased;
-	display: block;
+	display: inline-block;
 	text-decoration: inherit; }
 
 .icon-address-book:before {
@@ -1082,7 +1082,7 @@ pre {
 
 .label {
 	position: relative;
-	display: block;
+	display: inline-block;
 	padding: 8px 18px 9px 18px;
 	background: #e25440;
 	border-radius: 3px;
@@ -1156,7 +1156,7 @@ hr {
 	margin-left: 1.5em; }
 
 .post-meta__avatar {
-	display: block;
+	display: inline-block;
 	width: 22px;
 	height: 22px;
 	margin: 0 .3em -.4em 0;
@@ -1345,7 +1345,7 @@ hr {
 	display: none;
 	position: fixed;
 	z-index: 9999;
-	top: 5px;
+	top: 6px;
 	right: 0;
 	left: 0;
 	width: 100%;
@@ -1357,23 +1357,24 @@ hr {
 .btn-mobile-menu__icon,
 .btn-mobile-close__icon {
 	position: relative;
-	top: 5px;
+	top: 3px;
 	font-size: 36px;
-	color: #e3735e; }
+	color: #e3735e; 
+	display: inline-block; }
 
 nav {
-	display: block;
+	display: inline-block;
 	position: relative; }
 
 .navigation {
-	display: block;
+	display: inline-block;
 	float: left;
 	position: relative;
 	margin: 0;
 	list-style-type: none; }
 
 .navigation__item {
-	display: block;
+	display: inline-block;
 	margin: 0 2px 0 0;
 	line-height: 1em; }
 	.navigation__item a {
@@ -1650,7 +1651,7 @@ input[type="tel"] {
 		.cover-navigation.navigation--social {
 			padding-top: 5px; }
 			.cover-navigation.navigation--social .navigation li {
-				display: block;
+				display: inline-block;
 				width: 25.8%; }
 
 	.content-wrapper {
