@@ -23,6 +23,11 @@ tags: [jekyll]
 <br/>
 <br/>
 
+- <a href="" style="color:#2c7e5a;font-weight: 500;"> Meritocracy </a>
+    * <a style="color:#909090"> with Oriana Bandiera (LSE), Ilse Lindenlaub (Yale), Christian Moser (Columbia), and Andrea PRatt (Columbia) </a>
+<br/>
+<br/>
+
 <!-- 
 ### Publications
 - forth, <a href="{{site.baseurl}}/files/aeri_NN/aeri_NN.pdf" style="color:#e25440;font-weight: bold;">Using TITLE</a>, ***JOURNAL***&nbsp;&nbsp;&nbsp;&#10098;[git](https://github.com/thomas9t/spatial-econ-cnn)&#10099;
