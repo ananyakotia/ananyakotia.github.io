@@ -24,7 +24,7 @@ tags: [jekyll]
 <br/>
 
 - <a href="" style="color:#2c7e5a;font-weight: 500;"> Meritocracy </a>
-    * <a style="color:#909090"> with Oriana Bandiera (LSE), Ilse Lindenlaub (Yale), Christian Moser (Columbia), and Andrea PRatt (Columbia) </a>
+    * <a style="color:#909090"> with Oriana Bandiera (LSE), Ilse Lindenlaub (Yale), Christian Moser (Columbia), and Andrea Pratt (Columbia) </a>
 <br/>
 <br/>
 
