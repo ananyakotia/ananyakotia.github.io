@@ -6,7 +6,7 @@ tags: [jekyll]
 
 ### Policy
 
-- 2021, <a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/694351615916424727/workers-at-risk-panel-data-evidence-on-the-covid-19-labor-market-crisis-in-india" style="color:#2c7e5a;font-weight: 500;">Workers at Risk : Panel Data Evidence on the COVID-19 Labor Market Crisis in India</a>, *World Bank Policy Research Working Papers*.
+- 2021, <a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/694351615916424727/workers-at-risk-panel-data-evidence-on-the-covid-19-labor-market-crisis-in-india" style="color:#2c7e5a;font-weight: 500;">Workers at Risk: Panel Data Evidence on the COVID-19 Labor Market Crisis in India</a>, *World Bank Policy Research Working Papers*.
     * <a style="color:#909090"> with Maurizio Bussolo and Siddharth Sharma </a> 
 <br/>
 <br/>
