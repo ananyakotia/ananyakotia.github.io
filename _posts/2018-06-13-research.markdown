@@ -14,7 +14,7 @@ tags: [jekyll]
 <br/>
 - <a href="" style="color:#2c7e5a;font-weight: 500;">Aggregate Impacts of Command-and-Control Environmental Policy: Evidence from Court-Ordered Mining Bans in India</a>
     * <a style="color:#909090"> with Utkarsh Saxena and Henry Zhang (MIT) </a> 
-    * <a style="color:#909090"> Funding: PEDL ($33,000) </a> 
+    * <a style="color:#909090"> Funding: PEDL ($33,000), STICERD ($13,000) </a> 
 <br/>
 <br/>
 - <a href="" style="color:#2c7e5a;font-weight: 500;">Labor Market Frictions, the Organization of Labor, and Structural Change </a>
