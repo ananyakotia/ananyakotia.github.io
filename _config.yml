@@ -1,7 +1,8 @@
 # Site settings
 title: Ananya Kotia
-description: Ph.D. candidate, Department of Economics, London School of Economics \n \n a.kotia1@lse.ac.uk
+description: Ph.D. candidate, Department of Economics, London School of Economics 
 url: 'https://ananyakotia.com'
+email: a.kotia1@lse.ac.uk
 baseurl: ""
 google_analytics: '89138162'
 # disqus_shortname: 'your-disqus-name'
