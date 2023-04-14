@@ -5,11 +5,13 @@ tags: [jekyll]
 ---
 
 ### Working Projects
-- <a href="" style="color:#2c7e5a;font-weight: 500;">How Much do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation</a>
+- <a href="" style="color:#2c7e5a;font-weight: 500;">Import Competition and Domestic Distortions: Evidence from India</a>
+</a>
+* <a style="color:#909090"> Funding: IGC 
+  </a> 
 <br/>
 <br/>
-- <a href="" style="color:#2c7e5a;font-weight: 500;">Import Competition and Industrial Policy: Evidence from India</a>
-    * <a style="color:#909090"> Funding: IGC </a> 
+- <a href="" style="color:#2c7e5a;font-weight: 500;">How Much do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation
 <br/>
 <br/>
 - <a href="" style="color:#2c7e5a;font-weight: 500;">Aggregate Impacts of Command-and-Control Environmental Policy: Evidence from Court-Ordered Mining Bans in India</a>
