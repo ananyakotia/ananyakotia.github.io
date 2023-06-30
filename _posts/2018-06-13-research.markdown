@@ -28,11 +28,15 @@ tags: [jekyll]
 
 - <a href="" style="color:#2c7e5a;font-weight: 500;">Labor Market Frictions, the Organization of Labor, and Structural Change </a>
     * <a style="color:#909090"> with Chinmay Lohani (UPenn) and Utkarsh Saxena (Oxford) </a>
-    * <a style="color:#909090"> Funding: PEDL, STEG </a> 
+    * <a style="color:#909090"> Funding: STEG </a> 
 <br/>
 <br/>
 
-
+- <a href="" style="color:#2c7e5a;font-weight: 500;">Digitizing Historical Indian Plant-Level Data on Labour Outcomes </a>
+    * <a style="color:#909090"> with Utkarsh Saxena (Oxford) </a>
+    * <a style="color:#909090"> Funding: PEDL, G²LM|LIC </a> 
+<br/>
+<br/>
 
 
 
