@@ -8,7 +8,7 @@ tags: [jekyll]
 
 <a href= "" style="color:#2c7e5a;font-weight: 500;">Import Competition and the Long Run Effects of Industrial Policy: Evidence from India</a>
 <div style="color:#909090;margin-top: -10px;">
-- Funding: IGC
+    - Funding: IGC
 </div>
 
 
