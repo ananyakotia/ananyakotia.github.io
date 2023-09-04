@@ -28,9 +28,10 @@ tags: [jekyll]
 <br/>
 
 <a href="" style="color:#2c7e5a;font-weight: 500;">Digitizing Historical Indian Plant-Level Data on Labour Outcomes </a>
-- <a style="display: block; color:#909090; margin-top: -15px">  with Utkarsh Saxena (Oxford) </a>
-- <a style="display: block; color:#909090; margin-top: -15px">  Funding: PEDL, G²LM|LIC </a> 
-<br/>
+<ul>
+  <li style="margin-top: -10px;">with Utkarsh Saxena (Oxford)</li>
+  <li>Funding: PEDL, G²LM|LIC</li>
+</ul>
 
 
 <!-- 
@@ -44,7 +45,7 @@ tags: [jekyll]
   * [Economist](https://www.economist.com/finance-and-economics/2022/01/01/new-research-counts-the-costs-of-the-sino-american-trade-war) 
 <br/>
 <br/>
-
-### Chapters & Policy Notes -->
-
-
+### Chapters & Policy Notes 
+- <a style="display: block; color:#909090; margin-top: -15px">  with Utkarsh Saxena (Oxford) </a>
+- <a style="display: block; color:#909090; margin-top: -15px">  Funding: PEDL, G²LM|LIC </a> 
+<br/>-->
