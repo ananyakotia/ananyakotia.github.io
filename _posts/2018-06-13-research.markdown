@@ -6,7 +6,7 @@ tags: [jekyll]
 
 ### Working Projects
 
-- <a href= "" style="color:#2c7e5a;font-weight: 500;">Import Competition and the Long Run Effects of Industrial Policy: Evidence from India</a>
+<a href= "" style="color:#2c7e5a;font-weight: 500;">Import Competition and the Long Run Effects of Industrial Policy: Evidence from India</a>
     * <a style="color:#909090;font-weight: 300;"> Funding: IGC </a> 
 <br/>
 <br/>
