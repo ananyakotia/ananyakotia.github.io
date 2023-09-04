@@ -29,8 +29,8 @@ tags: [jekyll]
 
 <a href="" style="color:#2c7e5a;font-weight: 500;">Digitizing Historical Indian Plant-Level Data on Labour Outcomes </a>
 <ul>
-  <li style="margin-top: -15px;font-size: 10px;">with Utkarsh Saxena (Oxford)</li>
-  <li>Funding: PEDL, G²LM|LIC</li>
+  <li style="margin-top: -15px;font-size: 12px;color:#909090;">with Utkarsh Saxena (Oxford)</li>
+  <li style="font-size: 12px;color:#909090;">Funding: PEDL, G²LM|LIC</li>
 </ul>
 
 
