@@ -7,10 +7,7 @@ tags: [jekyll]
 ### Working Projects
 
 <a href= "" style="color:#2c7e5a;font-weight: 500;">Import Competition and the Long Run Effects of Industrial Policy: Evidence from India</a>
-<ul>
-  <li><a style="color:#909090;font-weight: 100;"> Funding: IGC </a> </li>
-</ul> 
-<br/>
+- <a style="color:#909090;margin-top: -20px;"> Funding: IGC </a>
 <br/>
 
 - <a href="" style="color:#2c7e5a;font-weight: 500;">How Much do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation
