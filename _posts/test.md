@@ -3,17 +3,6 @@ title:  ""
 categories: [jekyll]
 tags: [jekyll]
 ---
-    <style>
-        /* CSS to reduce space between text and list items */
-        ul, ol {
-            padding-left: 20px; /* Adjust this value to your desired spacing */
-            margin-top: 0; /* Remove any top margin */
-        }
-        li {
-            margin-bottom: 5px; /* Adjust this value to control spacing between list items */
-        }
-    </style>
-
 
 ### Working Projects
 
