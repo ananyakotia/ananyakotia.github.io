@@ -3,21 +3,22 @@ title:  ""
 categories: [jekyll]
 tags: [jekyll]
 ---
-    <style>
-        /* CSS to reduce space between text and list items */
-        ul, ol {
-            padding-left: 20px; /* Adjust this value to your desired spacing */
-            margin-top: 0; /* Remove any top margin */
-        }
-        li {
-            margin-bottom: 5px; /* Adjust this value to control spacing between list items */
-        }
-    </style>
+
+<style>
+    /* CSS to reduce space between text and list items */
+    ul, ol {
+        padding-left: 20px; /* Adjust this value to your desired spacing */
+        margin-top: 0; /* Remove any top margin */
+    }
+    li {
+        margin-bottom: 5px; /* Adjust this value to control spacing between list items */
+    }
+</style>
 
 
 ### Working Projects
 
-<a href= "" style="color:#2c7e5a;font-weight: 500;">Import Competition and the Long Run Effects of Industrial Policy: Evidence from Indiaa</a>
+<a href= "" style="color:#2c7e5a;font-weight: 500;">Import Competition and the Long Run Effects of Industrial Policy: Evidence from Indiap</a>
 <ul>
   <li><a style="color:#909090;font-weight: 100;"> Funding: IGC </a> </li>
 </ul> 
