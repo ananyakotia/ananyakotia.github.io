@@ -624,10 +624,16 @@
 		"/Users/kotia/Documents/Github/ananyakotia.github.io",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/_includes",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/_layouts",
-		"/Users/kotia/Documents/Github/ananyakotia.github.io/_posts"
+		"/Users/kotia/Documents/Github/ananyakotia.github.io/_posts",
+		"/Users/kotia/Documents/Github/ananyakotia.github.io/css",
+		"/Users/kotia/Documents/Github/ananyakotia.github.io/files",
+		"/Users/kotia/Documents/Github/ananyakotia.github.io/images"
 	],
 	"file_history":
 	[
+		"/Users/kotia/Documents/Github/ananyakotia.github.io/_posts/2018-06-13-research.markdown",
+		"/Users/kotia/Documents/Github/ananyakotia.github.io/_posts/test.md",
+		"/Users/kotia/Documents/Github/ananyakotia.github.io/css/main.scss",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/_posts/2018-06-13-other-writing.markdown",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/_posts/2018-06-14-about.markdown",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/_includes/head.html",
@@ -636,7 +642,6 @@
 		"/Users/kotia/Documents/GitHub/website/_posts/2018-06-13-research.markdown",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/index.html",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/_layouts/default.html",
-		"/Users/kotia/Documents/Github/ananyakotia.github.io/_posts/2018-06-13-research.markdown",
 		"/Users/kotia/Documents/GitHub/website/_includes/header.html",
 		"/Users/kotia/Documents/GitHub/website/_sass/uno.scss",
 		"/Users/kotia/Documents/GitHub/website/_posts/2018-06-13-other-writing.markdown",
@@ -753,13 +758,11 @@
 		"/C/Users/kotia/OneDrive - London School of Economics/WB/data/cpdx/code/check_income.do",
 		"/C/Users/kotia/OneDrive - London School of Economics/site/site/covid_misallocation/README.md",
 		"/C/Users/kotia/OneDrive - London School of Economics/2 Research Ideas/EE_Puzzle/code/2_2 replicate_BD2014.do",
-		"/C/Users/kotia/Desktop/macro-codebase-main/Hopenhayn-Rogerson/Rouwenhorst.jl",
-		"/C/Users/kotia/Desktop/macro-codebase-main/Hopenhayn-Rogerson/HR.jl",
-		"/C/Users/kotia/Desktop/macro-codebase-main/Hopenhayn-Rogerson/PSet4.jl"
+		"/C/Users/kotia/Desktop/macro-codebase-main/Hopenhayn-Rogerson/Rouwenhorst.jl"
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
@@ -775,6 +778,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"lse.ac.",
+			"twitter",
+			"twittr",
+			"#909090",
+			"style",
 			"distortion",
 			"industrial policy",
 			"ph.d",
@@ -876,6 +884,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"#848884",
 			"block",
 			"format(\"opentype\")",
 			"format(\"oprntype\")",
@@ -904,7 +913,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 32.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -949,7 +958,7 @@
 	"project": "website.sublime-project",
 	"replace":
 	{
-		"height": 60.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
