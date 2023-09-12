@@ -4,7 +4,5 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-I am a Ph.D. candidate at the Department of Economics, London School of Economics. I completed an MPhil in economics from the University of Oxford, an MA economics from the University of Cambridge, where I was an Inlaks scholar. My research interests are in macro-development and environmental economics. My research combines micro empirical methods and macroeconomic theory to study the impact of industrial and trade policies on firm dynamics and economic growth in developing countries. Prior to starting my Ph.D., I was a predoctoral research fellow at the Energy Policy Institute at the University of Chicago and an Economist at the Ministry of Finance, Government of India.
+I am a Ph.D. candidate at the Department of Economics, London School of Economics. I am currently visiting Dartmouth College as an International Economics PhD Fellow. My research interests are in macro-development and trade. My research combines micro empirical methods and macroeconomic theory to study the impact of industrial and trade policies on firm dynamics and economic growth in developing countries. I completed an MPhil in economics from the University of Oxford, an MA economics from the University of Cambridge, where I was an Inlaks scholar, and a BA in economics from the University of Delhi.  Prior to starting my Ph.D., I worked as a predoctoral research fellow at the Department of Economics at the University of Chicago and an Economist at the Ministry of Finance, Government of India.
 
-### Current Affiliations:
-- [LSE EEE](https://sticerd.lse.ac.uk/_new/research/economics-environment-energy/)
