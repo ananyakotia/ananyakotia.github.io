@@ -8,7 +8,6 @@ tags: [jekyll]
 
 <a href= "" style="color:#2c7e5a;font-weight: 500;">Trade and the Organization of Family Firms: Evidence from India 
 </a>
-</ul>
 <ul>
 <a href= "" style="color:#2c7e5a;font-weight: 500;">Import Competition and the Long Run Effects of Industrial Policy: Evidence from India </a>
 <ul>
