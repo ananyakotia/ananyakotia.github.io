@@ -17,7 +17,7 @@ tags: [jekyll]
 <ul>
   <li style="margin-top: -15px;font-size: 14px;color:#848884;">Funding: IGC</li>
 </ul>
-<a href= "" style="color:#2c7e5a;font-weight: 500;">Import Artificial Intelligence and Judicial State Capacity: Evidence from India 
+<a href= "" style="color:#2c7e5a;font-weight: 500;"> Artificial Intelligence and Judicial State Capacity: Evidence from India 
  </a>
 <ul>
   <li style="margin-top: -15px;font-size: 14px;color:#848884;">with Utkarsh Saxena (Oxford) </li>
