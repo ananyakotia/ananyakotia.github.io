@@ -6,11 +6,21 @@ tags: [jekyll]
 
 ### Working Projects
 
+<a href= "" style="color:#2c7e5a;font-weight: 500;">Trade and the Organization of Family Firms: Evidence from India 
+</a>
 <a href= "" style="color:#2c7e5a;font-weight: 500;">Import Competition and the Long Run Effects of Industrial Policy: Evidence from India </a>
 <ul>
   <li style="margin-top: -15px;font-size: 14px;color:#848884;">Funding: IGC</li>
 </ul>
-
+<ul>
+  <li style="margin-top: -15px;font-size: 14px;color:#848884;">Funding: IGC</li>
+</ul>
+<a href= "" style="color:#2c7e5a;font-weight: 500;">Import Artificial Intelligence and Judicial State Capacity: Evidence from India 
+ </a>
+<ul>
+  <li style="margin-top: -15px;font-size: 14px;color:#848884;">with Utkarsh Saxena (Oxford) </li>
+  <li style="font-size: 14px;color:#848884;">Funding: IGC</li>
+</ul>
 <a href="" style="color:#2c7e5a;font-weight: 500;">How Much do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation
 <ul>
   <li style="margin-top: -15px;font-size: 14px;color:#848884;">Funding: STEG</li>
