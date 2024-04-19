@@ -1,6 +1,21 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/css/bs.css" | prepend:site.baseurl }}">
+    <link rel="stylesheet" href="{{"/css/styles.css" | prepend:site.baseurl }}">
+    <link rel="stylesheet" href="{{"/css/pygment_trac.css" | prepend:site.baseurl }}">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!-- <style>
+          body {
+              background-image: url("./files/lightpaperfibers.webp");
+              background-repeat: repeat;
+          }
+      </style> -->
+  </head>
 
   <body>
     {% include header.html %}
