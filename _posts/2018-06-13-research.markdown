@@ -7,7 +7,7 @@ tags: [jekyll]
 ### Working Papers
 
 <a href="{{site.baseurl}}/files/Papers/BKLMP2024_04_15.pdf" target="blank"; style="color:#2c7e5a;font-weight: 500;"> <span class="char2"> Meritocracy across Countries</span></a><br>
-<h6 style="font-size: 17px">With <a href="https://www.orianabandiera.net" target="blank" class="char5">Oriana Bandiera</a>, <a href="https://sites.google.com/site/ilselindenlaub/" target="blank" class="char5">Ilse Lindenlaub</a>, <a href="https://http://www.economoser.com" target="blank" class="char5">Chris Moser</a>, <a href="https://www.columbia.edu/~ap3116/" target="blank" class="char5">Andrea Pratt</a>.</h6>
+<h6 style="font-size: 17px">With <a href="https://www.orianabandiera.net" target="blank" class="char5">Oriana Bandiera</a>, <a href="https://sites.google.com/site/ilselindenlaub/" target="blank" class="char5">Ilse Lindenlaub</a>, <a href="https://http://www.economoser.com" target="blank" class="char5">Chris Moser</a>, <a href="https://www.columbia.edu/~ap3116/" target="blank" class="char5">Andrea Prat</a>.</h6>
 
 <ul class="no-bullets">
     <li><span class="abstract-toggle" data-abstract-id="BKMLP_abstract">▷ Abstract</span>            
