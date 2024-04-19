@@ -4,6 +4,15 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
+### Working Papers
+
+<a href="{{site.baseurl}}/files/Papers/BKLMP2024_04_15.pdf" style="color:#2c7e5a;font-weight: 500;"> Meritocracy across Countries
+</a>
+<ul>
+  <li style="margin-top: -15px;font-size: 14px;color:#848884;">with Oriana Bandiera (LSE), Ilse Lindenlaub (Yale), Christian Moser (Columbia), and Andrea Pratt (Columbia)
+  </li>
+</ul>
+
 ### Working Projects
 
 <a href= "" style="color:#2c7e5a;font-weight: 500;">Trade and the Organization of Family Firms: Evidence from India 
@@ -27,13 +36,6 @@ tags: [jekyll]
 </a>
 <ul>
   <li style="margin-top: -15px;font-size: 14px;color:#848884;">Funding: STEG
-  </li>
-</ul>
-
-<a href="" style="color:#2c7e5a;font-weight: 500;"> Meritocracy 
-</a>
-<ul>
-  <li style="margin-top: -15px;font-size: 14px;color:#848884;">with Oriana Bandiera (LSE), Ilse Lindenlaub (Yale), Christian Moser (Columbia), and Andrea Pratt (Columbia)
   </li>
 </ul>
 
