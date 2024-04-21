@@ -60,7 +60,8 @@ pre.highlight code,
 
 summary:hover {
     cursor: pointer;
-    color: #0000EE;
+    text-shadow: none;
+    color: #e25440;
 }
 details summary::-webkit-details-marker {
   background: red;
@@ -178,7 +179,8 @@ coauthor {
     cursor: pointer;
 }
 .abstract-toggle:hover {
-  color: blue; 
+  text-shadow: none;
+  color: #e25440;
   font-weight: 600;
   text-decoration: underline;
 }
