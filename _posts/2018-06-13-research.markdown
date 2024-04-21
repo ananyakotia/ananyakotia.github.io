@@ -22,14 +22,14 @@ tags: [jekyll]
 ### Working Projects
 
 <a href= "" style="color:#2c7e5a;font-weight: 500;">Trade and the Organization of Family Firms: Evidence from India  </a>
-<br> <br/>
+<div style="height:10px;font-size:10px;">&nbsp;</div>
 
 
 <a href= "" style="color:#2c7e5a;font-weight: 500;">Import Competition and the Long Run Effects of Industrial Policy: Evidence from India  </a>
 <ul class="no-bullets">
 	<li style="margin-top: -16px;font-size: 14px;">Funding: IGC </li>
 </ul>
-<br> <br/>
+<div style="height:10px;font-size:10px;">&nbsp;</div>
 
 
 <a href= "" style="color:#2c7e5a;font-weight: 500;"> Artificial Intelligence and Judicial State Capacity: Evidence from India 
@@ -38,21 +38,21 @@ tags: [jekyll]
 	<li style="margin-top: -16px;font-size: 14px;">with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> </li>
 	<li style="font-size: 14px;">Funding: IGC </li>
 </ul>
-<br> <br/>
+<div style="height:10px;font-size:10px;">&nbsp;</div>
 
 
 <a href="" style="color:#2c7e5a;font-weight: 500;">How Much do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation </a>
 <ul class="no-bullets">
 	<li style="margin-top: -16px;font-size: 14px;">Funding: STEG </li>
 </ul>
-<br> <br/>
+<div style="height:10px;font-size:10px;">&nbsp;</div>
 
 <a href="" style="color:#2c7e5a;font-weight: 500;">Aggregate Impacts of Command-and-Control Environmental Policy: Evidence from Court-Ordered Mining Bans in India </a>
 <ul class="no-bullets">
 	<li style="margin-top: -16px;font-size: 14px;"><a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> and <a href="https://economics.mit.edu/people/phd-students/henry-zhang" target="_blank">Henry Zhang</a> </li>
 	<li style="font-size: 14px;">Funding: PEDL, STICERD </li>
 </ul>
-<br> <br/>
+<div style="height:10px;font-size:10px;">&nbsp;</div>
 
 
 <a href="" style="color:#2c7e5a;font-weight: 500;">Labor Market Frictions, the Organization of Labor, and Structural Change  </a>
@@ -60,7 +60,7 @@ tags: [jekyll]
 	<li style="margin-top: -16px;font-size: 14px;">with <a href="https://economics.sas.upenn.edu/people/chinmay-lohani" target="_blank">Chinmay Lohani</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> </li>
 	<li style="font-size: 14px;">Funding: STEG </li>
 </ul>
-<br> <br/>
+<div style="height:10px;font-size:10px;">&nbsp;</div>
 
 
 <a href="" style="color:#2c7e5a;font-weight: 500;">Digitizing Historical Indian Plant-Level Data on Labour Outcomes  </a>
