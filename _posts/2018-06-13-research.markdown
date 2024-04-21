@@ -27,7 +27,6 @@ tags: [jekyll]
 </a>
 <br>
 
-
 <a href= "" style="color:#2c7e5a;font-weight: 500;">Import Competition and the Long Run Effects of Industrial Policy: Evidence from India 
 </a>
 <ul class="no-bullets">
@@ -44,7 +43,6 @@ tags: [jekyll]
 </ul>
 <br>
 
-
 <a href="" style="color:#2c7e5a;font-weight: 500;">How Much do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation
 </a>
 <ul class="no-bullets">
@@ -52,7 +50,6 @@ tags: [jekyll]
   </li>
 </ul>
 <br>
-
 
 <a href="" style="color:#2c7e5a;font-weight: 500;">Aggregate Impacts of Command-and-Control Environmental Policy: Evidence from Court-Ordered Mining Bans in India
 </a>
@@ -64,7 +61,6 @@ tags: [jekyll]
 </ul>
 <br>
 
-
 <a href="" style="color:#2c7e5a;font-weight: 500;">Labor Market Frictions, the Organization of Labor, and Structural Change 
 </a>
 <ul class="no-bullets">
@@ -74,7 +70,6 @@ tags: [jekyll]
   </li>
 </ul>
 <br>
-
 
 <a href="" style="color:#2c7e5a;font-weight: 500;">Digitizing Historical Indian Plant-Level Data on Labour Outcomes 
 </a>
