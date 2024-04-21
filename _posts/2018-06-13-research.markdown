@@ -25,6 +25,8 @@ tags: [jekyll]
 
 <a href= "" style="color:#2c7e5a;font-weight: 500;">Trade and the Organization of Family Firms: Evidence from India 
 </a>
+<br>
+
 
 <a href= "" style="color:#2c7e5a;font-weight: 500;">Import Competition and the Long Run Effects of Industrial Policy: Evidence from India 
 </a>
@@ -32,6 +34,7 @@ tags: [jekyll]
   <li style="margin-top: -16px;font-size: 14px;color:#848884;">Funding: IGC
   </li>
 </ul>
+<br>
 
 <a href= "" style="color:#2c7e5a;font-weight: 500;"> Artificial Intelligence and Judicial State Capacity: Evidence from India 
 </a>
@@ -39,6 +42,8 @@ tags: [jekyll]
   <li style="margin-top: -16px;font-size: 14px;color:#848884;">with Utkarsh Saxena (Oxford) </li>
   <li style="font-size: 14px;color:#848884;">Funding: IGC</li>
 </ul>
+<br>
+
 
 <a href="" style="color:#2c7e5a;font-weight: 500;">How Much do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation
 </a>
@@ -46,6 +51,8 @@ tags: [jekyll]
   <li style="margin-top: -16px;font-size: 14px;color:#848884;">Funding: STEG
   </li>
 </ul>
+<br>
+
 
 <a href="" style="color:#2c7e5a;font-weight: 500;">Aggregate Impacts of Command-and-Control Environmental Policy: Evidence from Court-Ordered Mining Bans in India
 </a>
@@ -55,6 +62,8 @@ tags: [jekyll]
   <li style="font-size: 14px;color:#848884;">Funding: PEDL, STICERD
   </li>
 </ul>
+<br>
+
 
 <a href="" style="color:#2c7e5a;font-weight: 500;">Labor Market Frictions, the Organization of Labor, and Structural Change 
 </a>
@@ -64,6 +73,8 @@ tags: [jekyll]
   <li style="font-size: 14px;color:#848884;">Funding: STEG
   </li>
 </ul>
+<br>
+
 
 <a href="" style="color:#2c7e5a;font-weight: 500;">Digitizing Historical Indian Plant-Level Data on Labour Outcomes 
 </a>
