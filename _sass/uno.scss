@@ -1345,22 +1345,21 @@ hr {
 	display: none;
 	position: fixed;
 	z-index: 9999;
-	top: 30px;
-	right: 60px;
-	left: -20px;
+	top: 0;
+	right: 0;
+	left: 0;
 	width: 100%;
-	height: 30px;
-	background: rgba(0, 0, 0, 0);
-	border-bottom: 1px solid rgba(0, 0, 0, 0);
-	text-align: right; }
+	height: 42px;
+	background: rgba(0, 0, 0, 0.40);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+	text-align: center; }
 
 .btn-mobile-menu__icon,
 .btn-mobile-close__icon {
 	position: relative;
 	top: 3px;
 	font-size: 36px;
-	color: #e3735e; 
-	display: inline-block; }
+	color: #FFF; }
 
 nav {
 	display: inline-block;
