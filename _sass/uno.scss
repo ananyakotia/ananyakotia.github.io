@@ -52,14 +52,13 @@ body {
 
 @font-face {
 	font-family: "SF Pro";
-	src: url("../fonts/SF-Pro/foundation-icons.svg");
 	src: url("../fonts/SF-Pro/SF-Pro-Text-Regular.otf");
 	src: url("../fonts/SF-Pro/SF-Pro-Text-Regular.otf?") 
 	format("embedded-opentype"), url("../fonts/SF-Pro/SF-Pro-Text-Regular.otf") format("opentype"), url("../fonts/SF-Pro/foundation-icons.svg") format("svg"), url("../fonts/SF-Pro/foundation-icons.woff") format("woff");
 	font-weight: normal;
 	font-style: normal; }
 .icon:before {
-	font-family: "SF Pro";
+	font-family: "foundation-icons";
 	font-style: normal;
 	font-weight: normal;
 	font-variant: normal;
