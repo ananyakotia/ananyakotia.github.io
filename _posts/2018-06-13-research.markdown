@@ -21,9 +21,10 @@ tags: [jekyll]
 
 <br>
 
-### Working Projects
+### Work in Progress
 
 <a href= "" style="color:#2c7e5a;font-weight: 500;">Trade and the Organization of Family Firms: Evidence from India  </a>
+
 
 <a href= "" style="color:#2c7e5a;font-weight: 500;">Import Competition and the Long Run Effects of Industrial Policy: Evidence from India  </a>
 <ul class="no-bullets">
@@ -46,6 +47,7 @@ tags: [jekyll]
 	<li style="margin-top: -20px;font-size: 13px;">Funding: STEG </li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
+
 
 <a href="" style="color:#2c7e5a;font-weight: 500;">Aggregate Impacts of Command-and-Control Environmental Policy: Evidence from Court-Ordered Mining Bans in India </a>
 <ul class="no-bullets">
