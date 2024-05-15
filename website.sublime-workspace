@@ -520,16 +520,6 @@
 	"buffers":
 	[
 		{
-			"contents": "\n\nSearching 80 files for \"mobile\"\n\n~/Documents/Github/ananyakotia.github.io/_sass/uno.scss:\n  425  \tcontent: \"\\f176\"; }\n  426  \n  427: .icon-mobile-signal:before {\n  428  \tcontent: \"\\f177\"; }\n  429  \n  430: .icon-mobile:before {\n  431  \tcontent: \"\\f178\"; }\n  432  \n  ...\n 1342  \tfont-size: .7em; }\n 1343  \n 1344: .btn-mobile-menu {\n 1345  \tdisplay: none;\n 1346  \tposition: fixed;\n ....\n 1355  \ttext-align: center; }\n 1356  \n 1357: .btn-mobile-menu__icon,\n 1358: .btn-mobile-close__icon {\n 1359  \tposition: relative;\n 1360  \ttop: 3px;\n ....\n 1578  \t\tmargin-left: 0; } }\n 1579  @media all and (max-width: 960px) {\n 1580: \t.btn-mobile-menu {\n 1581  \t\tdisplay: block; }\n 1582  \n\n~/Documents/Github/ananyakotia.github.io/js/main.js:\n   26    }\n   27  \n   28:   $('.btn-mobile-menu').click(function () {\n   29      $('.navigation-wrapper').toggleClass('visible animated bounceInDown')\n   30:     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')\n   31    })\n   32  \n   33    $('.navigation-wrapper .blog-button').click(function () {\n   34      $('.navigation-wrapper').toggleClass('visible')\n   35:     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')\n   36    })\n   37  \n\n~/Documents/Github/ananyakotia.github.io/_includes/head.html:\n   17    <meta name=\"author\" content=\"{{ site.author.name }}\">\n   18    <meta name=\"HandheldFriendly\" content=\"True\">\n   19:   <meta name=\"MobileOptimized\" content=\"320\">\n   20:   <meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n   21:   <meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black-translucent\">\n   22    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\">\n   23  \n\n~/Documents/Github/ananyakotia.github.io/_includes/header.html:\n    1: <span class=\"mobile btn-mobile-menu\">\n    2:   <i class=\"icon icon-list btn-mobile-menu__icon\"></i>\n    3:   <i class=\"icon icon-x-circle btn-mobile-close__icon hidden\"></i>\n    4  </span>\n    5  \n\n16 matches across 4 files\n\n\nSearching 80 files for \"mobile btn-mobile-menu\"\n\n~/Documents/Github/ananyakotia.github.io/_includes/header.html:\n    1: <span class=\"mobile btn-mobile-menu\">\n    2    <i class=\"icon icon-list btn-mobile-menu__icon\"></i>\n    3    <i class=\"icon icon-x-circle btn-mobile-close__icon hidden\"></i>\n\n1 match in 1 file\n\n\nSearching 80 files for \"mobile\"\n\n~/Documents/Github/ananyakotia.github.io/_sass/uno.scss:\n  425  \tcontent: \"\\f176\"; }\n  426  \n  427: .icon-mobile-signal:before {\n  428  \tcontent: \"\\f177\"; }\n  429  \n  430: .icon-mobile:before {\n  431  \tcontent: \"\\f178\"; }\n  432  \n  ...\n 1342  \tfont-size: .7em; }\n 1343  \n 1344: .btn-mobile-menu {\n 1345  \tdisplay: none;\n 1346  \tposition: fixed;\n ....\n 1355  \ttext-align: center; }\n 1356  \n 1357: .btn-mobile-menu__icon,\n 1358: .btn-mobile-close__icon {\n 1359  \tposition: relative;\n 1360  \ttop: 3px;\n ....\n 1578  \t\tmargin-left: 0; } }\n 1579  @media all and (max-width: 960px) {\n 1580: \t.btn-mobile-menu {\n 1581  \t\tdisplay: block; }\n 1582  \n\n~/Documents/Github/ananyakotia.github.io/js/main.js:\n   26    }\n   27  \n   28:   $('.btn-mobile-menu').click(function () {\n   29      $('.navigation-wrapper').toggleClass('visible animated bounceInDown')\n   30:     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')\n   31    })\n   32  \n   33    $('.navigation-wrapper .blog-button').click(function () {\n   34      $('.navigation-wrapper').toggleClass('visible')\n   35:     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')\n   36    })\n   37  \n\n~/Documents/Github/ananyakotia.github.io/_includes/head.html:\n   17    <meta name=\"author\" content=\"{{ site.author.name }}\">\n   18    <meta name=\"HandheldFriendly\" content=\"True\">\n   19:   <meta name=\"MobileOptimized\" content=\"320\">\n   20:   <meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n   21:   <meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black-translucent\">\n   22    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\">\n   23  \n\n~/Documents/Github/ananyakotia.github.io/_includes/header.html:\n    1: <span class=\"mobile btn-mobile-menu\">\n    2:   <i class=\"icon icon-list btn-mobile-menu__icon\"></i>\n    3:   <i class=\"icon icon-x-circle btn-mobile-close__icon hidden\"></i>\n    4  </span>\n    5  \n\n16 matches across 4 files\n\n\nSearching 80 files for \"nav\"\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Heavy.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-RegularItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Regular.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Regular.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Medium.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Heavy.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Regular.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-HeavyItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Thin.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Medium.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-BoldItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-RegularItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-HeavyItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Medium.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Heavy.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-BoldItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/_sass/custom-scss.scss:\n    4  .post-content img,\n    5  .post-excerpt-home img,\n    6: .post-nav img {\n    7    @extend .img-rounded;\n    8  }\n    9  .post-content table,\n   10  .post-excerpt-home table,\n   11: .post-nav table {\n   12    @extend .table;\n   13    @extend .table-bordered;\n\n~/Documents/Github/ananyakotia.github.io/_sass/uno.scss:\n    5  */\n    6  @import \"animate\";\n    7: <skipped 129 characters> ...code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {\n    8  \tmargin: 0;\n    9  \tpadding: 0;\n   ..\n   14  \n   15  /* HTML5 display-role reset for older browsers */\n   16: article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {\n   17  \tdisplay: block; }\n   18  \n   ..\n 1277  \t\tcolor: #FFF; }\n 1278  \n 1279: .cover-navigation {\n 1280  \tmargin-top: 10px; }\n 1281  \n 1282: .cover-navigation--social {\n 1283  \tmargin-left: 30px; }\n 1284  \n ....\n 1306  \tbackground: none; }\n 1307  \n 1308: .btn, .navigation__item a {\n 1309  \tpadding: 10px 20px;\n 1310  \tborder: 1px solid #e25440;\n ....\n 1316  \tcolor: #e25440;\n 1317  \t-webkit-font-smoothing: antialiased; }\n 1318: \t.btn:hover, .navigation__item a:hover {\n 1319  \t\tcolor: #b9301c;\n 1320  \t\tborder-color: #b9301c; }\n ....\n 1362  \tcolor: #FFF; }\n 1363  \n 1364: nav {\n 1365  \tdisplay: inline-block;\n 1366  \tposition: relative; }\n 1367  \n 1368: .navigation {\n 1369  \tdisplay: inline-block;\n 1370  \tfloat: left;\n ....\n 1373  \tlist-style-type: none; }\n 1374  \n 1375: .navigation__item {\n 1376  \tdisplay: inline-block;\n 1377  \tmargin: 0 2px 0 0;\n 1378  \tline-height: 1em; }\n 1379: \t.navigation__item a {\n 1380  \t\tdisplay: block;\n 1381  \t\tposition: relative;\n ....\n 1383  \t\tcolor: #FFF;\n 1384  \t\topacity: .8; }\n 1385: \t\t.navigation__item a:hover {\n 1386  \t\t\tcolor: #FFF;\n 1387  \t\t\tborder-color: #FFF;\n 1388  \t\t\topacity: 1; }\n 1389  \n 1390: .navigation--social {\n 1391  \tmargin-left: 1.5em; }\n 1392: \t.navigation--social a {\n 1393  \t\tpadding: 6px 8px 6px 9px; }\n 1394: \t\t.navigation--social a .label {\n 1395  \t\t\tdisplay: none; }\n 1396: \t\t.navigation--social a .icon {\n 1397  \t\t\tdisplay: block;\n 1398  \t\t\tfont-size: 1.7em; }\n ....\n 1574  \t\tfont-size: .9em; }\n 1575  \n 1576: \t.navigation--social {\n 1577  \t\tmargin-top: 5px;\n 1578  \t\tmargin-left: 0; } }\n ....\n 1623  \t\t\t\tmargin: 1em auto; }\n 1624  \n 1625: \t.navigation-wrapper {\n 1626  \t\tdisplay: none;\n 1627  \t\tposition: fixed;\n ....\n 1633  \t\tbackground: rgba(51, 51, 51, 0.98);\n 1634  \t\tborder-bottom: 1px solid rgba(255, 255, 255, 0.15); }\n 1635: \t\t.navigation-wrapper.visible {\n 1636  \t\t\tdisplay: block; }\n 1637  \n 1638: \t.cover-navigation {\n 1639  \t\tdisplay: block;\n 1640  \t\tposition: relative;\n ....\n 1642  \t\tclear: left;\n 1643  \t\twidth: 100%; }\n 1644: \t\t.cover-navigation .navigation {\n 1645  \t\t\tdisplay: block;\n 1646  \t\t\twidth: 100%; }\n 1647: \t\t\t.cover-navigation .navigation li {\n 1648  \t\t\t\twidth: 80%;\n 1649  \t\t\t\tmargin-bottom: .4em; }\n 1650: \t\t.cover-navigation.navigation--social {\n 1651  \t\t\tpadding-top: 5px; }\n 1652: \t\t\t.cover-navigation.navigation--social .navigation li {\n 1653  \t\t\t\tdisplay: inline-block;\n 1654  \t\t\t\twidth: 25.8%; }\n ....\n 1663  \t\tmargin-left: 0; }\n 1664  \n 1665: \t.navigation__item {\n 1666  \t\twidth: 100%;\n 1667  \t\tmargin: 0 0 .4em 0; } }\n ....\n 1677  \t\tfont-size: .9em; }\n 1678  \n 1679: \t.btn, .navigation__item a {\n 1680  \t\tdisplay: block;\n 1681  \t\tmargin-bottom: .4em; } }\n\n~/Documents/Github/ananyakotia.github.io/js/main.js:\n   27  \n   28    $('.btn-mobile-menu').click(function () {\n   29:     $('.navigation-wrapper').toggleClass('visible animated bounceInDown')\n   30      $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')\n   31    })\n   32  \n   33:   $('.navigation-wrapper .blog-button').click(function () {\n   34:     $('.navigation-wrapper').toggleClass('visible')\n   35      $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')\n   36    })\n\n~/Documents/Github/ananyakotia.github.io/css/main.scss:\n   18  \n   19  .btn,\n   20: .navigation__item a {\n   21    margin: 5px 0;\n   22    white-space: nowrap;\n\n~/Documents/Github/ananyakotia.github.io/_includes/pagination.html:\n    1: <nav class=\"pagination\" role=\"navigation\">\n    2    {% if paginator.previous_page %}\n    3      {% if paginator.previous_page == 1 %}\n    .\n   13      <a rel=\"next\" class=\"posts older btn small\" href=\"{{ site.baseurl }}/page{{ paginator.next_page }}/\">Older Posts →</a>\n   14    {% endif %}\n   15: </nav>\n   16  \n\n~/Documents/Github/ananyakotia.github.io/_includes/header.html:\n   17          <hr class=\"panel-cover__divider panel-cover__divider--secondary\">\n   18  \n   19:         <div class=\"navigation-wrapper\">\n   20  \n   21:           <nav class=\"cover-navigation cover-navigation--primary\">\n   22:             <ul class=\"navigation\">\n   23:               <li class=\"navigation__item\"><a href=\"{{ site.baseurl }}/about\" title=\"affiliations\" class=\"blog-button\">about</a></li>\n   24              </ul>\n   25:             <ul class=\"navigation\">\n   26:               <li class=\"navigation__item\"><a href=\"{{ site.baseurl }}/research\" title=\"research\" class=\"blog-button\">research</a></li>\n   27              </ul>\n   28              <br/>\n   29:             <ul class=\"navigation\">\n   30:               <li class=\"navigation__item\"><a href=\"{{ site.baseurl }}/files/CV/KotiaCV.pdf\" title=\"cv\" class=\"blog-button\">cv</a></li>\n   31              </ul>            \n   32:             <ul class=\"navigation\">\n   33:               <li class=\"navigation__item\"><a href=\"{{ site.baseurl }}/other-writing\" title=\"other-writing\" class=\"blog-button\">other writings</a></li>\n   34              </ul>\n   35:           </nav>\n   36            \n   37            <br/>\n   38  \n   39:           <nav class=\"cover-navigation navigation--social\">\n   40:             <ul class=\"navigation\">\n   41  \n   42              {% if site.author.email %}\n   43                <!-- Email -->\n   44                <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css\">\n   45:               <li class=\"navigation__item\">\n   46                  <a href=\"mailto:{{ site.author.email }}\" title=\"Email {{ site.author.email }}\" target=\"_blank\">\n   47                    <i class=\"fa fa-at fa-2x\"></i>\n   ..\n   51              {% endif %}\n   52                <link rel=\"stylesheet\" href=\"https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css\">\n   53:               <li class=\"navigation__item\">\n   54                  <a href=\"https://twitter.com/ananyakotia\" title=\"Twitter\" target=\"_blank\">\n   55                    <i class=\"fa fa-twitter fa-2x\" aria-hidden=\"true\"></i>\n   ..\n   59  \n   60              </ul>\n   61:           </nav>\n   62  \n   63          </div>\n\n80 matches across 22 files\n\n\nSearching 80 files for \"menu\"\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Thin.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-SemiboldItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-UltralightItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Heavy.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-RegularItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Light.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Semibold.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Regular.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-MediumItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Bold.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Regular.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Medium.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Heavy.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Light.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Black.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Semibold.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-BlackItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Black.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Light.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Regular.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Ultralight.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Bold.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Thin.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-MediumItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-HeavyItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Ultralight.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-UltralightItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-LightItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Thin.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-ThinItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-BlackItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Black.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Medium.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-BoldItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-RegularItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Semibold.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-HeavyItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-ThinItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-LightItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Ultralight.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Medium.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Heavy.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-BoldItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Bold.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-SemiboldItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/_sass/uno.scss:\n    5  */\n    6  @import \"animate\";\n    7: <skipped 123 characters> ...cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {\n    8  \tmargin: 0;\n    9  \tpadding: 0;\n   ..\n   14  \n   15  /* HTML5 display-role reset for older browsers */\n   16: article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {\n   17  \tdisplay: block; }\n   18  \n   ..\n 1342  \tfont-size: .7em; }\n 1343  \n 1344: .btn-mobile-menu {\n 1345  \tdisplay: none;\n 1346  \tposition: fixed;\n ....\n 1355  \ttext-align: center; }\n 1356  \n 1357: .btn-mobile-menu__icon,\n 1358  .btn-mobile-close__icon {\n 1359  \tposition: relative;\n ....\n 1578  \t\tmargin-left: 0; } }\n 1579  @media all and (max-width: 960px) {\n 1580: \t.btn-mobile-menu {\n 1581  \t\tdisplay: block; }\n 1582  \n\n~/Documents/Github/ananyakotia.github.io/js/main.js:\n   26    }\n   27  \n   28:   $('.btn-mobile-menu').click(function () {\n   29      $('.navigation-wrapper').toggleClass('visible animated bounceInDown')\n   30:     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')\n   31    })\n   32  \n   33    $('.navigation-wrapper .blog-button').click(function () {\n   34      $('.navigation-wrapper').toggleClass('visible')\n   35:     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')\n   36    })\n   37  \n\n~/Documents/Github/ananyakotia.github.io/_includes/header.html:\n    1: <span class=\"mobile btn-mobile-menu\">\n    2:   <i class=\"icon icon-list btn-mobile-menu__icon\"></i>\n    3    <i class=\"icon icon-x-circle btn-mobile-close__icon hidden\"></i>\n    4  </span>\n\n1360 matches across 48 files\n",
-			"settings":
-			{
-				"buffer_size": 19367,
-				"line_ending": "Unix",
-				"name": "Find Results",
-				"scratch": true
-			}
-		},
-		{
 			"file": "_sass/custom-scss.scss",
 			"settings":
 			{
@@ -545,7 +535,7 @@
 					"cut",
 					null,
 					"AQAAAAAAAAAAAAAAAAAAAAAAAAAEAQAALy8gQWRkIHlvdXIgb3duIGN1c3RvbSBDU1MgaGVyZS4KQGltcG9ydCAicHlnbWVudHMtdG9tb3Jyb3ciOwoKLnBvc3QtY29udGVudCBpbWcsCi5wb3N0LWV4Y2VycHQtaG9tZSBpbWcsCi5wb3N0LW5hdiBpbWcgewogIEBleHRlbmQgLmltZy1yb3VuZGVkOwp9Ci5wb3N0LWNvbnRlbnQgdGFibGUsCi5wb3N0LWV4Y2VycHQtaG9tZSB0YWJsZSwKLnBvc3QtbmF2IHRhYmxlIHsKICBAZXh0ZW5kIC50YWJsZTsKICBAZXh0ZW5kIC50YWJsZS1ib3JkZXJlZDsKfQo",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAABAEAAAAAAAAAAAAAAADwvw"
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAEAQAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					9,
@@ -553,15 +543,94 @@
 					"paste",
 					null,
 					"AQAAAAAAAAAAAAAABAEAAAAAAAAAAAAA",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
 				]
+			]
+		},
+		{
+			"file": "_posts/2018-06-13-research.markdown",
+			"settings":
+			{
+				"buffer_size": 5616,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					5,
+					"left_delete",
+					null,
+					"BQAAAPoIAAAAAAAA+ggAAAAAAAAIAAAAUHJvamVjdHP5CAAAAAAAAPkIAAAAAAAAAQAAACD4CAAAAAAAAPgIAAAAAAAAAQAAAGf3CAAAAAAAAPcIAAAAAAAAAQAAAG72CAAAAAAAAPYIAAAAAAAAAQAAAGk",
+					"AQAAAAAAAAABAAAA+ggAAAAAAAACCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": " in"
+					},
+					"AwAAAPYIAAAAAAAA9wgAAAAAAAAAAAAA9wgAAAAAAAD4CAAAAAAAAAAAAAD4CAAAAAAAAPkIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9ggAAAAAAAD2CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": " Progress"
+					},
+					"CQAAAPkIAAAAAAAA+ggAAAAAAAAAAAAA+ggAAAAAAAD7CAAAAAAAAAAAAAD7CAAAAAAAAPwIAAAAAAAAAAAAAPwIAAAAAAAA/QgAAAAAAAAAAAAA/QgAAAAAAAD+CAAAAAAAAAAAAAD+CAAAAAAAAP8IAAAAAAAAAAAAAP8IAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAABCQAAAAAAAAAAAAABCQAAAAAAAAIJAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+QgAAAAAAAD5CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAH8JAAAAAAAAgAkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfwkAAAAAAAB/CQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAGwNAAAAAAAAbQ0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbA0AAAAAAABsDQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					94,
+					1,
+					"",
+					null,
+					"CwAAAJ4SAAAAAAAArRIAAAAAAAAPAAAAZm9udC1zaXplOiAxM3B4LhIAAAAAAAA9EgAAAAAAAA8AAABmb250LXNpemU6IDEzcHgaEQAAAAAAACkRAAAAAAAADwAAAGZvbnQtc2l6ZTogMTNweEMQAAAAAAAAUhAAAAAAAAAPAAAAZm9udC1zaXplOiAxM3B4Hg8AAAAAAAAtDwAAAAAAAA8AAABmb250LXNpemU6IDEzcHhLDgAAAAAAAFoOAAAAAAAADwAAAGZvbnQtc2l6ZTogMTNweAkNAAAAAAAAGA0AAAAAAAAPAAAAZm9udC1zaXplOiAxM3B40wsAAAAAAADiCwAAAAAAAA8AAABmb250LXNpemU6IDEzcHhjCwAAAAAAAHILAAAAAAAADwAAAGZvbnQtc2l6ZTogMTNweEYKAAAAAAAAVQoAAAAAAAAPAAAAZm9udC1zaXplOiAxM3B4DgEAAAAAAAAdAQAAAAAAAA8AAABmb250LXNpemU6IDEzcHg",
+					"AQAAAAAAAAABAAAADgEAAAAAAAAdAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 1309,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
 			]
 		},
 		{
 			"file": "_sass/uno.scss",
 			"settings":
 			{
-				"buffer_size": 31520,
+				"buffer_size": 31900,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
@@ -573,7 +642,7 @@
 					"paste",
 					null,
 					"AgAAABlcAAAAAAAAel0AAAAAAAAAAAAAel0AAAAAAAB6XQAAAAAAAHsBAAAuYnRuLW1vYmlsZS1tZW51IHsKCWRpc3BsYXk6IG5vbmU7Cglwb3NpdGlvbjogZml4ZWQ7Cgl6LWluZGV4OiA5OTk5OwoJdG9wOiAzMHB4OwoJcmlnaHQ6IDYwcHg7CglsZWZ0OiAtMjBweDsKCXdpZHRoOiAxMDAlOwoJaGVpZ2h0OiAzMHB4OwoJYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwKTsKCWJvcmRlci1ib3R0b206IDFweCBzb2xpZCByZ2JhKDAsIDAsIDAsIDApOwoJdGV4dC1hbGlnbjogcmlnaHQ7IH0KCi5idG4tbW9iaWxlLW1lbnVfX2ljb24sCi5idG4tbW9iaWxlLWNsb3NlX19pY29uIHsKCXBvc2l0aW9uOiByZWxhdGl2ZTsKCXRvcDogM3B4OwoJZm9udC1zaXplOiAzNnB4OwoJY29sb3I6ICNlMzczNWU7IAoJZGlzcGxheTogaW5saW5lLWJsb2NrOyB9",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABlcAAAAAAAAlF0AAAAAAAAAAAAAAADwvw"
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAGVwAAAAAAACUXQAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					29,
@@ -581,9 +650,505 @@
 					"paste",
 					null,
 					"AgAAAFt3AAAAAAAAbncAAAAAAAAAAAAAbncAAAAAAABudwAAAAAAAAcAAAAwLDAsMCww",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFt3AAAAAAAAYncAAAAAAAAAAAAAAADwvw"
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAW3cAAAAAAABidwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": "block"
+					},
+					"BgAAADZcAAAAAAAAN1wAAAAAAAAAAAAAN1wAAAAAAAA3XAAAAAAAAAQAAABub25lN1wAAAAAAAA4XAAAAAAAAAAAAAA4XAAAAAAAADlcAAAAAAAAAAAAADlcAAAAAAAAOlwAAAAAAAAAAAAAOlwAAAAAAAA7XAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANlwAAAAAAAA6XAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAOQGAAAAAAAA5QYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5AYAAAAAAADkBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAOUGAAAAAAAA5gYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5QYAAAAAAADlBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					1,
+					"paste",
+					null,
+					"AQAAAOYGAAAAAAAAKgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5gYAAAAAAADmBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"left_delete",
+					null,
+					"AQAAACkHAAAAAAAAKQcAAAAAAAABAAAAOw",
+					"AQAAAAAAAAABAAAAKgcAAAAAAAAqBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"paste",
+					null,
+					"AgAAAPQGAAAAAAAA+gYAAAAAAAAAAAAA+gYAAAAAAAD6BgAAAAAAABAAAABmb3VuZGF0aW9uLWljb25z",
+					"AQAAAAAAAAABAAAA9AYAAAAAAAAEBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAB8HAAAAAAAAIAcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwcAAAAAAAAfBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACAHAAAAAAAAIQcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAcAAAAAAAAgBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"paste",
+					null,
+					"AQAAACEHAAAAAAAAWgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIQcAAAAAAAAhBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					107,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAFoHAAAAAAAAWwcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgcAAAAAAABaBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFsHAAAAAAAAXAcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwcAAAAAAABbBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					1,
+					"paste",
+					null,
+					"AQAAAFwHAAAAAAAAlQcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXAcAAAAAAABcBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAJUHAAAAAAAAlgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlQcAAAAAAACVBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					111,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAJYHAAAAAAAAlwcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlgcAAAAAAACWBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"paste",
+					null,
+					"AQAAAJcHAAAAAAAA0AcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlwcAAAAAAACXBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"paste",
+					null,
+					"AgAAADYHAAAAAAAAXAcAAAAAAAAAAAAAXAcAAAAAAABcBwAAAAAAABQAAABmb3VuZGF0aW9uLWljb25zLnN2Zw",
+					"AQAAAAAAAAABAAAASgcAAAAAAAA2BwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					123,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFwHAAAAAAAAXAcAAAAAAAACAAAAIik",
+					"AQAAAAAAAAABAAAAXAcAAAAAAABeBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFwHAAAAAAAAXAcAAAAAAAAOAAAAIGZvcm1hdCgic3ZnIik",
+					"AQAAAAAAAAABAAAAXAcAAAAAAABqBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					137,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFwHAAAAAAAAXAcAAAAAAAB2AAAALCB1cmwoIi4uL2ZvbnRzL1NGLVByby9mb3VuZGF0aW9uLWljb25zLnN2ZyIpIGZvcm1hdCgic3ZnIiksIHVybCgiLi4vZm9udHMvU0YtUHJvL2ZvdW5kYXRpb24taWNvbnMuc3ZnIikgZm9ybWF0KCJzdmciKQ",
+					"AQAAAAAAAAABAAAA0gcAAAAAAABcBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					159,
+					2,
+					"left_delete",
+					null,
+					"AgAAAGAGAAAAAAAAYAYAAAAAAACFAAAAdXJsKCIuLi9mb250cy9TRi1Qcm8vU0YtUHJvLVRleHQtUmVndWxhci5vdGYiKSBmb3JtYXQoIm9wZW50eXBlIiksIHVybCgiLi4vZm9udHMvU0YtUHJvL1NGLVByby1UZXh0LVJlZ3VsYXIub3RmIikgZm9ybWF0KCJvcGVudHlwZSIpLF8GAAAAAAAAXwYAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAYAYAAAAAAADlBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					231,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAAAGAAAAAAAAAQYAAAAAAAAAAAAAAQYAAAAAAAACBgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					241,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAJUFAAAAAAAAlgUAAAAAAAAAAAAAlgUAAAAAAACXBQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlQUAAAAAAACVBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					243,
+					1,
+					"paste",
+					null,
+					"AQAAAJUFAAAAAAAAyQUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlQUAAAAAAACVBQAAAAAAAAAAAAAAADxA"
+				],
+				[
+					244,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAMkFAAAAAAAAygUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyQUAAAAAAADJBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					255,
+					1,
+					"paste",
+					null,
+					"AgAAAK8FAAAAAAAAwwUAAAAAAAAAAAAAwwUAAAAAAADDBQAAAAAAABgAAABTRi1Qcm8tVGV4dC1SZWd1bGFyLm90Zj8",
+					"AQAAAAAAAAABAAAArwUAAAAAAADHBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					281,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJQFAAAAAAAAlAUAAAAAAAAzAAAACXNyYzogdXJsKCIuLi9mb250cy9TRi1Qcm8vZm91bmRhdGlvbi1pY29ucy5zdmciKTsK",
+					"AQAAAAAAAAABAAAAlAUAAAAAAADHBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					290,
+					1,
+					"paste",
+					null,
+					"AgAAACUHAAAAAAAANQcAAAAAAAAAAAAANQcAAAAAAAA1BwAAAAAAAAYAAABTRiBQcm8",
+					"AQAAAAAAAAABAAAAJQcAAAAAAAArBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					297,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGAGAAAAAAAAYAYAAAAAAAB4AAAALCB1cmwoIi4uL2ZvbnRzL1NGLVByby9mb3VuZGF0aW9uLWljb25zLnN2ZyIpIGZvcm1hdCgic3ZnIiksIHVybCgiLi4vZm9udHMvU0YtUHJvL2ZvdW5kYXRpb24taWNvbnMud29mZiIpIGZvcm1hdCgid29mZiIp",
+					"AQAAAAAAAAABAAAAYAYAAAAAAADYBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					301,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAI8GAAAAAAAAkAYAAAAAAAAAAAAAkAYAAAAAAACRBgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjwYAAAAAAACPBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					303,
+					1,
+					"paste",
+					null,
+					"AQAAAI8GAAAAAAAAzAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjwYAAAAAAACPBgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					306,
+					2,
+					"left_delete",
+					null,
+					"AgAAAJEGAAAAAAAAkQYAAAAAAAABAAAAIJAGAAAAAAAAkAYAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAkgYAAAAAAACSBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					307,
+					1,
+					"left_delete",
+					null,
+					"AQAAAI8GAAAAAAAAjwYAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAkAYAAAAAAACQBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					326,
+					8,
+					"left_delete",
+					null,
+					"GAAAABwHAAAAAAAAHAcAAAAAAAABAAAAINQGAAAAAAAA1AYAAAAAAAABAAAAIKcGAAAAAAAApwYAAAAAAAABAAAAIBkHAAAAAAAAGQcAAAAAAAABAAAAINIGAAAAAAAA0gYAAAAAAAABAAAAIKYGAAAAAAAApgYAAAAAAAABAAAAIBYHAAAAAAAAFgcAAAAAAAABAAAAINAGAAAAAAAA0AYAAAAAAAABAAAAIKUGAAAAAAAApQYAAAAAAAABAAAAIBMHAAAAAAAAEwcAAAAAAAABAAAAIM4GAAAAAAAAzgYAAAAAAAABAAAAIKQGAAAAAAAApAYAAAAAAAABAAAAIBAHAAAAAAAAEAcAAAAAAAABAAAAIMwGAAAAAAAAzAYAAAAAAAABAAAAIKMGAAAAAAAAowYAAAAAAAABAAAAIA0HAAAAAAAADQcAAAAAAAABAAAAIMoGAAAAAAAAygYAAAAAAAABAAAAIKIGAAAAAAAAogYAAAAAAAABAAAAIAoHAAAAAAAACgcAAAAAAAABAAAAIMgGAAAAAAAAyAYAAAAAAAABAAAAIKEGAAAAAAAAoQYAAAAAAAABAAAAIAcHAAAAAAAABwcAAAAAAAABAAAAIMYGAAAAAAAAxgYAAAAAAAABAAAAIKAGAAAAAAAAoAYAAAAAAAABAAAAIA",
+					"AQAAAAAAAAADAAAAqAYAAAAAAACoBgAAAAAAAAAAAAAAAPC/1QYAAAAAAADVBgAAAAAAAAAAAAAAAPC/HQcAAAAAAAAdBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					333,
+					8,
+					"left_delete",
+					null,
+					"GAAAACEIAAAAAAAAIQgAAAAAAAABAAAAIMYHAAAAAAAAxgcAAAAAAAABAAAAIG4HAAAAAAAAbgcAAAAAAAABAAAAIB4IAAAAAAAAHggAAAAAAAABAAAAIMQHAAAAAAAAxAcAAAAAAAABAAAAIG0HAAAAAAAAbQcAAAAAAAABAAAAIBsIAAAAAAAAGwgAAAAAAAABAAAAIMIHAAAAAAAAwgcAAAAAAAABAAAAIGwHAAAAAAAAbAcAAAAAAAABAAAAIBgIAAAAAAAAGAgAAAAAAAABAAAAIMAHAAAAAAAAwAcAAAAAAAABAAAAIGsHAAAAAAAAawcAAAAAAAABAAAAIBUIAAAAAAAAFQgAAAAAAAABAAAAIL4HAAAAAAAAvgcAAAAAAAABAAAAIGoHAAAAAAAAagcAAAAAAAABAAAAIBIIAAAAAAAAEggAAAAAAAABAAAAILwHAAAAAAAAvAcAAAAAAAABAAAAIGkHAAAAAAAAaQcAAAAAAAABAAAAIA8IAAAAAAAADwgAAAAAAAABAAAAILoHAAAAAAAAugcAAAAAAAABAAAAIGgHAAAAAAAAaAcAAAAAAAABAAAAIAwIAAAAAAAADAgAAAAAAAABAAAAILgHAAAAAAAAuAcAAAAAAAABAAAAIGcHAAAAAAAAZwcAAAAAAAABAAAAIA",
+					"AQAAAAAAAAADAAAAbwcAAAAAAABvBwAAAAAAAAAAAAAAAPC/xwcAAAAAAADHBwAAAAAAAAAAAAAAAPC/IggAAAAAAAAiCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					340,
+					1,
+					"insert",
+					{
+						"characters": "\t\t\t\t"
+					},
+					"BAAAAEEHAAAAAAAAQgcAAAAAAAAAAAAAQgcAAAAAAABDBwAAAAAAAAAAAABDBwAAAAAAAEQHAAAAAAAAAAAAAEQHAAAAAAAARQcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQQcAAAAAAABBBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					341,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEUHAAAAAAAARgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQcAAAAAAABFBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					342,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEUHAAAAAAAARQcAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAARgcAAAAAAABGBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					345,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGoHAAAAAAAAagcAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAawcAAAAAAABrBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					348,
+					1,
+					"left_delete",
+					null,
+					"AQAAALkHAAAAAAAAuQcAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAugcAAAAAAAC6BwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					351,
+					1,
+					"left_delete",
+					null,
+					"AQAAAO8HAAAAAAAA7wcAAAAAAAABAAAAZg",
+					"AQAAAAAAAAABAAAA8AcAAAAAAADwBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					356,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAoIAAAAAAAACggAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAACggAAAAAAAALCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					360,
+					4,
+					"left_delete",
+					null,
+					"BAAAAFoIAAAAAAAAWggAAAAAAAABAAAAIFkIAAAAAAAAWQgAAAAAAAABAAAAIFgIAAAAAAAAWAgAAAAAAAABAAAAIFcIAAAAAAAAVwgAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAWwgAAAAAAABbCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					363,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHQIAAAAAAAAdAgAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAAdAgAAAAAAAB4CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					366,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEEHAAAAAAAAQQcAAAAAAAAEAAAACQkJCUAHAAAAAAAAQAcAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAARQcAAAAAAABBBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					367,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEAHAAAAAAAAQQcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQAcAAAAAAABABwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					372,
+					1,
+					"insert",
+					{
+						"characters": "\\"
+					},
+					"AQAAAI0GAAAAAAAAjgYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjQYAAAAAAACNBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					373,
+					1,
+					"left_delete",
+					null,
+					"AQAAAI0GAAAAAAAAjQYAAAAAAAABAAAAXA",
+					"AQAAAAAAAAABAAAAjgYAAAAAAACOBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					374,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAI0GAAAAAAAAjgYAAAAAAAAAAAAAjgYAAAAAAACPBgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjQYAAAAAAACNBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					375,
+					1,
+					"left_delete",
+					null,
+					"AQAAAI4GAAAAAAAAjgYAAAAAAAABAAAACQ",
+					"AQAAAAAAAAABAAAAjwYAAAAAAACPBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					378,
+					6,
+					"left_delete",
+					null,
+					"BgAAAIwIAAAAAAAAjAgAAAAAAAABAAAAIIsIAAAAAAAAiwgAAAAAAAABAAAAIIoIAAAAAAAAiggAAAAAAAABAAAAIIkIAAAAAAAAiQgAAAAAAAABAAAAIIgIAAAAAAAAiAgAAAAAAAABAAAAIIcIAAAAAAAAhwgAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAjQgAAAAAAACNCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					379,
+					2,
+					"left_delete",
+					null,
+					"AgAAAIYIAAAAAAAAhggAAAAAAAABAAAAIIUIAAAAAAAAhQgAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAhwgAAAAAAACHCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					380,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIQIAAAAAAAAhAgAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAhQgAAAAAAACFCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					381,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAIQIAAAAAAAAhQgAAAAAAAAAAAAAhQgAAAAAAACNCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAgAAAAAAACECAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					382,
+					9,
+					"left_delete",
+					null,
+					"CQAAAIwIAAAAAAAAjAgAAAAAAAABAAAAIIsIAAAAAAAAiwgAAAAAAAABAAAAIIoIAAAAAAAAiggAAAAAAAABAAAAIIkIAAAAAAAAiQgAAAAAAAABAAAAIIgIAAAAAAAAiAgAAAAAAAABAAAAIIcIAAAAAAAAhwgAAAAAAAABAAAAIIYIAAAAAAAAhggAAAAAAAABAAAAIIUIAAAAAAAAhQgAAAAAAAABAAAAIIQIAAAAAAAAhAgAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAjQgAAAAAAACNCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					387,
+					2,
+					"left_delete",
+					null,
+					"AgAAAI0GAAAAAAAAjQYAAAAAAAABAAAACowGAAAAAAAAjAYAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAjgYAAAAAAACOBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					390,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIMIAAAAAAAAgwgAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAhAgAAAAAAACECAAAAAAAAAAAAAAAAPC/"
 				]
 			]
+		},
+		{
+			"contents": "Searching 82 files for \"toggleClass\"\n\n~/Documents/Github/ananyakotia.github.io/js/main.js:\n   27  \n   28    $('.btn-mobile-menu').click(function () {\n   29:     $('.navigation-wrapper').toggleClass('visible animated bounceInDown')\n   30:     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')\n   31    })\n   32  \n   33    $('.navigation-wrapper .blog-button').click(function () {\n   34:     $('.navigation-wrapper').toggleClass('visible')\n   35:     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')\n   36    })\n   37  \n\n4 matches in 1 file\n\n\nSearching 82 files for \"foundation-icons\"\n\n~/Documents/Github/ananyakotia.github.io/_sass/uno.scss:\n   54  \tfont-family: \"SF Pro\";\n   55  \tsrc: url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf\");\n   56: \tsrc: url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf?\") format(\"embedded-opentype\"), url(\"../fonts/SF-Pro/SF-Pro-Text-Regular.otf\") format(\"opentype\"), url(\"../fonts/SF-Pro/foundation-icons.svg\") format(\"svg\"), url(\"../fonts/SF-Pro/foundation-icons.woff\") format(\"woff\");\n   57  \tfont-weight: normal;\n   58  \tfont-style: normal; }\n\n2 matches in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 1157,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
 		},
 		{
 			"file": "_includes/header.html",
@@ -595,7 +1160,7 @@
 					"paste",
 					null,
 					"AgAAAEgOAAAAAAAA1RkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgOAAA8c3BhbiBjbGFzcz0ibW9iaWxlIGJ0bi1tb2JpbGUtbWVudSI+CiAgPGkgY2xhc3M9Imljb24gaWNvbi1saXN0IGJ0bi1tb2JpbGUtbWVudV9faWNvbiI+PC9pPgogIDxpIGNsYXNzPSJpY29uIGljb24teC1jaXJjbGUgYnRuLW1vYmlsZS1jbG9zZV9faWNvbiBoaWRkZW4iPjwvaT4KPC9zcGFuPgoKPGhlYWRlciBjbGFzcz0icGFuZWwtY292ZXIiIHN0eWxlPSJiYWNrZ3JvdW5kLWltYWdlOiB1cmwoe3sgc2l0ZS5iYXNldXJsIH19L2ltYWdlcy81LmpwZykiPgogIDxkaXYgY2xhc3M9InBhbmVsLW1haW4iPgoKICAgIDxkaXYgY2xhc3M9InBhbmVsLW1haW5fX2lubmVyIHBhbmVsLWludmVydGVkIj4KICAgIDxkaXYgY2xhc3M9InBhbmVsLW1haW5fX2NvbnRlbnQiPgogICAgICAgIDxhIGhyZWY9Int7IHNpdGUuYmFzZXVybCB9fS8iIHRpdGxlPSJsaW5rIHRvIGhvbWUgb2Yge3sgc2l0ZS50aXRsZSB9fSI+CiAgICAgICAgICA8aW1nIHNyYz0ie3sgc2l0ZS5iYXNldXJsIH19L2ltYWdlcy9wcm9maWxlLmpwZyIgY2xhc3M9InVzZXItaW1hZ2UiIGFsdD0icGljdHVyZSI+CiAgICAgICAgICA8aDEgY2xhc3M9InBhbmVsLWNvdmVyX190aXRsZSBwYW5lbC10aXRsZSI+e3sgc2l0ZS50aXRsZSB9fTwvaDE+CiAgICAgICAgPC9hPgogICAgICAgIDxociBjbGFzcz0icGFuZWwtY292ZXJfX2RpdmlkZXIiPgogICAgICAgIDxwIGNsYXNzPSJwYW5lbC1jb3Zlcl9fZGVzY3JpcHRpb24iPnt7IHNpdGUuZGVzY3JpcHRpb24gfX08L3A+CiAgICAgICAgPGhyIGNsYXNzPSJwYW5lbC1jb3Zlcl9fZGl2aWRlciBwYW5lbC1jb3Zlcl9fZGl2aWRlci0tc2Vjb25kYXJ5Ij4KCiAgICAgICAgPGRpdiBjbGFzcz0ibmF2aWdhdGlvbi13cmFwcGVyIj4KCiAgICAgICAgICA8bmF2IGNsYXNzPSJjb3Zlci1uYXZpZ2F0aW9uIGNvdmVyLW5hdmlnYXRpb24tLXByaW1hcnkiPgogICAgICAgICAgICA8dWwgY2xhc3M9Im5hdmlnYXRpb24iPgogICAgICAgICAgICAgIDxsaSBjbGFzcz0ibmF2aWdhdGlvbl9faXRlbSI+PGEgaHJlZj0ie3sgc2l0ZS5iYXNldXJsIH19L2Fib3V0IiB0aXRsZT0iYWZmaWxpYXRpb25zIiBjbGFzcz0iYmxvZy1idXR0b24iPmFib3V0PC9hPjwvbGk+CiAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgIDx1bCBjbGFzcz0ibmF2aWdhdGlvbiI+CiAgICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXZpZ2F0aW9uX19pdGVtIj48YSBocmVmPSJ7eyBzaXRlLmJhc2V1cmwgfX0vcmVzZWFyY2giIHRpdGxlPSJwYXBlcnMiIGNsYXNzPSJibG9nLWJ1dHRvbiI+cGFwZXJzPC9hPjwvbGk+CiAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICA8dWwgY2xhc3M9Im5hdmlnYXRpb24iPgogICAgICAgICAgICAgIDxsaSBjbGFzcz0ibmF2aWdhdGlvbl9faXRlbSI+PGEgaHJlZj0ie3sgc2l0ZS5iYXNldXJsIH19L2ZpbGVzL0NWL0toYW5kZWx3YWxDVi5wZGYiIHRpdGxlPSJjdiIgY2xhc3M9ImJsb2ctYnV0dG9uIj5jdjwvYT48L2xpPgogICAgICAgICAgPC9uYXY+CiAgICAgICAgICAKICAgICAgICAgIDxici8+CgogICAgICAgICAgPG5hdiBjbGFzcz0iY292ZXItbmF2aWdhdGlvbiBuYXZpZ2F0aW9uLS1zb2NpYWwiPgogICAgICAgICAgICA8dWwgY2xhc3M9Im5hdmlnYXRpb24iPgoKICAgICAgICAgICAgeyUgaWYgc2l0ZS5hdXRob3IuZW1haWwgJX0KICAgICAgICAgICAgICA8IS0tIEVtYWlsIC0tPgogICAgICAgICAgICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9tYXhjZG4uYm9vdHN0cmFwY2RuLmNvbS9mb250LWF3ZXNvbWUvNC40LjAvY3NzL2ZvbnQtYXdlc29tZS5taW4uY3NzIj4KICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdmlnYXRpb25fX2l0ZW0iPgogICAgICAgICAgICAgICAgPGEgaHJlZj0ibWFpbHRvOnt7IHNpdGUuYXV0aG9yLmVtYWlsIH19IiB0aXRsZT0iRW1haWwge3sgc2l0ZS5hdXRob3IuZW1haWwgfX0iIHRhcmdldD0iX2JsYW5rIj4KICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWF0IGZhLTJ4Ij48L2k+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJsYWJlbCI+ZW1haWw8L3NwYW4+CiAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgPC9saT4KCiAgICAgICAgICAgIHslIGVuZGlmICV9CiAgICAgICAgICAgICAgIDwhLS0gVHdpdHRlciAtLT4KICAgICAgICAgICAgICAKICAgICAgICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vY2RuLnJhd2dpdC5jb20vanBzd2Fsc2gvYWNhZGVtaWNvbnMvbWFzdGVyL2Nzcy9hY2FkZW1pY29ucy5taW4uY3NzIj4KICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdmlnYXRpb25fX2l0ZW0iPgogICAgICAgICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jb20vY2l0YXRpb25zP3VzZXI9c1lvVkRUa0FBQUFKJmhsPWVuIiB0aXRsZT0iR29vZ2xlIFNjaG9sYXIiIHRhcmdldD0iX2JsYW5rIj4KICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImFpIGFpLWdvb2dsZS1zY2hvbGFyLXNxdWFyZSBhaS0yeCIgYXJpYS1oaWRkZW49InRydWUiPjwvaT4KICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImxhYmVsIj5zY2hvbGFyPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL21heGNkbi5ib290c3RyYXBjZG4uY29tL2ZvbnQtYXdlc29tZS80LjQuMC9jc3MvZm9udC1hd2Vzb21lLm1pbi5jc3MiPgogICAgICAgICAgICAgIDxsaSBjbGFzcz0ibmF2aWdhdGlvbl9faXRlbSI+CiAgICAgICAgICAgICAgICA8YSBocmVmPSJodHRwczovL2FraGFuZGVsd2FsLnNtdWdtdWcuY29tL0xhbmRzY2FwZXMvIiB0aXRsZT0iU211Z011ZyIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtY2FtZXJhIGZhLTJ4Ij48L2k+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJsYWJlbCI+cGhvdG9zPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgIDwvbGk+CgogICAgICAgICAgICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jZG4ucmF3Z2l0LmNvbS9qcHN3YWxzaC9hY2FkZW1pY29ucy9tYXN0ZXIvY3NzL2FjYWRlbWljb25zLm1pbi5jc3MiPgogICAgICAgICAgICAgIDxsaSBjbGFzcz0ibmF2aWdhdGlvbl9faXRlbSI+CiAgICAgICAgICAgICAgICA8YSBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tL2FraGFuZGVsd2FsOCIgdGl0bGU9IlR3aXR0ZXIiIHRhcmdldD0iX2JsYW5rIj4KICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLXR3aXR0ZXIgZmEtMngiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJsYWJlbCI+dHdpdHRlcjwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICA8L2xpPgoKICAgICAgICAgICAgPC91bD4KICAgICAgICAgIDwvbmF2PgoKICAgICAgICA8L2Rpdj4KCiAgICAgIDwvZGl2PgoKICAgIDwvZGl2PgoKICAgIDxkaXYgY2xhc3M9InBhbmVsLWNvdmVyLS1vdmVybGF5Ij48L2Rpdj4KICA8L2Rpdj4KPC9oZWFkZXI+Cg",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEgOAAAAAAAASA4AAAAAAAAAAAAAAADwvw"
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAASA4AAAAAAABIDgAAAAAAAAAAAAAAAPC/"
 				]
 			],
 			"settings":
@@ -715,13 +1280,10 @@
 	"expanded_folders":
 	[
 		"/Users/kotia/Documents/Github/ananyakotia.github.io",
-		"/Users/kotia/Documents/Github/ananyakotia.github.io/_includes",
-		"/Users/kotia/Documents/Github/ananyakotia.github.io/_sass",
+		"/Users/kotia/Documents/Github/ananyakotia.github.io/_posts",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/css",
-		"/Users/kotia/Documents/Github/ananyakotia.github.io/files",
-		"/Users/kotia/Documents/Github/ananyakotia.github.io/files/CV",
-		"/Users/kotia/Documents/Github/ananyakotia.github.io/images",
-		"/Users/kotia/Documents/Github/ananyakotia.github.io/images/favicons",
+		"/Users/kotia/Documents/Github/ananyakotia.github.io/fonts",
+		"/Users/kotia/Documents/Github/ananyakotia.github.io/fonts/SF-Pro",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/js"
 	],
 	"file_history":
@@ -857,7 +1419,7 @@
 	],
 	"find":
 	{
-		"height": 33.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -874,6 +1436,29 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"foundation-icons",
+			"toggleClass",
+			"icon-list",
+			"icon-list ",
+			"icon-widget",
+			"icon-x-circle",
+			"foundation-icons",
+			"btn-mobile-menu__icon",
+			"btn-mobile-menu",
+			"navigation__item",
+			"navigation__item--active",
+			"button",
+			"menuopen",
+			"mobile",
+			"menu",
+			"hamburger",
+			"mobile",
+			"icon",
+			"font-size: 13px",
+			"menu",
+			"nav",
+			"menu",
+			"nav",
 			"menu",
 			"nav",
 			"navigation-wrapper",
@@ -978,30 +1563,7 @@
 			"hamburger",
 			"ham",
 			"other-writing",
-			"black",
-			"SF-Pro",
-			"black",
-			"format(",
-			"format(\"truetype\")",
-			"format(.otf\")",
-			"working proj",
-			"font-family: \"SF-Pro-Text-Black\"",
-			"SF-Pro-Text-Regular",
-			"SF-Pro",
-			"font",
-			".svg",
-			".ttf",
-			".woff",
-			"research",
-			"growth",
-			"CV",
-			".eot",
-			"SF-",
-			"fonts/SF-Pro",
-			"fonts/SF-Pro-Text-Regular",
-			"font-family",
-			"font-face",
-			"SF-"
+			"black"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -1009,6 +1571,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"font-size: 15px",
 			"20px",
 			"13px",
 			"12px",
@@ -1048,48 +1611,6 @@
 			[
 				{
 					"buffer": 0,
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 19367,
-						"regions":
-						{
-							"match":
-							{
-								"flags": 112,
-								"regions": "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",
-								"scope": ""
-							}
-						},
-						"selection":
-						[
-							[
-								13027,
-								13027
-							]
-						],
-						"settings":
-						{
-							"detect_indentation": false,
-							"line_numbers": false,
-							"output_tag": 8,
-							"result_base_dir": "",
-							"result_file_regex": "^([^ \t].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 7667.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "_sass/custom-scss.scss",
 					"semi_transient": false,
 					"settings":
@@ -1115,32 +1636,88 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 5,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"file": "images/1.jpg",
-					"semi_transient": true,
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "image"
-				},
-				{
-					"buffer": 2,
-					"file": "_sass/uno.scss",
+					"buffer": 1,
+					"file": "_posts/2018-06-13-research.markdown",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 31520,
+						"buffer_size": 5616,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								30574,
-								30574
+								1366,
+								1366
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								399,
+								399
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_sass/uno.scss",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2179,
+								2179
 							]
 						],
 						"settings":
@@ -1150,15 +1727,82 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 659.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1157,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										186,
+										197
+									],
+									[
+										270,
+										281
+									],
+									[
+										448,
+										459
+									],
+									[
+										510,
+										521
+									],
+									[
+										978,
+										994
+									],
+									[
+										1037,
+										1053
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								608,
+								608
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
 					"file": "_includes/header.html",
 					"semi_transient": false,
 					"settings":
@@ -1184,12 +1828,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 4,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 6,
 					"file": "/Users/kotia/Library/CloudStorage/Dropbox/Research/MERITOCRACY/code/facts/fig04_overlap_heatmaps_appendix.do",
 					"semi_transient": false,
 					"settings":
@@ -1215,7 +1859,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 6,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -1269,7 +1913,7 @@
 	"project": "website.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 68.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1307,7 +1951,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 230.0,
+	"side_bar_width": 71.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
