@@ -1,4 +1,8 @@
 # Site settings
+permissions:
+  id-token: write
+  contents: read
+
 title: Ananya Kotia
 description: Ph.D. Candidate, Department of Economics <br /> London School of Economics 
 url: 'https://ananyakotia.com'
