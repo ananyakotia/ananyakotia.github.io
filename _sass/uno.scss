@@ -1351,18 +1351,27 @@ hr {
 	padding: 8px 12px;
 	font-size: .7em; }
 
+/* Hide the mobile menu button by default on larger screens */
 .btn-mobile-menu {
-	display: block;
-	position: fixed;
-	z-index: 9999;
-	top: 0;
-	right: 0;
-	left: 0;
-	width: 100%;
-	height: 42px;
-	background: rgba(0, 0, 0, 0.40);
-	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-	text-align: center; }
+	display: none;
+}
+
+/* Show the mobile menu button only on screens smaller than 768px */
+@media screen and (max-width: 768px) {
+	.btn-mobile-menu {
+		display: block;
+		position: fixed;
+		z-index: 9999;
+		top: 0;
+		right: 0;
+		left: 0;
+		width: 100%;
+		height: 42px;
+		background: rgba(0, 0, 0, 0.40);
+		border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+		text-align: center;
+	}
+}
 
 .btn-mobile-menu__icon,
 .btn-mobile-close__icon {
