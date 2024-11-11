@@ -36,7 +36,7 @@ tags: [jekyll]
 <a href= "" style="color:#2c7e5a;font-weight: 500;"> Artificial Intelligence, Government Litigation, and Bureaucratic Decision Making: Evidence from India
 </a>
 <ul class="no-bullets">
-	<li style="margin-top: -20px;font-size: 15px;"><a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank"> Daron Acemoglu</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> </li>
+	<li style="margin-top: -20px;font-size: 15px;">with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank"> Daron Acemoglu</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> </li>
 	<li style="font-size: 15px;"> 
 	</li>
 </ul>
