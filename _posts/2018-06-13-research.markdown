@@ -33,7 +33,7 @@ tags: [jekyll]
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
 
-<a href= "" style="color:#2c7e5a;font-weight: 500;"> Artificial Intelligence, Government Litigation, and Bureaucratic Decision Making: Evidence from India
+<!--<a href= "" style="color:#2c7e5a;font-weight: 500;"> Artificial Intelligence, Government Litigation, and Bureaucratic Decision Making: Evidence from India
 </a>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;font-size: 15px;">with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank"> Daron Acemoglu</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> </li>
@@ -49,7 +49,7 @@ tags: [jekyll]
 	<li style="margin-top: -20px;font-size: 15px;">with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> </li>
 	<li style="font-size: 15px;">Funding: IGC </li>
 </ul>
-<div style="height:25px;font-size:25px;">&nbsp;</div>
+<div style="height:25px;font-size:25px;">&nbsp;</div>!-->
 
 
 <a href="" style="color:#2c7e5a;font-weight: 500;">How Much do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation </a>
