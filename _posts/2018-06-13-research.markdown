@@ -23,7 +23,7 @@ tags: [jekyll]
 
 ### Work in Progress
 
-<a href= "" style="color:#2c7e5a;font-weight: 500;">Trade, Management, and Firm Productivity: Evidence from India  </a>
+<a href= "" style="color:#2c7e5a;font-weight: 500;">Family Matters: How Globalization Reshapes Firm Management and Productivity  </a>
 
 
 <a href= "" style="color:#2c7e5a;font-weight: 500;">Import Competition and the Long Run Effects of Industrial Policy: Evidence from India  </a>
