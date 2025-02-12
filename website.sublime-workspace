@@ -523,7 +523,7 @@
 			"file": "_posts/2018-06-13-research.markdown",
 			"settings":
 			{
-				"buffer_size": 5595,
+				"buffer_size": 6138,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
@@ -535,7 +535,7 @@
 					"paste",
 					null,
 					"AgAAADIJAAAAAAAAbwkAAAAAAAAAAAAAbwkAAAAAAABvCQAAAAAAAD8AAABUcmFkZSBhbmQgdGhlIE9yZ2FuaXphdGlvbiBvZiBGYW1pbHkgRmlybXM6IEV2aWRlbmNlIGZyb20gSW5kaWE",
-					"AQAAAAAAAAABAAAAMgkAAAAAAABxCQAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAyCQAAAAAAAHEJAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					10,
@@ -543,19 +543,16 @@
 					"paste",
 					null,
 					"AgAAANYKAAAAAAAAEgsAAAAAAAAAAAAAEgsAAAAAAAASCwAAAAAAAEkAAABBcnRpZmljaWFsIEludGVsbGlnZW5jZSBhbmQgSnVkaWNpYWwgU3RhdGUgQ2FwYWNpdHk6IEV2aWRlbmNlIGZyb20gSW5kaWEg",
-					"AQAAAAAAAAABAAAA1goAAAAAAAAfCwAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADWCgAAAAAAAB8LAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"paste",
+					null,
+					"AgAAADIJAAAAAAAAfQkAAAAAAAAAAAAAfQkAAAAAAAB9CQAAAAAAAD0AAABUcmFkZSwgTWFuYWdlbWVudCwgYW5kIEZpcm0gUHJvZHVjdGl2aXR5OiBFdmlkZW5jZSBmcm9tIEluZGlh",
+					"AQAAAAAAAAABAAAAMgkAAAAAAABvCQAAAAAAAAAAAAAAAPC/"
 				]
-			]
-		},
-		{
-			"file": "_posts/2018-06-13-other-writing.markdown",
-			"settings":
-			{
-				"buffer_size": 3791,
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
 			]
 		},
 		{
@@ -566,10 +563,7 @@
 				"line_ending": "Unix",
 				"name": "Find Results",
 				"scratch": true
-			},
-			"undo_stack":
-			[
-			]
+			}
 		},
 		{
 			"file": "_sass/uno.scss",
@@ -587,7 +581,7 @@
 					"paste",
 					null,
 					"AgAAAJRdAAAAAAAAnl0AAAAAAAAAAAAAnl0AAAAAAACeXQAAAAAAAO0AAAAuYnRuLW1vYmlsZS1tZW51IHsKCWRpc3BsYXk6IGJsb2NrOwoJcG9zaXRpb246IGZpeGVkOwoJei1pbmRleDogOTk5OTsKCXRvcDogMDsKCXJpZ2h0OiAwOwoJbGVmdDogMDsKCXdpZHRoOiAxMDAlOwoJaGVpZ2h0OiA0MnB4OwoJYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjQwKTsKCWJvcmRlci1ib3R0b206IDFweCBzb2xpZCByZ2JhKDI1NSwgMjU1LCAyNTUsIDAuMSk7Cgl0ZXh0LWFsaWduOiBjZW50ZXI7IH0",
-					"AQAAAAAAAAABAAAAgV4AAAAAAACUXQAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACBXgAAAAAAAJRdAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					27,
@@ -595,7 +589,7 @@
 					"paste",
 					null,
 					"AgAAAJRdAAAAAAAAYl8AAAAAAAAAAAAAYl8AAAAAAABiXwAAAAAAAAsAAABidG4tbW9iaWxlCg",
-					"AQAAAAAAAAABAAAAlF0AAAAAAACfXQAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACUXQAAAAAAAJ9dAAAAAAAAAAAAAAAA8L8"
 				]
 			]
 		}
@@ -1035,18 +1029,19 @@
 				{
 					"buffer": 0,
 					"file": "_posts/2018-06-13-research.markdown",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5595,
+						"buffer_size": 6138,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2509,
-								2509
+								2429,
+								2429
 							]
 						],
 						"settings":
@@ -1056,46 +1051,15 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 963.0,
+						"translation.y": 859.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "_posts/2018-06-13-other-writing.markdown",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 3791,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								531,
-								531
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"semi_transient": false,
 					"settings":
 					{
@@ -1237,14 +1201,13 @@
 						"translation.y": 5082.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "_sass/uno.scss",
-					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
@@ -1269,7 +1232,7 @@
 						"translation.y": 30306.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				}
