@@ -523,7 +523,7 @@
 			"file": "_posts/2018-06-13-research.markdown",
 			"settings":
 			{
-				"buffer_size": 6138,
+				"buffer_size": 6287,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
@@ -535,7 +535,7 @@
 					"paste",
 					null,
 					"AgAAADIJAAAAAAAAbwkAAAAAAAAAAAAAbwkAAAAAAABvCQAAAAAAAD8AAABUcmFkZSBhbmQgdGhlIE9yZ2FuaXphdGlvbiBvZiBGYW1pbHkgRmlybXM6IEV2aWRlbmNlIGZyb20gSW5kaWE",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAyCQAAAAAAAHEJAAAAAAAAAAAAAAAA8L8"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADIJAAAAAAAAcQkAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					10,
@@ -543,7 +543,7 @@
 					"paste",
 					null,
 					"AgAAANYKAAAAAAAAEgsAAAAAAAAAAAAAEgsAAAAAAAASCwAAAAAAAEkAAABBcnRpZmljaWFsIEludGVsbGlnZW5jZSBhbmQgSnVkaWNpYWwgU3RhdGUgQ2FwYWNpdHk6IEV2aWRlbmNlIGZyb20gSW5kaWEg",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADWCgAAAAAAAB8LAAAAAAAAAAAAAAAA8L8"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANYKAAAAAAAAHwsAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					5,
@@ -551,7 +551,73 @@
 					"paste",
 					null,
 					"AgAAADIJAAAAAAAAfQkAAAAAAAAAAAAAfQkAAAAAAAB9CQAAAAAAAD0AAABUcmFkZSwgTWFuYWdlbWVudCwgYW5kIEZpcm0gUHJvZHVjdGl2aXR5OiBFdmlkZW5jZSBmcm9tIEluZGlh",
-					"AQAAAAAAAAABAAAAMgkAAAAAAABvCQAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAyCQAAAAAAAG8JAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"paste",
+					null,
+					"AQAAAIQJAAAAAAAAHAoAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAkAAAAAAACECQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "IGC,"
+					},
+					"BQAAANUJAAAAAAAA1gkAAAAAAAAAAAAA1gkAAAAAAADWCQAAAAAAAAQAAABTVEVH1gkAAAAAAADXCQAAAAAAAAAAAADXCQAAAAAAANgJAAAAAAAAAAAAANgJAAAAAAAA2QkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1QkAAAAAAADZCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": " PEDL"
+					},
+					"BQAAANkJAAAAAAAA2gkAAAAAAAAAAAAA2gkAAAAAAADbCQAAAAAAAAAAAADbCQAAAAAAANwJAAAAAAAAAAAAANwJAAAAAAAA3QkAAAAAAAAAAAAA3QkAAAAAAADeCQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2QkAAAAAAADZCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					4,
+					"left_delete",
+					null,
+					"BAAAAE8LAAAAAAAATwsAAAAAAAABAAAALU4LAAAAAAAATgsAAAAAAAABAAAALU0LAAAAAAAATQsAAAAAAAABAAAAIUwLAAAAAAAATAsAAAAAAAABAAAAPA",
+					"AQAAAAAAAAABAAAAUAsAAAAAAABQCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					4,
+					"left_delete",
+					null,
+					"BAAAANUOAAAAAAAA1Q4AAAAAAAABAAAAPtQOAAAAAAAA1A4AAAAAAAABAAAALdMOAAAAAAAA0w4AAAAAAAABAAAALdIOAAAAAAAA0g4AAAAAAAABAAAAIQ",
+					"AQAAAAAAAAABAAAA1g4AAAAAAADWDgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "_posts/2018-06-14-about.markdown",
+			"settings":
+			{
+				"buffer_size": 945,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "finance"
+					},
+					"CAAAAMoAAAAAAAAAywAAAAAAAAAAAAAAywAAAAAAAADLAAAAAAAAABEAAABtYWNyby1kZXZlbG9wbWVudMsAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADNAAAAAAAAAAAAAADNAAAAAAAAAM4AAAAAAAAAAAAAAM4AAAAAAAAAzwAAAAAAAAAAAAAAzwAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAygAAAAAAAADbAAAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		},
@@ -581,7 +647,7 @@
 					"paste",
 					null,
 					"AgAAAJRdAAAAAAAAnl0AAAAAAAAAAAAAnl0AAAAAAACeXQAAAAAAAO0AAAAuYnRuLW1vYmlsZS1tZW51IHsKCWRpc3BsYXk6IGJsb2NrOwoJcG9zaXRpb246IGZpeGVkOwoJei1pbmRleDogOTk5OTsKCXRvcDogMDsKCXJpZ2h0OiAwOwoJbGVmdDogMDsKCXdpZHRoOiAxMDAlOwoJaGVpZ2h0OiA0MnB4OwoJYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjQwKTsKCWJvcmRlci1ib3R0b206IDFweCBzb2xpZCByZ2JhKDI1NSwgMjU1LCAyNTUsIDAuMSk7Cgl0ZXh0LWFsaWduOiBjZW50ZXI7IH0",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACBXgAAAAAAAJRdAAAAAAAAAAAAAAAA8L8"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIFeAAAAAAAAlF0AAAAAAAAAAAAAAADwvw"
 				],
 				[
 					27,
@@ -589,7 +655,7 @@
 					"paste",
 					null,
 					"AgAAAJRdAAAAAAAAYl8AAAAAAAAAAAAAYl8AAAAAAABiXwAAAAAAAAsAAABidG4tbW9iaWxlCg",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACUXQAAAAAAAJ9dAAAAAAAAAAAAAAAA8L8"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJRdAAAAAAAAn10AAAAAAAAAAAAAAADwvw"
 				]
 			]
 		}
@@ -700,7 +766,6 @@
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/files",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/files/Papers",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/fonts",
-		"/Users/kotia/Documents/Github/ananyakotia.github.io/fonts/SF-Pro",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/js"
 	],
 	"file_history":
@@ -1029,19 +1094,18 @@
 				{
 					"buffer": 0,
 					"file": "_posts/2018-06-13-research.markdown",
-					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6138,
+						"buffer_size": 6287,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2429,
-								2429
+								3794,
+								3794
 							]
 						],
 						"settings":
@@ -1051,7 +1115,37 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 859.0,
+						"translation.y": 1219.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2018-06-14-about.markdown",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1059,7 +1153,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
+					"buffer": 2,
 					"semi_transient": false,
 					"settings":
 					{
@@ -1201,12 +1295,12 @@
 						"translation.y": 5082.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "_sass/uno.scss",
 					"semi_transient": false,
 					"settings":
@@ -1229,10 +1323,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 30306.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"stack_multiselect": false,
 					"type": "text"
 				}
