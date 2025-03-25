@@ -54,7 +54,7 @@ tags: [jekyll]
 </a>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;font-size: 15px;">with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> </li>
-	<li style="font-size: 15px;">Funding: IGC </li>
+	<li style="font-size: 15px;">Funding: IGC, Open Philanthropy </li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
@@ -69,7 +69,7 @@ tags: [jekyll]
 <a href="" style="color:#2c7e5a;font-weight: 500;">Aggregate Impacts of Command-and-Control Environmental Policy: Evidence from Court-Ordered Mining Bans in India </a>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;font-size: 15px;"><a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> and <a href="https://economics.mit.edu/people/phd-students/henry-zhang" target="_blank">Henry Zhang</a> </li>
-	<li style="font-size: 15px;">Funding: PEDL, STICERD </li>
+	<li style="font-size: 15px;">Funding: PEDL, STICERD, George and Obie Shultz Fund </li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
