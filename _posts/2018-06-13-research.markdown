@@ -30,7 +30,6 @@ tags: [jekyll]
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 <ul class="no-bullets">
 	<li><span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span> 
-    <a href="https://www.nber.org/papers/w32375" target="blank" style="font-size: 14px;"> <u>NBER Working Paper No. 32375 </u> </a>
 	</li>
 </ul> 
 <div id="FamilyFirms_abstract" class="abstract" style="max-height: 0;">
