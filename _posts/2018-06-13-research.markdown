@@ -24,16 +24,14 @@ tags: [jekyll]
 ### Work in Progress
 
 <a href= "" style="color:#2c7e5a;font-weight: 500;">Family Matters: How Globalization Reshapes Firm Management and Productivity  </a>
-<ul class="no-bullets">
-	<li style="margin-top: -20px;font-size: 15px;">Funding: IGC, PEDL </li>
-</ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 <ul class="no-bullets">
 	<li><span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span> 
+    <u>Funding: IGC, PEDL </u>
 	</li>
 </ul> 
 <div id="FamilyFirms_abstract" class="abstract" style="max-height: 0;">
-    <h6>How does globalization affect firm management and productivity? I investigate this question using a product-specific import competition shock in India, focusing on family-managed firms-- the predominant form of corporate governance in many developing countries. Utilizing a novel manager-firm matched administrative dataset, I analyze tenure records and family ties of over 6 million company directors. Employing an event-study approach, I find that firms exposed to increased import competition are more likely to replace family managers with professional executives, resulting in productivity improvements. To evaluate the aggregate implications, I construct a model of industrial equilibrium where family firms balance non-pecuniary private benefits of family management against potential higher profits achievable through professional management. Consistent with empirical findings, the model predicts that import competition drives the least productive family firms to adopt professional management to avoid exit. These results underscore managerial restructuring as a critical mechanism linking competition to productivity gains. </h6>
+    <h6>How does globalization affect firm management and productivity? I investigate this question using a product-specific import competition shock in India, focusing on family-managed firms: the predominant form of corporate governance in many developing countries. Utilizing a novel manager-firm matched administrative dataset, I analyze tenure records and family ties of over 6 million company directors. Employing an event-study approach, I find that firms exposed to increased import competition are more likely to replace family managers with professional executives, resulting in productivity improvements. To evaluate the aggregate implications, I construct a model of industrial equilibrium where family firms balance non-pecuniary private benefits of family management against potential higher profits achievable through professional management. Consistent with empirical findings, the model predicts that import competition drives the least productive family firms to adopt professional management to avoid exit. These results underscore managerial restructuring as a critical mechanism linking competition to productivity gains. </h6>
 </div>
 
 <a href= "" style="color:#2c7e5a;font-weight: 500;">Import Competition and the Long Run Effects of Industrial Policy: Evidence from India  </a>
