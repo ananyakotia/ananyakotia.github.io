@@ -36,3 +36,19 @@ $(document).ready(function () {
   })
 
 })
+
+// Listen for the popstate event (triggered when the back button is pressed)
+window.addEventListener("popstate", function(event) {
+  // If your mobile navigation is open (adjust the selector if needed)
+  if ($('.navigation-wrapper').hasClass('visible')) {
+    // Close the mobile menu
+    $('.navigation-wrapper').removeClass('visible animated bounceInDown');
+    $('.btn-mobile-menu__icon')
+      .removeClass('icon-x-circle animated fadeIn')
+      .addClass('icon-list');
+    
+    // Push the current state back so that user stays on the same page.
+    // This effectively "eats" the back action.
+    history.pushState(null, null, location.href);
+  }
+});
