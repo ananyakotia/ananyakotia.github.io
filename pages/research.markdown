@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Research"
+hide_title: true
 permalink: /research/
 ---
 

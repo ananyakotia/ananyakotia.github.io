@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Other Writing"
+hide_title: true
 permalink: /other-writing/
 ---
 
