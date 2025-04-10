@@ -23,7 +23,8 @@ tags: [jekyll]
 
 ### Work in Progress
 
-<a href= "" style="color:#2c7e5a;font-weight: 500;">Family Matters: How Globalization Reshapes Firm Management and Productivity  </a>
+<!-- <a href= "" style="color:#2c7e5a;font-weight: 500;">Family Matters: How Globalization Reshapes Firm Management and Productivity  </a>-->
+<span style="color:#2c7e5a;font-weight: 500;">Family Matters: How Globalization Reshapes Firm Management and Productivity</span>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;"><span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span> 
     <a style="font-size: 14px;"> Funding: IGC, PEDL </a>
