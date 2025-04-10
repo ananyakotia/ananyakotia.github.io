@@ -86,7 +86,7 @@ permalink: /research/
 <span style="color:#2c7e5a;font-weight: 500;">Digitizing Historical Indian Plant-Level Data on Labour Outcomes  </span>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;font-size: 12px;">with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> </li>
-	<li style="font-size: 12px;">Funding: PEDL, G²LM|LIC </li>
+	<li style="font-size: 12px;">Funding: PEDL, G²LM|LIC, IGC </li>
 </ul>
 
 <!-- 
