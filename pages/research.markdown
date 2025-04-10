@@ -9,7 +9,7 @@ permalink: /research/
 
 <a href="{{site.baseurl}}/files/Papers/BKLMP2024.pdf" style="color:#2c7e5a;font-weight: 500;"> <u> Meritocracy across Countries </u>
 <ul class="no-bullets">
-	<li style="margin-top: -20px; font-size: 14px; color:#7a7979">with <a href="https://www.orianabandiera.net" target="_blank">Oriana Bandiera</a>, <a href="https://sites.google.com/site/ilselindenlaub/" target="_blank">Ilse Lindenlaub</a>, <a href="https://www.economoser.com" target="_blank">Chris Moser</a>, <a href="https://www.columbia.edu/~ap3116/" target="_blank">Andrea Prat</a> </li>
+	<li style="margin-top: -20px; font-size: 14px">with <a href="https://www.orianabandiera.net" target="_blank">Oriana Bandiera</a>, <a href="https://sites.google.com/site/ilselindenlaub/" target="_blank">Ilse Lindenlaub</a>, <a href="https://www.economoser.com" target="_blank">Chris Moser</a>, <a href="https://www.columbia.edu/~ap3116/" target="_blank">Andrea Prat</a> </li>
 </ul>
 <ul class="no-bullets">
 	<li><span class="abstract-toggle" data-abstract-id="BKMLP_abstract">▷ Abstract</span> 
