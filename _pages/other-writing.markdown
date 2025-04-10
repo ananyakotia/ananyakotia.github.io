@@ -1,7 +1,7 @@
 ---
-title:  ""
-categories: [jekyll]
-tags: [jekyll]
+layout: page
+title: "OtherWriting"
+permalink: /other-writing/
 ---
 
 ### Policy

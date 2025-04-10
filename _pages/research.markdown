@@ -1,7 +1,7 @@
 ---
-title:  ""
-categories: [jekyll]
-tags: [jekyll]
+layout: page
+title: "Research"
+permalink: /research/
 ---
 
 ### Working Papers
