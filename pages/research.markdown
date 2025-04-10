@@ -4,14 +4,6 @@ title: "Research"
 hide_title: true
 permalink: /research/
 ---
-<style>
-  /* This targets the article element defined in your page layout */
-  article.post-container,
-  section.post,
-  .post-container * {
-    color: #7a7979 !important;
-  }
-</style>
 
 ### Working Papers
 
