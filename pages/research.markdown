@@ -9,7 +9,7 @@ permalink: /research/
 
 <a href="{{site.baseurl}}/files/Papers/BKLMP2024.pdf" style="color:#2c7e5a;font-weight: 500;"> <u> Meritocracy across Countries </u>
 <ul class="no-bullets">
-	<li style="margin-top: -20px; font-size: 15px;">with <a href="https://www.orianabandiera.net" target="_blank">Oriana Bandiera</a>, <a href="https://sites.google.com/site/ilselindenlaub/" target="_blank">Ilse Lindenlaub</a>, <a href="https://www.economoser.com" target="_blank">Chris Moser</a>, <a href="https://www.columbia.edu/~ap3116/" target="_blank">Andrea Prat</a> </li>
+	<li style="margin-top: -20px; font-size: 12px;">with <a href="https://www.orianabandiera.net" target="_blank">Oriana Bandiera</a>, <a href="https://sites.google.com/site/ilselindenlaub/" target="_blank">Ilse Lindenlaub</a>, <a href="https://www.economoser.com" target="_blank">Chris Moser</a>, <a href="https://www.columbia.edu/~ap3116/" target="_blank">Andrea Prat</a> </li>
 </ul>
 <ul class="no-bullets">
 	<li><span class="abstract-toggle" data-abstract-id="BKMLP_abstract">▷ Abstract</span> 
@@ -28,7 +28,7 @@ permalink: /research/
 <span style="color:#2c7e5a;font-weight: 500;">Family Matters: How Globalization Reshapes Firm Management and Productivity</span>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;"><span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span> 
-    <a style="font-size: 14px;"> Funding: IGC, PEDL </a>
+    <a style="font-size: 12px;"> Funding: IGC, PEDL </a>
 	</li>
 </ul> 
 <div id="FamilyFirms_abstract" class="abstract" style="max-height: 0;">
@@ -38,14 +38,14 @@ permalink: /research/
 <!-- <a href= "" style="color:#2c7e5a;font-weight: 500;">Import Competition and the Long Run Effects of Industrial Policy: Evidence from India  </a> -->
 <span style="color:#2c7e5a;font-weight: 500;">Import Competition and the Long Run Effects of Industrial Policy: Evidence from India </span>
 <ul class="no-bullets">
-<li style="margin-top: -20px;font-size: 15px;">Funding: IGC </li>
+<li style="margin-top: -20px;font-size: 12px;">Funding: IGC </li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
 
 <span style="color:#2c7e5a;font-weight: 500;"> Artificial Intelligence, Government Litigation, and Bureaucratic Decision Making: Evidence from India </span>
 <ul class="no-bullets">
-	<li style="margin-top: -20px;font-size: 15px;">with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank"> Daron Acemoglu</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> </li>
+	<li style="margin-top: -20px;font-size: 12px;">with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank"> Daron Acemoglu</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> </li>
 	<li style="font-size: 15px;"> 
 	</li>
 </ul>
@@ -54,39 +54,39 @@ permalink: /research/
 
 <span style="color:#2c7e5a;font-weight: 500;"> Artificial Intelligence and Judicial State Capacity in India</span>
 <ul class="no-bullets">
-	<li style="margin-top: -20px;font-size: 15px;">with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> </li>
-	<li style="font-size: 15px;">Funding: IGC, Open Philanthropy </li>
+	<li style="margin-top: -20px;font-size: 12px;">with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> </li>
+	<li style="font-size: 12px;">Funding: IGC, Open Philanthropy </li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
 
 <span style="color:#2c7e5a;font-weight: 500;">How Much do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation </span>
 <ul class="no-bullets">
-	<li style="margin-top: -20px;font-size: 15px;">Funding: STEG </li>
+	<li style="margin-top: -20px;font-size: 12px;">Funding: STEG </li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
 
 <span style="color:#2c7e5a;font-weight: 500;">Aggregate Impacts of Command-and-Control Environmental Policy: Evidence from Court-Ordered Mining Bans in India </span>
 <ul class="no-bullets">
-	<li style="margin-top: -20px;font-size: 15px;"><a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> and <a href="https://economics.mit.edu/people/phd-students/henry-zhang" target="_blank">Henry Zhang</a> </li>
-	<li style="font-size: 15px;">Funding: PEDL, STICERD, George and Obie Shultz Fund </li>
+	<li style="margin-top: -20px;font-size: 12px;"><a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> and <a href="https://economics.mit.edu/people/phd-students/henry-zhang" target="_blank">Henry Zhang</a> </li>
+	<li style="font-size: 12px;">Funding: PEDL, STICERD, George and Obie Shultz Fund </li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
 
 <span style="color:#2c7e5a;font-weight: 500;">Labor Market Frictions, the Organization of Labor, and Structural Change  </span>
 <ul class="no-bullets">
-	<li style="margin-top: -20px;font-size: 15px;">with <a href="https://economics.sas.upenn.edu/people/chinmay-lohani" target="_blank">Chinmay Lohani</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> </li>
-	<li style="font-size: 15px;">Funding: STEG </li>
+	<li style="margin-top: -20px;font-size: 12px;">with <a href="https://economics.sas.upenn.edu/people/chinmay-lohani" target="_blank">Chinmay Lohani</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> </li>
+	<li style="font-size: 12px;">Funding: STEG </li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
 
 <span style="color:#2c7e5a;font-weight: 500;">Digitizing Historical Indian Plant-Level Data on Labour Outcomes  </span>
 <ul class="no-bullets">
-	<li style="margin-top: -20px;font-size: 15px;">with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> </li>
-	<li style="font-size: 15px;">Funding: PEDL, G²LM|LIC </li>
+	<li style="margin-top: -20px;font-size: 12px;">with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> </li>
+	<li style="font-size: 12px;">Funding: PEDL, G²LM|LIC </li>
 </ul>
 
 <!-- 
