@@ -9,7 +9,7 @@ permalink: /research/
   /* Color for author/funding text and any links inside it */
   .author-funding,
   .author-funding a {
-    color: #7a7979 !important;
+    color: #696969 !important;
   }
 </style>
 
