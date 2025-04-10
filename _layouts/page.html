@@ -4,7 +4,9 @@ layout: default
 <article class="post-container post-container--single">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    {% unless page.hide_title %}
+      <h1 class="post-title">{{ page.title }}</h1>
+    {% endunless %}
   </header>
 
   <section class="post">
