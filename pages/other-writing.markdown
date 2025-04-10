@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Other Writing"
+title: ""
 permalink: /other-writing/
 ---
 
