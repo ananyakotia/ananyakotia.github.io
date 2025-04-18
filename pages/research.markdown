@@ -32,8 +32,12 @@ permalink: /research/
 
 ### Work in Progress
 
-<!-- <a href= "" style="color:#2c7e5a;font-weight: 500;">Family Matters: How Globalization Reshapes Firm Management and Productivity  </a>-->
-<span style="color:#2c7e5a;font-weight: 500;">Family Matters: Globalization, Firm Management and Productivity</span>
+<!-- <a href= "" style="color:#2c7e5a;font-weight: 500;">Family Matters: How Globalization Reshapes Firm Management and Productivity  </a>
+<span style="color:#2c7e5a;font-weight: 500;">Family Matters: Globalization, Firm Management and Productivity</span>-->
+<span style="color:#2c7e5a;font-weight: 500;">
+  Family Matters: Globalization, Firm Management and Productivity
+  <em style="color:#000;">(Job Market Paper)</em>
+</span>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;"><span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span> 
     <a class="author-funding" style="font-size: 14px;"> Funding: IGC, PEDL </a>
