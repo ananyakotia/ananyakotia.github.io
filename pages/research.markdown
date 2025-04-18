@@ -42,6 +42,13 @@ permalink: /research/
 	<li style="margin-top: -20px;"><span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span> 
     <a class="author-funding" style="font-size: 14px;"> Funding: IGC, PEDL </a>
 	</li>
+	<li class="author-funding" style="font-size: 14px;">
+    Presentations (Scheduled*): 
+      <a href="https://www.nber.org/conferences/si-2025-macroeconomics-and-productivity"
+     target="_blank">
+     NBER SI 2025 (Macro and Productivity)
+  </a>
+  </li>
 </ul> 
 <div id="FamilyFirms_abstract" class="abstract" style="max-height: 0;">
     <h6>How does globalization affect firm management and productivity? I investigate this question using a product-specific import competition shock in India, focusing on family-managed firms: the predominant form of corporate governance in the developing world. Utilizing a novel manager-firm matched dataset, I analyze tenure records and family ties of over six million company directors. Employing an event-study approach, I find that firms exposed to import competition replace family managers with unrelated professional executives, increasing firm productivity by 20 percent. To evaluate the aggregate implications, I construct a model of industrial equilibrium where family firms balance non-pecuniary private benefits of family management against higher profits achievable through professional management. Consistent with the empirical findings, the model predicts that import competition drives the least productive family firms to adopt professional management to avoid exit. These results underscore managerial restructuring as a critical mechanism linking competition to productivity gains. </h6>
