@@ -48,7 +48,7 @@ permalink: /research/
      NBER SI 2025 (Macro and Productivity)
   </a>
   </li>
-  <li <a class="author-funding" style="font-size: 14px;"> Funding: IGC, PEDL </a>
+  <li  class="author-funding" style="font-size: 14px;"> Funding: IGC, PEDL
   </li>
 </ul> 
 <div id="FamilyFirms_abstract" class="abstract" style="max-height: 0;">
