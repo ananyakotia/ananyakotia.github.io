@@ -40,7 +40,6 @@ permalink: /research/
 </span>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;"><span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span> 
-    <a class="author-funding" style="font-size: 14px;"> Funding: IGC, PEDL </a>
 	</li>
 	<li class="author-funding" style="font-size: 14px;">
     Presentations (scheduled*): 
@@ -48,6 +47,8 @@ permalink: /research/
      target="_blank">
      NBER SI 2025 (Macro and Productivity)
   </a>
+  </li>
+  <li <a class="author-funding" style="font-size: 14px;"> Funding: IGC, PEDL </a>
   </li>
 </ul> 
 <div id="FamilyFirms_abstract" class="abstract" style="max-height: 0;">
