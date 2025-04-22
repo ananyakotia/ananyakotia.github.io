@@ -520,142 +520,484 @@
 	"buffers":
 	[
 		{
-			"file": "_posts/2018-06-13-research.markdown",
+			"file": "pages/research.markdown",
 			"settings":
 			{
-				"buffer_size": 6287,
+				"buffer_size": 8624,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
 				[
-					5,
+					9,
 					1,
-					"paste",
-					null,
-					"AgAAADIJAAAAAAAAbwkAAAAAAAAAAAAAbwkAAAAAAABvCQAAAAAAAD8AAABUcmFkZSBhbmQgdGhlIE9yZ2FuaXphdGlvbiBvZiBGYW1pbHkgRmlybXM6IEV2aWRlbmNlIGZyb20gSW5kaWE",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADIJAAAAAAAAcQkAAAAAAAAAAAAAAADwvw"
+					"insert",
+					{
+						"characters": " ()"
+					},
+					"AwAAAMIKAAAAAAAAwwoAAAAAAAAAAAAAwwoAAAAAAADECgAAAAAAAAAAAADECgAAAAAAAMUKAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMIKAAAAAAAAwgoAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					10,
+					3,
+					"left_delete",
+					null,
+					"AwAAAMQKAAAAAAAAxAoAAAAAAAABAAAAKcMKAAAAAAAAwwoAAAAAAAABAAAAKMIKAAAAAAAAwgoAAAAAAAABAAAAIA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMUKAAAAAAAAxQoAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAMkKAAAAAAAAygoAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMkKAAAAAAAAyQoAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					26,
 					1,
 					"paste",
 					null,
-					"AgAAANYKAAAAAAAAEgsAAAAAAAAAAAAAEgsAAAAAAAASCwAAAAAAAEkAAABBcnRpZmljaWFsIEludGVsbGlnZW5jZSBhbmQgSnVkaWNpYWwgU3RhdGUgQ2FwYWNpdHk6IEV2aWRlbmNlIGZyb20gSW5kaWEg",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANYKAAAAAAAAHwsAAAAAAAAAAAAAAADwvw"
+					"AQAAAMoKAAAAAAAAdAsAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMoKAAAAAAAAygoAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					31,
+					1,
+					"cut",
+					null,
+					"AQAAAFEKAAAAAAAAUQoAAAAAAAADAAAALS0+",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFEKAAAAAAAAVAoAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					33,
+					1,
+					"paste",
+					null,
+					"AQAAAMYKAAAAAAAAyQoAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMYKAAAAAAAAxgoAAAAAAAAAAAAAAKiEQA"
+				],
+				[
+					36,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFkLAAAAAAAAWQsAAAAAAAACAAAAwqA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFoLAAAAAAAAWgsAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFkLAAAAAAAAWgsAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFkLAAAAAAAAWQsAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					40,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGALAAAAAAAAYAsAAAAAAAACAAAAwqA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGELAAAAAAAAYQsAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAGALAAAAAAAAYQsAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGALAAAAAAAAYAsAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAFwMAAAAAAAAXQwAAAAAAAAAAAAAXQwAAAAAAABeDAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFwMAAAAAAAAXAwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					51,
+					1,
+					"paste",
+					null,
+					"AQAAAF4MAAAAAAAA4gwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAF4MAAAAAAAAXgwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					54,
+					2,
+					"left_delete",
+					null,
+					"AgAAAF8MAAAAAAAAXwwAAAAAAAABAAAAIF4MAAAAAAAAXgwAAAAAAAABAAAAIA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGAMAAAAAAAAYAwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "S"
+					},
+					"AgAAAKYMAAAAAAAApwwAAAAAAAAAAAAApwwAAAAAAACnDAAAAAAAAAEAAABz",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKcMAAAAAAAApgwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					62,
+					1,
+					"left_delete",
+					null,
+					"AQAAALcMAAAAAAAAtwwAAAAAAAACAAAAwqA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALcMAAAAAAAAuAwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAALcMAAAAAAAAuAwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALcMAAAAAAAAtwwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					66,
+					1,
+					"left_delete",
+					null,
+					"AQAAALoMAAAAAAAAugwAAAAAAAACAAAAwqA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALoMAAAAAAAAuwwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAALoMAAAAAAAAuwwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALoMAAAAAAAAugwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					72,
+					1,
+					"left_delete",
+					null,
+					"AQAAALMMAAAAAAAAswwAAAAAAAAlAAAATkJFUiBTSSAyMDI1IChNYWNybyBhbmQgUHJvZHVjdGl2aXR5KQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALMMAAAAAAAA2AwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					73,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAALMMAAAAAAAAtAwAAAAAAAAAAAAAtAwAAAAAAAC4DAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALMMAAAAAAAAswwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					74,
+					1,
+					"paste",
+					null,
+					"AQAAALgMAAAAAAAAVA0AAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALgMAAAAAAAAuAwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					77,
+					1,
+					"left_delete",
+					null,
+					"AQAAACwNAAAAAAAALA0AAAAAAAACAAAAwqA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAC0NAAAAAAAALQ0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACwNAAAAAAAALQ0AAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACwNAAAAAAAALA0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					81,
+					1,
+					"left_delete",
+					null,
+					"AQAAAC8NAAAAAAAALw0AAAAAAAACAAAAwqA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAC8NAAAAAAAAMA0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					82,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAC8NAAAAAAAAMA0AAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAC8NAAAAAAAALw0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					85,
+					1,
+					"left_delete",
+					null,
+					"AQAAADQNAAAAAAAANA0AAAAAAAACAAAAwqA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADQNAAAAAAAANQ0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					86,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADQNAAAAAAAANQ0AAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADQNAAAAAAAANA0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					89,
+					1,
+					"left_delete",
+					null,
+					"AQAAADsNAAAAAAAAOw0AAAAAAAACAAAAwqA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADsNAAAAAAAAPA0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					90,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADsNAAAAAAAAPA0AAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADsNAAAAAAAAOw0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					93,
+					1,
+					"left_delete",
+					null,
+					"AQAAAD8NAAAAAAAAPw0AAAAAAAACAAAAwqA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD8NAAAAAAAAQA0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					94,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAD8NAAAAAAAAQA0AAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD8NAAAAAAAAPw0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					97,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKYMAAAAAAAApgwAAAAAAAABAAAAUw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKcMAAAAAAAApwwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					98,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAKYMAAAAAAAApwwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKYMAAAAAAAApgwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					138,
+					1,
+					"cut",
+					null,
+					"AQAAAAoMAAAAAAAACgwAAAAAAABLAAAAPGEgY2xhc3M9ImF1dGhvci1mdW5kaW5nIiBzdHlsZT0iZm9udC1zaXplOiAxNHB4OyI+IEZ1bmRpbmc6IElHQywgUEVETCA8L2E+",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAoMAAAAAAAAVQwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					139,
+					1,
+					"left_delete",
+					null,
+					"BQAAAAkMAAAAAAAACQwAAAAAAAABAAAAIAgMAAAAAAAACAwAAAAAAAABAAAAIAcMAAAAAAAABwwAAAAAAAABAAAAIAYMAAAAAAAABgwAAAAAAAABAAAAIAUMAAAAAAAABQwAAAAAAAABAAAACg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAoMAAAAAAAACgwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					142,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAAwNAAAAAAAADQ0AAAAAAAAAAAAADQ0AAAAAAAAPDQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAwNAAAAAAAADA0AAAAAAAAAAAAAAIB+QA"
+				],
+				[
+					143,
+					1,
+					"paste",
+					null,
+					"AQAAAA8NAAAAAAAAWg0AAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA8NAAAAAAAADw0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					149,
+					1,
+					"paste",
+					null,
+					"AQAAAA8NAAAAAAAAEg0AAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA8NAAAAAAAADw0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					150,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAABINAAAAAAAAEw0AAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABINAAAAAAAAEg0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					153,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAF4NAAAAAAAAXw0AAAAAAAAAAAAAXw0AAAAAAABhDQAAAAAAAAAAAABhDQAAAAAAAGINAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAF4NAAAAAAAAXg0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					160,
+					1,
+					"paste",
+					null,
+					"AQAAAGINAAAAAAAAZw0AAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGINAAAAAAAAYg0AAAAAAAAAAAAAAABTQA"
+				],
+				[
+					163,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGENAAAAAAAAYQ0AAAAAAAABAAAACQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGINAAAAAAAAYg0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					189,
+					1,
+					"paste",
+					null,
+					"AQAAABMNAAAAAAAAGA0AAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABMNAAAAAAAAEw0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					190,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAABgNAAAAAAAAGQ0AAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABgNAAAAAAAAGA0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					192,
+					2,
+					"left_delete",
+					null,
+					"AgAAABkNAAAAAAAAGQ0AAAAAAAACAAAAPGEYDQAAAAAAABgNAAAAAAAAAQAAACA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABkNAAAAAAAAGw0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					202,
+					1,
+					"left_delete",
+					null,
+					"AQAAAF8NAAAAAAAAXw0AAAAAAAABAAAAYQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGANAAAAAAAAXw0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					203,
+					1,
+					"insert",
+					{
+						"characters": "<"
+					},
+					"AQAAAF8NAAAAAAAAYA0AAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAF8NAAAAAAAAXw0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					206,
+					1,
+					"close_tag",
+					{
+						"insert_slash": true
+					},
+					"AQAAAGANAAAAAAAAYQ0AAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGANAAAAAAAAYA0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					207,
+					1,
+					"insert",
+					{
+						"characters": "span"
+					},
+					"BAAAAGENAAAAAAAAYg0AAAAAAAAAAAAAYg0AAAAAAABjDQAAAAAAAAAAAABjDQAAAAAAAGQNAAAAAAAAAAAAAGQNAAAAAAAAZQ0AAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGENAAAAAAAAYQ0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					212,
+					1,
+					"left_delete",
+					null,
+					"AQAAABMNAAAAAAAAEw0AAAAAAAAFAAAAPHNwYW4",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABMNAAAAAAAAGA0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					215,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFoNAAAAAAAAWg0AAAAAAAAGAAAAPC9zcGFu",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGANAAAAAAAAWg0AAAAAAAAAAAAAAADwvw"
+				],
+				[
+					218,
+					4,
+					"left_delete",
+					null,
+					"BAAAAFoNAAAAAAAAWg0AAAAAAAABAAAAPlkNAAAAAAAAWQ0AAAAAAAABAAAAL1gNAAAAAAAAWA0AAAAAAAABAAAAPFcNAAAAAAAAVw0AAAAAAAABAAAAIA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFsNAAAAAAAAWw0AAAAAAAAAAAAAAADwvw"
 				],
 				[
 					5,
 					1,
-					"paste",
-					null,
-					"AgAAADIJAAAAAAAAfQkAAAAAAAAAAAAAfQkAAAAAAAB9CQAAAAAAAD0AAABUcmFkZSwgTWFuYWdlbWVudCwgYW5kIEZpcm0gUHJvZHVjdGl2aXR5OiBFdmlkZW5jZSBmcm9tIEluZGlh",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAyCQAAAAAAAG8JAAAAAAAAAAAAAAAA8L8"
-				],
-				[
-					10,
-					1,
-					"paste",
-					null,
-					"AQAAAIQJAAAAAAAAHAoAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAhAkAAAAAAACECQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					15,
-					1,
 					"insert",
 					{
-						"characters": "IGC,"
+						"characters": "*"
 					},
-					"BQAAANUJAAAAAAAA1gkAAAAAAAAAAAAA1gkAAAAAAADWCQAAAAAAAAQAAABTVEVH1gkAAAAAAADXCQAAAAAAAAAAAADXCQAAAAAAANgJAAAAAAAAAAAAANgJAAAAAAAA2QkAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA1QkAAAAAAADZCQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					16,
-					1,
-					"insert",
-					{
-						"characters": " PEDL"
-					},
-					"BQAAANkJAAAAAAAA2gkAAAAAAAAAAAAA2gkAAAAAAADbCQAAAAAAAAAAAADbCQAAAAAAANwJAAAAAAAAAAAAANwJAAAAAAAA3QkAAAAAAAAAAAAA3QkAAAAAAADeCQAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA2QkAAAAAAADZCQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					20,
-					4,
-					"left_delete",
-					null,
-					"BAAAAE8LAAAAAAAATwsAAAAAAAABAAAALU4LAAAAAAAATgsAAAAAAAABAAAALU0LAAAAAAAATQsAAAAAAAABAAAAIUwLAAAAAAAATAsAAAAAAAABAAAAPA",
-					"AQAAAAAAAAABAAAAUAsAAAAAAABQCwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					24,
-					4,
-					"left_delete",
-					null,
-					"BAAAANUOAAAAAAAA1Q4AAAAAAAABAAAAPtQOAAAAAAAA1A4AAAAAAAABAAAALdMOAAAAAAAA0w4AAAAAAAABAAAALdIOAAAAAAAA0g4AAAAAAAABAAAAIQ",
-					"AQAAAAAAAAABAAAA1g4AAAAAAADWDgAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "_posts/2018-06-14-about.markdown",
-			"settings":
-			{
-				"buffer_size": 945,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					5,
-					1,
-					"insert",
-					{
-						"characters": "finance"
-					},
-					"CAAAAMoAAAAAAAAAywAAAAAAAAAAAAAAywAAAAAAAADLAAAAAAAAABEAAABtYWNyby1kZXZlbG9wbWVudMsAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADNAAAAAAAAAAAAAADNAAAAAAAAAM4AAAAAAAAAAAAAAM4AAAAAAAAAzwAAAAAAAAAAAAAAzwAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANEAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAygAAAAAAAADbAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"contents": "Searching 83 files for \"hamburger\"\n\n0 matches\n\nSearching 83 files for \"menu\"\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Thin.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-SemiboldItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-UltralightItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Heavy.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-RegularItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Light.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Semibold.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Regular.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-MediumItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Bold.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Regular.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Medium.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Heavy.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Light.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Black.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Semibold.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-BlackItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Black.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Light.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Regular.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Ultralight.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Bold.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Thin.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-MediumItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-HeavyItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Ultralight.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-UltralightItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-LightItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Thin.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-ThinItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-BlackItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-Black.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Medium.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-BoldItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-RegularItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Semibold.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-HeavyItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-ThinItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-LightItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Ultralight.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-Medium.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Heavy.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Display-BoldItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Rounded-Bold.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/fonts/SF-Pro/SF-Pro-Text-SemiboldItalic.otf:\n    <binary>\n\n~/Documents/Github/ananyakotia.github.io/_sass/uno.scss:\n    5  */\n    6  @import \"animate\";\n    7: <skipped 123 characters> ...cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {\n    8  \tmargin: 0;\n    9  \tpadding: 0;\n   ..\n   14  \n   15  /* HTML5 display-role reset for older browsers */\n   16: article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {\n   17  \tdisplay: block; }\n   18  \n   ..\n 1352  \tfont-size: .7em; }\n 1353  \n 1354: .btn-mobile-menu {\n 1355  \tdisplay: block;\n 1356  \tposition: fixed;\n ....\n 1365  \ttext-align: center; }\n 1366  \n 1367: .btn-mobile-menu__icon,\n 1368  .btn-mobile-close__icon {\n 1369  \tposition: relative;\n ....\n 1588  \t\tmargin-left: 0; } }\n 1589  @media all and (max-width: 960px) {\n 1590: \t.btn-mobile-menu {\n 1591  \t\tdisplay: block; }\n 1592  \n\n~/Documents/Github/ananyakotia.github.io/js/main.js:\n   26    }\n   27  \n   28:   $('.btn-mobile-menu').click(function () {\n   29      $('.navigation-wrapper').toggleClass('visible animated bounceInDown')\n   30:     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')\n   31    })\n   32  \n   33    $('.navigation-wrapper .blog-button').click(function () {\n   34      $('.navigation-wrapper').toggleClass('visible')\n   35:     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')\n   36    })\n   37  \n\n~/Documents/Github/ananyakotia.github.io/_includes/header.html:\n    1: <span class=\"mobile btn-mobile-menu\">\n    2:   <i class=\"icon icon-list btn-mobile-menu__icon\"></i>\n    3    <i class=\"icon icon-x-circle btn-mobile-close__icon hidden\"></i>\n    4  </span>\n\n1360 matches across 48 files\n\n\nSearching 83 files for \"monile\"\n\n0 matches\n\nSearching 83 files for \"mobile\"\n\n~/Documents/Github/ananyakotia.github.io/_sass/uno.scss:\n  435  \tcontent: \"\\f176\"; }\n  436  \n  437: .icon-mobile-signal:before {\n  438  \tcontent: \"\\f177\"; }\n  439  \n  440: .icon-mobile:before {\n  441  \tcontent: \"\\f178\"; }\n  442  \n  ...\n 1352  \tfont-size: .7em; }\n 1353  \n 1354: .btn-mobile-menu {\n 1355  \tdisplay: block;\n 1356  \tposition: fixed;\n ....\n 1365  \ttext-align: center; }\n 1366  \n 1367: .btn-mobile-menu__icon,\n 1368: .btn-mobile-close__icon {\n 1369  \tposition: relative;\n 1370  \ttop: 3px;\n ....\n 1588  \t\tmargin-left: 0; } }\n 1589  @media all and (max-width: 960px) {\n 1590: \t.btn-mobile-menu {\n 1591  \t\tdisplay: block; }\n 1592  \n\n~/Documents/Github/ananyakotia.github.io/js/main.js:\n   26    }\n   27  \n   28:   $('.btn-mobile-menu').click(function () {\n   29      $('.navigation-wrapper').toggleClass('visible animated bounceInDown')\n   30:     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')\n   31    })\n   32  \n   33    $('.navigation-wrapper .blog-button').click(function () {\n   34      $('.navigation-wrapper').toggleClass('visible')\n   35:     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')\n   36    })\n   37  \n\n~/Documents/Github/ananyakotia.github.io/_includes/head.html:\n   17    <meta name=\"author\" content=\"{{ site.author.name }}\">\n   18    <meta name=\"HandheldFriendly\" content=\"True\">\n   19:   <meta name=\"MobileOptimized\" content=\"320\">\n   20:   <meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n   21:   <meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black-translucent\">\n   22    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\">\n   23  \n\n~/Documents/Github/ananyakotia.github.io/_includes/header.html:\n    1: <span class=\"mobile btn-mobile-menu\">\n    2:   <i class=\"icon icon-list btn-mobile-menu__icon\"></i>\n    3:   <i class=\"icon icon-x-circle btn-mobile-close__icon hidden\"></i>\n    4  </span>\n    5  \n\n16 matches across 4 files\n",
-			"settings":
-			{
-				"buffer_size": 8454,
-				"line_ending": "Unix",
-				"name": "Find Results",
-				"scratch": true
-			}
-		},
-		{
-			"file": "_sass/uno.scss",
-			"settings":
-			{
-				"buffer_size": 32124,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					20,
-					1,
-					"paste",
-					null,
-					"AgAAAJRdAAAAAAAAnl0AAAAAAAAAAAAAnl0AAAAAAACeXQAAAAAAAO0AAAAuYnRuLW1vYmlsZS1tZW51IHsKCWRpc3BsYXk6IGJsb2NrOwoJcG9zaXRpb246IGZpeGVkOwoJei1pbmRleDogOTk5OTsKCXRvcDogMDsKCXJpZ2h0OiAwOwoJbGVmdDogMDsKCXdpZHRoOiAxMDAlOwoJaGVpZ2h0OiA0MnB4OwoJYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjQwKTsKCWJvcmRlci1ib3R0b206IDFweCBzb2xpZCByZ2JhKDI1NSwgMjU1LCAyNTUsIDAuMSk7Cgl0ZXh0LWFsaWduOiBjZW50ZXI7IH0",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIFeAAAAAAAAlF0AAAAAAAAAAAAAAADwvw"
-				],
-				[
-					27,
-					1,
-					"paste",
-					null,
-					"AgAAAJRdAAAAAAAAYl8AAAAAAAAAAAAAYl8AAAAAAABiXwAAAAAAAAsAAABidG4tbW9iaWxlCg",
-					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJRdAAAAAAAAn10AAAAAAAAAAAAAAADwvw"
+					"AQAAAP0MAAAAAAAA/gwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD9DAAAAAAAAP0MAAAAAAAAAAAAAAAA8L8"
 				]
 			]
 		}
@@ -766,15 +1108,17 @@
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/files",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/files/Papers",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/fonts",
-		"/Users/kotia/Documents/Github/ananyakotia.github.io/js"
+		"/Users/kotia/Documents/Github/ananyakotia.github.io/js",
+		"/Users/kotia/Documents/Github/ananyakotia.github.io/pages"
 	],
 	"file_history":
 	[
+		"/Users/kotia/Documents/Github/ananyakotia.github.io/_sass/uno.scss",
+		"/Users/kotia/Documents/Github/ananyakotia.github.io/_posts/2018-06-13-research.markdown",
+		"/Users/kotia/Documents/Github/ananyakotia.github.io/_posts/2018-06-14-about.markdown",
 		"/Users/kotia/Library/CloudStorage/Dropbox/Research/MERITOCRACY/code/facts/fig04_overlap_heatmaps_appendix.do",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/_includes/header.html",
-		"/Users/kotia/Documents/Github/ananyakotia.github.io/_sass/uno.scss",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/js/main.js",
-		"/Users/kotia/Documents/Github/ananyakotia.github.io/_posts/2018-06-13-research.markdown",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/_sass/custom-scss.scss",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/_config.yml",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/files/Papers/BKLMP2024.pdf",
@@ -783,7 +1127,6 @@
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/_layouts/default.html",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/_includes/scripts.html",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/css/styles.scss",
-		"/Users/kotia/Documents/Github/ananyakotia.github.io/_posts/2018-06-14-about.markdown",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/_posts/test.md",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/_posts/2018-06-13-other-writing.markdown",
 		"/Users/kotia/Documents/Github/ananyakotia.github.io/_includes/head.html",
@@ -901,7 +1244,7 @@
 	],
 	"find":
 	{
-		"height": 43.0
+		"height": 31.0
 	},
 	"find_in_files":
 	{
@@ -918,6 +1261,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"kala",
 			"btn-mobile",
 			"mobile",
 			"monile",
@@ -1044,8 +1388,7 @@
 			"center",
 			"cent",
 			"rgb",
-			"bar",
-			"navbar"
+			"bar"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -1093,19 +1436,20 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/2018-06-13-research.markdown",
+					"file": "pages/research.markdown",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6287,
+						"buffer_size": 8624,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3794,
-								3794
+								576,
+								576
 							]
 						],
 						"settings":
@@ -1115,218 +1459,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1219.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_posts/2018-06-14-about.markdown",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 945,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								209,
-								209
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8454,
-						"regions":
-						{
-							"match":
-							{
-								"flags": 112,
-								"regions":
-								[
-									[
-										4835,
-										4839
-									],
-									[
-										5091,
-										5095
-									],
-									[
-										5206,
-										5210
-									],
-									[
-										5325,
-										5329
-									],
-									[
-										5496,
-										5500
-									],
-									[
-										5635,
-										5639
-									],
-									[
-										5769,
-										5773
-									],
-									[
-										6009,
-										6013
-									],
-									[
-										6200,
-										6204
-									],
-									[
-										6252,
-										6256
-									],
-									[
-										6573,
-										6579
-									],
-									[
-										6645,
-										6651
-									],
-									[
-										6750,
-										6756
-									],
-									[
-										6869,
-										6875
-									],
-									[
-										6900,
-										6906
-									],
-									[
-										7058,
-										7064
-									],
-									[
-										7197,
-										7203
-									],
-									[
-										7331,
-										7337
-									],
-									[
-										7571,
-										7577
-									],
-									[
-										7868,
-										7874
-									],
-									[
-										7927,
-										7933
-									],
-									[
-										7993,
-										7999
-									],
-									[
-										8243,
-										8249
-									],
-									[
-										8254,
-										8260
-									],
-									[
-										8306,
-										8312
-									],
-									[
-										8372,
-										8378
-									]
-								],
-								"scope": ""
-							}
-						},
-						"selection":
-						[
-							[
-								6756,
-								6756
-							]
-						],
-						"settings":
-						{
-							"detect_indentation": false,
-							"line_numbers": false,
-							"output_tag": 4,
-							"result_base_dir": "",
-							"result_file_regex": "^([^ \t].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 5082.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_sass/uno.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 32124,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								24418,
-								24418
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -1335,7 +1471,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 33.0
+		"height": 31.0
 	},
 	"input":
 	{
@@ -1380,7 +1516,7 @@
 	"project": "website.sublime-project",
 	"replace":
 	{
-		"height": 68.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1418,7 +1554,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 350.0,
+	"side_bar_width": 328.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
