@@ -197,3 +197,14 @@ ul.no-bullets li {
 .page-title {
     display: none !important;
 }
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar .social-icons {
+  margin-top: auto;       // pushes them to the end of the column
+  padding-bottom: 1rem;   // a little breathing room
+}
+
