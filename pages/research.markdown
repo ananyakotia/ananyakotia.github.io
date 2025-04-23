@@ -55,7 +55,7 @@ permalink: /research/
   </h6>
 </div>
 <ul class="no-bullets">
-	<li class="author-funding" style="font-size: 14px">
+	<li class="author-funding" style="font-size: 14px; margin-top: -20px">
     Presentations (scheduled*): 
       <a href="https://www.nber.org/conferences/si-2025-macroeconomics-and-productivity" target="_blank">
        NBER SI 2025 (Macro and Productivity)*
