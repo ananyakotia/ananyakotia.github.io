@@ -198,13 +198,27 @@ ul.no-bullets li {
     display: none !important;
 }
 
-.sidebar {
-  display: flex;
-  flex-direction: column;
+/* ─────────────────────────────────────────────
+   STOP the hero/sidebar from clipping content
+   ──────────────────────────────────────────── */
+
+.page__hero,          /* Minimal-Mistakes default class  */
+.intro,               /* older versions use .intro        */
+.sidebar,             /* some forks rename it .sidebar    */
+.site-header {        /* belt-and-braces: header hero     */
+  /* Let the column be at least the height of the viewport,
+     but grow (or scroll internally) if its real content is taller. */
+  min-height: 100vh;
+  overflow-y: auto;      /* show a tiny scrollbar instead of hiding icons */
+  overflow-x: hidden;    /* keep horizontal behaviour unchanged */
 }
 
-.sidebar .social-icons {
-  margin-top: auto;       // pushes them to the end of the column
-  padding-bottom: 1rem;   // a little breathing room
+/* Optional: on very short screens, don’t insist on 100 vh at all */
+@media (max-height: 740px) {
+  .page__hero,
+  .intro,
+  .sidebar,
+  .site-header {
+    min-height: auto;
+  }
 }
-
