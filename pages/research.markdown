@@ -60,7 +60,6 @@ permalink: /research/
       <a href="https://www.nber.org/conferences/si-2025-macroeconomics-and-productivity" target="_blank">
        NBER SI 2025 (Macro and Productivity)*
       </a>
-<ul class="no-bullets">
   </li>
   <li class="author-funding" style="font-size: 14px;">Funding: IGC, PEDL</li>
 </ul> 
