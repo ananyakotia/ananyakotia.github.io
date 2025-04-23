@@ -61,6 +61,7 @@ permalink: /research/
   </li>
   <li class="author-funding" style="font-size: 14px;">Funding: IGC, PEDL</li>
 </ul> 
+<div style="height:25px;font-size:25px;">&nbsp;</div>
 
 <span style="color:#2c7e5a;font-weight: 500;">Globalization and Domestic Industrial Policy</span>
 <ul class="no-bullets">
