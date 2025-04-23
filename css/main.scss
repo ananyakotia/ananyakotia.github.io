@@ -198,27 +198,28 @@ ul.no-bullets li {
     display: none !important;
 }
 
-/* ─────────────────────────────────────────────
-   STOP the hero/sidebar from clipping content
-   ──────────────────────────────────────────── */
+/* ───────────────────────────────
+   Sidebar / hero height override
+   ─────────────────────────────── */
 
-.page__hero,          /* Minimal-Mistakes default class  */
-.intro,               /* older versions use .intro        */
-.sidebar,             /* some forks rename it .sidebar    */
-.site-header {        /* belt-and-braces: header hero     */
-  /* Let the column be at least the height of the viewport,
-     but grow (or scroll internally) if its real content is taller. */
-  min-height: 100vh;
-  overflow-y: auto;      /* show a tiny scrollbar instead of hiding icons */
-  overflow-x: hidden;    /* keep horizontal behaviour unchanged */
+/* 1 – Let the column grow if needed */
+.page__hero,
+.intro,
+.sidebar,
+.site-header {
+  /* drop the explicit height rule entirely */
+  min-height: auto !important;   /* grow with content */
+  height: auto !important;
+  overflow: visible !important;  /* no internal clipping */
 }
 
-/* Optional: on very short screens, don’t insist on 100 vh at all */
-@media (max-height: 740px) {
+/* 2 – OPTIONAL: keep a nice full-screen look
+      on tall screens only */
+@media (min-height: 740px) {
   .page__hero,
   .intro,
   .sidebar,
   .site-header {
-    min-height: auto;
+    min-height: 100vh;           /* full-screen on laptops / desktops */
   }
 }
