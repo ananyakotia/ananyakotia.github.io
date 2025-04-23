@@ -91,7 +91,7 @@ details[open] summary:after {
 
 h1, h2, h3, h4, h5 {
   color: #353839;
-  // font-family: 'Open Sans', sans-serif;
+  /* font-family: 'Open Sans', sans-serif; */
   font-family: 'Proxima Nova', sans-serif;
   font-weight: normal;
 }
@@ -122,19 +122,19 @@ h1 {
 h2 {
   font-size: 26px;
   line-height: 0.5;
-  // font-style: italic;
+  /* font-style: italic; */
   text-align: center;
   margin-top: 30px;
   margin-bottom: 30px;
-  // font-family: "American Typewriter";
+  /* font-family: "American Typewriter"; */
 }
 
 h3 {
   font-size: 26px;
-  // font-weight: 350;
-  // color: #353839;
+  /* font-weight: 350; */
+  /* color: #353839; */
   line-height: 1.2;
-  // font-family: 'American Typewriter', sans-serif;
+  /* font-family: 'American Typewriter', sans-serif*/
 }
 
 h4 {
@@ -147,23 +147,23 @@ h6 {
   font-size: 14px;
   font-weight: 100;
   color: #353839;
-  // text-align: justify;
-  //text-justify: inter-word;
+  /* text-align: justify; */
+  /* text-justify: inter-word */
 }
 
 h5 {
   font-size: 18px;
   color: #353839;
-  // text-align: justify;
+  /* text-align: justify */
 }
 
 coauthor {
   font-size: 14px;
   color: #353839;
-  // text-align: justify;
+  /* text-align: justify */
 }
 
-// TOGGLE BUTTON
+/* TOGGLE BUTTON */
 
 .abstract {
     max-height: 0;
@@ -172,7 +172,7 @@ coauthor {
     transition: max-height 0.3s ease-in-out;
 }
 .abstract-toggle {
-    // color: #007ACC;
+    /* color: #007ACC; */
     margin-right: 10px;
     font-size: 14px;
     text-decoration: underline;
