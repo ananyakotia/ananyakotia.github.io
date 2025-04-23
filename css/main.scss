@@ -197,29 +197,3 @@ ul.no-bullets li {
 .page-title {
     display: none !important;
 }
-
-/* ───────────────────────────────
-   Sidebar / hero height override
-   ─────────────────────────────── */
-
-/* 1 – Let the column grow if needed */
-.page__hero,
-.intro,
-.sidebar,
-.site-header {
-  /* drop the explicit height rule entirely */
-  min-height: auto !important;   /* grow with content */
-  height: auto !important;
-  overflow: visible !important;  /* no internal clipping */
-}
-
-/* 2 – OPTIONAL: keep a nice full-screen look
-      on tall screens only */
-@media (min-height: 740px) {
-  .page__hero,
-  .intro,
-  .sidebar,
-  .site-header {
-    min-height: 100vh;           /* full-screen on laptops / desktops */
-  }
-}
