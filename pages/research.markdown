@@ -44,23 +44,34 @@ permalink: /research/
   Family Matters: Globalization, Firm Management and Productivity
   <em style="color:#000;">(Job Market Paper)</em>
 </span>
+
 <ul class="no-bullets">
-	<li style="margin-top: -20px;">
-		<span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span>
-	</li>
-	<li class="author-funding" style="font-size: 14px;">
-    Presentations (scheduled*): 
-      <a href="https://www.nber.org/conferences/si-2025-macroeconomics-and-productivity" target="_blank">
-       NBER SI 2025 (Macro and Productivity)*
-      </a>
+  <!-- TOGGLE + ABSTRACT live in the first <li> -->
+  <li style="margin-top:-20px; list-style:none;">
+    <span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span>
+    <div id="FamilyFirms_abstract"
+         class="abstract"
+         style="max-height:0; overflow:hidden;">
+      <h6>
+        How does globalization affect firm management and productivity? …
+      </h6>
+    </div>
   </li>
-  <li class="author-funding" style="font-size: 14px;">Funding: IGC, PEDL</li>
-</ul> 
-<div id="FamilyFirms_abstract" class="abstract" style="max-height: 0;">
-  <h6>
-    How does globalization affect firm management and productivity? I investigate this question using a product‑specific import‑competition shock in India, focusing on family‑managed firms—the predominant form of corporate governance in the developing world. Utilizing a novel manager‑firm matched dataset, I analyze tenure records and family ties of over six million company directors. Employing an event‑study approach, I find that firms exposed to import competition replace family managers with unrelated professional executives, increasing firm productivity by 20 percent. To evaluate the aggregate implications, I construct a model of industrial equilibrium where family firms balance non‑pecuniary private benefits of family management against higher profits achievable through professional management. Consistent with the empirical findings, the model predicts that import competition drives the least‑productive family firms to adopt professional management to avoid exit. These results underscore managerial restructuring as a critical mechanism linking competition to productivity gains.
-  </h6>
-</div>
+
+  <!-- everything else follows -->
+  <li class="author-funding" style="font-size:14px;">
+    Presentations&nbsp;(scheduled*):
+    <a href="https://www.nber.org/conferences/si-2025-macroeconomics-and-productivity"
+       target="_blank">
+      NBER SI 2025 (Macro and Productivity)*
+    </a>
+  </li>
+
+  <li class="author-funding" style="font-size:14px;">
+    Funding: IGC, PEDL
+  </li>
+</ul>
+
 
 <span style="color:#2c7e5a;font-weight: 500;">Globalization and Domestic Industrial Policy</span>
 <ul class="no-bullets">
