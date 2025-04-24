@@ -38,20 +38,21 @@ $(document).ready(function () {
 })
 
 /* -----------------------------------------------------------------
-   Fix the layout immediately if the page is restored from bfcache
+   Expand the hero if the page returns from the back-/forward cache
 ------------------------------------------------------------------*/
-window.addEventListener('pageshow', function (e) {
-  if (e.persisted) {     // came from the back-/forward cache
+window.addEventListener('pageshow', function () {
 
-    // 1) expand the hero
-    $('.panel-cover')
-      .removeClass('panel-cover--collapsed')
-      .removeAttr('style');            // wipes width & max-width
+  // 1  Expand the hero if it’s still collapsed
+  var $panel = $('.panel-cover');
+  if ($panel.hasClass('panel-cover--collapsed')) {
+    $panel.removeClass('panel-cover--collapsed')
+          .removeAttr('style');               // clears width & max-width
+  }
 
-    // 2) hide the right column that had slid in
-    $('.content-wrapper')
+  // 2  Hide the right-hand column that slid in
+  $('.content-wrapper')
       .removeClass('animated slideInRight')
       .css({opacity: 0});
-  }
 });
+
 
