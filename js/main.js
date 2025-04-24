@@ -53,11 +53,31 @@ window.addEventListener("popstate", function(event) {
   }
 });
 
-/* --- UN-collapse panel when we land on the root URL,
-       even if the page came from the bfcache --- */
-if (window.location.pathname === "/" || window.location.pathname === "/index.html") {
-  $(".panel-cover")
-      .removeClass("panel-cover--collapsed")  // drop the class
-      .attr("style", "");                     // clear the inline width/max-width
+/* ==========================================================
+   RESET HERO PANEL WHENEVER WE ARE ON THE HOME PAGE
+   – works on normal loads *and* on bfcache restores
+   ========================================================== */
+
+/* 1. Helper that actually does the reset */
+function resetPanelCoverIfHome () {
+  var home1 = '{{ site.baseurl }}/';          // e.g. "/"   or "/ananyakotia.github.io/"
+  var home2 = '{{ site.baseurl }}/index.html';
+
+  /* GitHub Pages + custom domain resolves site.baseurl to "".
+     So cover the three possibilities ↴                           */
+  if (window.location.pathname === home1 ||
+      window.location.pathname === home2 ||
+      window.location.pathname === '/') {
+
+    var $panel = $('.panel-cover');
+    $panel.removeClass('panel-cover--collapsed');   // remove the class
+    $panel.attr('style', '');                       // clear the inline width/max-width
+  }
 }
+
+/* 2. Run once on a *normal* page load / refresh */
+resetPanelCoverIfHome();
+
+/* 3. Run every time the page is restored from the back-/forward-cache  */
+window.addEventListener('pageshow', resetPanelCoverIfHome, false);
 
