@@ -198,3 +198,36 @@ ul.no-bullets li {
 .page-title {
     display: none !important;
 }
+
+/* === TWO-ROW NAVIGATION LAYOUT ===================================== */
+.nav-buttons{
+  display:flex;
+  flex-wrap:wrap;        /* let the list wrap */
+  justify-content:center;
+  gap:0.6rem 1.2rem;     /* row gap | column gap */
+  list-style:none;
+  padding:0;
+  margin:1.2rem 0 0;     /* some air above */
+}
+
+.nav-buttons a{
+  text-decoration:none;  /* inherit your existing button styles */
+  font-weight:600;
+}
+
+/* force the row break exactly after CV ------------------------------ */
+.nav-buttons .break{
+  flex-basis:100%;       /* new line without extra height */
+  height:0;
+  padding:0;
+  margin:0;
+}
+
+/* MOBILE fall-back: single column when screen < 500 px -------------- */
+@media (max-width:500px){
+  .nav-buttons{
+    flex-direction:column;
+    align-items:center;
+  }
+}
+
