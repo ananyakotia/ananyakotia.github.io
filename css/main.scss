@@ -198,30 +198,3 @@ ul.no-bullets li {
 .page-title {
     display: none !important;
 }
-
-/* --- keep page links tidy on two rows --- */
-.cover-navigation--primary{
-  display:flex;
-  flex-wrap:wrap;
-  justify-content:center;   /* centre the buttons */
-  gap:0.6rem 1.2rem;        /* row gap | column gap */
-}
-.cover-navigation--primary .navigation:nth-child(4){
-  flex-basis:100%;          /* force “other writings” onto row 2 */
-}
-
-/* make the two <nav> blocks wrap together */
-.navigation-wrapper{
-  display:flex;
-  flex-wrap:wrap;
-  justify-content:center;
-  gap:1rem;          /* space between the page-links nav and the icon nav */
-}
-
-/* line-up the icons horizontally and give them a bit of breathing room */
-.navigation--social .navigation{
-  display:flex;
-  gap:0.9rem;
-  align-items:center;
-}
-
