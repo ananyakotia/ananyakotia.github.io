@@ -63,12 +63,12 @@ function resetPanelCoverIfHome () {
   var path = window.location.pathname.replace(/\/+$/, '');
   if (path === '' || path === '/index.html') {
 
-    /* 1️⃣   Expand the hero */
+    /* 1 Expand the hero */
     var $panel = $('.panel-cover');
     $panel.removeClass('panel-cover--collapsed')
           .removeAttr('style');                 // wipes width & max-width
 
-    /* 2️⃣   Hide the right-hand column that was slid in */
+    /* 2 Hide the right-hand column that was slid in */
     $('.content-wrapper')
          .removeClass('animated slideInRight')
          .css({opacity: 0});                    // collapses its visual footprint
