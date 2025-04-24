@@ -38,11 +38,20 @@ $(document).ready(function () {
 })
 
 /* -----------------------------------------------------------------
-   Force a full reload if the page is restored from the bfcache
-   (that’s exactly the situation when you press Back)
+   Fix the layout immediately if the page is restored from bfcache
 ------------------------------------------------------------------*/
 window.addEventListener('pageshow', function (e) {
-  if (e.persisted) {        // true ⇔ came from the back-/forward cache
-    location.reload();      // one-time, fast (<20 kB) reload
+  if (e.persisted) {     // came from the back-/forward cache
+
+    // 1) expand the hero
+    $('.panel-cover')
+      .removeClass('panel-cover--collapsed')
+      .removeAttr('style');            // wipes width & max-width
+
+    // 2) hide the right column that had slid in
+    $('.content-wrapper')
+      .removeClass('animated slideInRight')
+      .css({opacity: 0});
   }
 });
+
