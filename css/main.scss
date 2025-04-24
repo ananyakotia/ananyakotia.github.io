@@ -199,4 +199,14 @@ ul.no-bullets li {
     display: none !important;
 }
 
+/* --- keep page links tidy on two rows --- */
+.cover-navigation--primary{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;   /* centre the buttons */
+  gap:0.6rem 1.2rem;        /* row gap | column gap */
+}
+.cover-navigation--primary .navigation:nth-child(4){
+  flex-basis:100%;          /* force “other writings” onto row 2 */
+}
 
