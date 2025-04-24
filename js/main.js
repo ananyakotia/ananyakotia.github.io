@@ -37,12 +37,3 @@ $(document).ready(function () {
 
 })
 
-/* -----------------------------------------------------------------
-   Force a full reload if the page is restored from the bfcache
-   (that’s exactly the situation when you press Back)
-------------------------------------------------------------------*/
-window.addEventListener('pageshow', function (e) {
-  if (e.persisted) {        // true ⇔ came from the back-/forward cache
-    location.reload();      // one-time, fast (<20 kB) reload
-  }
-});
