@@ -1,15 +1,45 @@
-<!-- === NAVIGATION BUTTONS (two-row flexbox) === -->
-<ul class="nav-buttons">
-  <li><a href="{{ site.baseurl }}/about/">About</a></li>
-  <li><a href="{{ site.baseurl }}/research/">Research</a></li>
-  <li><a href="{{ site.baseurl }}/cv/">CV</a></li>
+<span class="mobile btn-mobile-menu">
+  <i class="icon icon-list btn-mobile-menu__icon"></i>
+  <i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
+</span>
 
-  <!-- HARD BREAK between rows -->
-  <li class="break"></li>
+<header class="panel-cover" style="background-image: url({{ site.baseurl }}/images/2.JPG)">
+  <div class="panel-main">
 
-  <li><a href="{{ site.baseurl }}/other-writing/">Other writing</a></li>
-  <li><a href="https://twitter.com/YourHandle"  aria-label="Twitter">
-        <i class="fa fa-twitter"></i></a></li>
-  <li><a href="mailto:you@lse.ac.uk"            aria-label="E-mail">
-        <i class="fa fa-envelope"></i></a></li>
-</ul>
+    <div class="panel-main__inner panel-inverted">
+    <div class="panel-main__content">
+        <a href="{{ site.baseurl }}/" title="link to home of {{ site.title }}">
+          <img src="{{ site.baseurl }}/images/profile.jpg" class="user-image" alt="picture">
+          <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
+        </a>
+        <hr class="panel-cover__divider">
+        <p class="panel-cover__description">{{ site.description }}</p>
+        <hr class="panel-cover__divider panel-cover__divider--secondary">
+
+        <div class="navigation-wrapper">
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <!-- NEW two-row, centred list -->
+            <ul class="nav-buttons">
+              <li><a href="{{ site.baseurl }}/about/">About</a></li>
+              <li><a href="{{ site.baseurl }}/research/">Research</a></li>
+              <li><a href="{{ site.baseurl }}/cv/">CV</a></li>
+
+              <li class="break"></li>   <!-- forces the wrap -->
+
+              <li><a href="{{ site.baseurl }}/other-writing/">Other writing</a></li>
+              <li><a href="https://twitter.com/ananyakotia"  aria-label="Twitter">
+                    <i class="fa fa-twitter"></i></a></li>
+              <li><a href="mailto:a.kotia1@lse.ac.uk"        aria-label="E-mail">
+                    <i class="fa fa-envelope"></i></a></li>
+            </ul>
+          </nav>
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="panel-cover--overlay"></div>
+  </div>
+</header>
