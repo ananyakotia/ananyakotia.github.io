@@ -210,3 +210,18 @@ ul.no-bullets li {
   flex-basis:100%;          /* force “other writings” onto row 2 */
 }
 
+/* make the two <nav> blocks wrap together */
+.navigation-wrapper{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:1rem;          /* space between the page-links nav and the icon nav */
+}
+
+/* line-up the icons horizontally and give them a bit of breathing room */
+.navigation--social .navigation{
+  display:flex;
+  gap:0.9rem;
+  align-items:center;
+}
+
