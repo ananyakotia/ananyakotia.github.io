@@ -58,26 +58,25 @@ window.addEventListener("popstate", function(event) {
    – works on normal loads *and* on bfcache restores
    ========================================================== */
 
-/* 1. Helper that actually does the reset */
 function resetPanelCoverIfHome () {
-  var home1 = '{{ site.baseurl }}/';          // e.g. "/"   or "/ananyakotia.github.io/"
-  var home2 = '{{ site.baseurl }}/index.html';
+  // Treat  "/",  ""  and  "/index.html"  as “home”
+  var path = window.location.pathname.replace(/\/+$/, '');
+  if (path === '' || path === '/index.html') {
 
-  /* GitHub Pages + custom domain resolves site.baseurl to "".
-     So cover the three possibilities ↴                           */
-  if (window.location.pathname === home1 ||
-      window.location.pathname === home2 ||
-      window.location.pathname === '/') {
-
+    /* 1️⃣   Expand the hero */
     var $panel = $('.panel-cover');
-    $panel.removeClass('panel-cover--collapsed');   // remove the class
-    $panel.css({ width: '', maxWidth: '' });   // clears both inline rules
+    $panel.removeClass('panel-cover--collapsed')
+          .removeAttr('style');                 // wipes width & max-width
+
+    /* 2️⃣   Hide the right-hand column that was slid in */
+    $('.content-wrapper')
+         .removeClass('animated slideInRight')
+         .css({opacity: 0});                    // collapses its visual footprint
   }
 }
 
-/* 2. Run once on a *normal* page load / refresh */
+/* Run once on a full load / refresh */
 resetPanelCoverIfHome();
 
-/* 3. Run every time the page is restored from the back-/forward-cache  */
+/* Run again every time the page returns from the back-/forward cache */
 window.addEventListener('pageshow', resetPanelCoverIfHome, false);
-
