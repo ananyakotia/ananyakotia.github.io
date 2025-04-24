@@ -52,3 +52,12 @@ window.addEventListener("popstate", function(event) {
     history.pushState(null, null, location.href);
   }
 });
+
+/* --- UN-collapse panel when we land on the root URL,
+       even if the page came from the bfcache --- */
+if (window.location.pathname === "/" || window.location.pathname === "/index.html") {
+  $(".panel-cover")
+      .removeClass("panel-cover--collapsed")  // drop the class
+      .attr("style", "");                     // clear the inline width/max-width
+}
+
