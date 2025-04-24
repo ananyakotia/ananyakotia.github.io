@@ -38,21 +38,11 @@ $(document).ready(function () {
 })
 
 /* -----------------------------------------------------------------
-   Expand the hero if the page returns from the back-/forward cache
+   Force a full reload if the page is restored from the bfcache
+   (that’s exactly the situation when you press Back)
 ------------------------------------------------------------------*/
-window.addEventListener('pageshow', function () {
-
-  // 1  Expand the hero if it’s still collapsed
-  var $panel = $('.panel-cover');
-  if ($panel.hasClass('panel-cover--collapsed')) {
-    $panel.removeClass('panel-cover--collapsed')
-          .removeAttr('style');               // clears width & max-width
+window.addEventListener('pageshow', function (e) {
+  if (e.persisted) {        // true ⇔ came from the back-/forward cache
+    location.reload();      // one-time, fast (<20 kB) reload
   }
-
-  // 2  Hide the right-hand column that slid in
-  $('.content-wrapper')
-      .removeClass('animated slideInRight')
-      .css({opacity: 0});
 });
-
-
