@@ -250,7 +250,7 @@ ul.no-bullets li {
   overflow-y: auto;
 
   /* 2. Keep the photo */
-  background-image: url("/images/2.JPG");
+  background-image: url({{ site.baseurl }}/images/2.JPG);
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
