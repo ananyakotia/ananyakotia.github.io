@@ -247,7 +247,7 @@ body.home .panel-cover{
     linear-gradient(140deg,
                     rgba(68,68,68,.60) 10%,
                     rgba(0,0,0,.90)),
-    url("../images/2.JPG");      /* adjust path if folder differs */
+    url({{ site.baseurl }}/images/2.JPG);      /* adjust path if folder differs */
 
   background-size: cover;
   background-position: center top;
