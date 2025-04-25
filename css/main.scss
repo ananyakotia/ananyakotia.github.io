@@ -240,19 +240,5 @@ ul.no-bullets li {
   overflow-y:auto;     /* inner pages */
 }
 
-/* ——— Panel photo + gradient tint, *only* on the landing page ——— */
-body.home .panel-cover{
-  /* 1st layer = dark gradient, 2nd = the photo itself */
-  background-image:
-    linear-gradient(140deg,
-                    rgba(68,68,68,.60) 10%,
-                    rgba(0,0,0,.90)),
-    url({{ site.baseurl }}/images/2.JPG);      /* adjust path if folder differs */
-
-  background-size: cover;
-  background-position: center top;
-  background-repeat: no-repeat;
-}
-
 
 
