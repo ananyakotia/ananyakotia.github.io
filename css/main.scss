@@ -240,16 +240,4 @@ ul.no-bullets li {
   overflow-y:auto;     /* inner pages */
 }
 
-/* === Panel photo + lighter gradient on ALL pages ============ */
-.panel-cover{
-  /* 1 shorthand → beats the theme’s shorthand */
-  background:
-    linear-gradient(140deg,
-                    rgba(68,68,68,.35) 10%,
-                    rgba(0,0,0,.65)),
-    url({{ site.baseurl }}/images/2.JPG)   /* hero photo */
-    center top / cover no-repeat;
-}
-
-
 
