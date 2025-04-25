@@ -240,4 +240,40 @@ ul.no-bullets li {
   overflow-y:auto;     /* inner pages */
 }
 
+/* -----------------------------------------------------------------
+   PANEL COVER (left column)
+   -----------------------------------------------------------------*/
+.panel-cover{
+  /* 1. Let the column grow as tall as its content */
+  min-height: 100vh;        /* full viewport at least */
+  height: auto;             /* <— replaces the old fixed 100% */
+  overflow-y: auto;
+
+  /* 2. Keep the photo */
+  background-image: url("/images/2.JPG");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+
+  position: relative;       /* anchor the ::before layer */
+}
+
+/* 3. Tint layer that always covers the full height */
+.panel-cover::before{
+  content: "";
+  position: absolute;
+  inset: 0;                 /* top/right/bottom/left = 0 */
+  background: linear-gradient(140deg,
+              rgba(68,68,68,.35) 10%,
+              rgba(0,0,0,.65));
+  pointer-events: none;     /* clicks pass through */
+}
+
+/* 4. When the panel is collapsed on small screens it’s not fixed;
+      the code above still works, but we remove any JS-set width limits */
+@media (max-width: 959px){
+  .panel-cover{ width: 100%; }
+}
+
+
 
