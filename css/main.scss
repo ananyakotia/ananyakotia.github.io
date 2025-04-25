@@ -240,22 +240,25 @@ ul.no-bullets li {
   overflow-y:auto;     /* inner pages */
 }
 
-/* For the inner pages where the left panel is collapsed */
-.panel-cover.panel-cover--collapsed {
-  position: relative;         /* Instead of fixed */
-  width: 40%;                 /* or whatever you want */
-  max-width: 530px;           /* from your existing code */
-  height: auto;               /* let it grow with content */
-  min-height: 100vh;          /* so it still spans the screen */
-  overflow-y: auto;           /* scroll if content is taller than screen */
+
+.parent-container {
+  display: flex;
+  /* possibly: min-height: 100vh; etc. */
 }
 
-/* Make sure the tint covers the entire (potentially scrollable) panel */
-.panel-cover--collapsed .panel-cover--overlay {
-  position: absolute;
-  top: 0;   left: 0;
-  right: 0; bottom: 0;
-  pointer-events: none; /* so links beneath are clickable */
+/* left column */
+.panel-cover--collapsed {
+  flex: 0 0 40%;        /* or “width: 40%” if you prefer */
+  overflow-y: auto;
+  position: relative;
+  height: auto;
+  min-height: 100vh;
+}
+
+/* right column */
+.content-wrapper {
+  flex: 1; /* fill the remaining space, or use 60% if you want a fixed ratio */
+  margin-left: 0;  /* remove old margin-left */
 }
 
 
