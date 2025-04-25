@@ -231,3 +231,12 @@ ul.no-bullets li {
   }
 }
 
+/* ——— allow vertical scroll if content is taller than the window ——— */
+.panel-cover{
+  overflow-y:auto;     /* home page */
+}
+
+.panel-cover--collapsed{
+  overflow-y:auto;     /* inner pages */
+}
+
