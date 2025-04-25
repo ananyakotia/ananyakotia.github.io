@@ -240,3 +240,12 @@ ul.no-bullets li {
   overflow-y:auto;     /* inner pages */
 }
 
+/* --------------------------------------------------------------- */
+/* keep gradient tint visible even when panel scrolls              */
+.panel-cover--overlay{
+  position:fixed;            /* was absolute                       */
+  z-index:-1;                /* stays behind text & buttons        */
+}
+/* --------------------------------------------------------------- */
+
+
