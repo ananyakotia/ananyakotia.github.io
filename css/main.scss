@@ -231,43 +231,14 @@ ul.no-bullets li {
   }
 }
 
-
-/* ================================================================
-   TINT-ALWAYS-VISIBLE + DESKTOP GAP FIX
-   (must be after every other rule so it wins the cascade)
-   ================================================================*/
-
-/* 1.  keep the panel fixed & scrollable, photo only */
+/* ——— allow vertical scroll if content is taller than the window ——— */
 .panel-cover{
-  /* photo only; gradient will be on ::before */
-  background: url('{{ site.baseurl }}/images/2.JPG')
-             center top / cover no-repeat;
-
-  position: fixed;   /* ensure it never scrolls away            */
-  top: 0; left: 0;
-  height: 100%;
-  width: 100%;       /* JS overwrites this on large screens     */
-  overflow-y: auto;  /* you already set this – just repeating   */
+  overflow-y:auto;     /* home page */
 }
 
-/* 2.  gradient that follows the panel’s own scroll               */
-.panel-cover::before{
-  content: "";
-  position: absolute; inset: 0;
-  background: linear-gradient(140deg,
-              rgba(68,68,68,.35) 10%,
-              rgba(0,0,0,.65));
-  background-attachment: local;   /* <— key line: sticks to scroll */
-  pointer-events: none;           /* clicks pass through            */
+.panel-cover--collapsed{
+  overflow-y:auto;     /* inner pages */
 }
-
-/* 3.  remove the 100 vh gap on desktop screens                    */
-@media (min-width: 960px){
-  .content-wrapper{
-    margin-top: 0 !important;
-  }
-}
-
 
 
 
