@@ -41,7 +41,7 @@ permalink: /research/
 ### Work in Progress
 
 <span style="color:#2c7e5a;font-weight: 500;">
-  Family Matters: Globalization, Firm Management and Productivity
+  Family Matters: Globalization, Management, and Firm Productivity
   <em style="color:#000;">(Job Market Paper)</em>
 </span>
 <ul class="no-bullets">
