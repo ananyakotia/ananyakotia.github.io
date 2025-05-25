@@ -55,12 +55,11 @@ permalink: /research/
   </h6>
 </div>
 <ul class="no-bullets">
-	<li class="author-funding" style="font-size: 14px; margin-top: -20px">
-    Presentations (scheduled*): 
-      <a href="https://www.nber.org/conferences/si-2025-macroeconomics-and-productivity" target="_blank">
-       NBER SI 2025 (Macro and Productivity)*, <a href="https://cepr.org/events/joint-workshop-incentives-management-and-organization-imo-entrepreneurship-strategy-and-0" target="_blank">CEPR IMO-ESF Joint Workshop*
-      </a>
-  </li>
+<li class="author-funding" style="font-size: 14px; margin-top: -20px">
+  Presentations (scheduled*): 
+  <a href="https://www.nber.org/conferences/si-2025-macroeconomics-and-productivity" target="_blank">NBER SI 2025 (Macro and Productivity)*</a>, 
+  <a href="https://cepr.org/events/joint-workshop-incentives-management-and-organization-imo-entrepreneurship-strategy-and-0" target="_blank">CEPR IMO-ESF Joint Workshop*</a>
+</li>
   <li class="author-funding" style="font-size: 14px;">Funding: IGC, PEDL</li>
 </ul> 
 <div style="height:25px;font-size:25px;">&nbsp;</div>
