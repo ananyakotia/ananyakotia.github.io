@@ -58,7 +58,7 @@ permalink: /research/
 <li class="author-funding" style="font-size: 14px; margin-top: -20px">
   Presentations (scheduled*): 
   <a href="https://www.nber.org/conferences/si-2025-macroeconomics-and-productivity" target="_blank">NBER SI 2025 (Macro and Productivity)*</a>, 
-  <a href="https://editorialexpress.com/conference/SED2025/program/SED2025.html">SED 2025 Annual Meeting*</a>
+  <a href="https://editorialexpress.com/conference/SED2025/program/SED2025.html">SED 2025 Annual Meeting*</a>,
   <a href="https://cepr.org/events/joint-workshop-incentives-management-and-organization-imo-entrepreneurship-strategy-and-0" target="_blank">CEPR IMO-ESF Joint Workshop*</a>
 </li>
   <li class="author-funding" style="font-size: 14px;">Funding: IGC, PEDL</li>
