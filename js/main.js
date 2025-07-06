@@ -53,15 +53,3 @@ window.addEventListener("popstate", function(event) {
   }
 });
 
-function collapseHero () {
-  if (window.innerWidth < 960) {
-    $('.panel-cover').addClass('panel-cover--collapsed');
-  } else {
-    $('.panel-cover').removeClass('panel-cover--collapsed')
-                    .css({ maxWidth:'', width:'' });   // undo the inline animation width
-  }
-}
-
-$(document).ready(collapseHero);
-$(window).on('resize orientationchange', collapseHero);
-
