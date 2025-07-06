@@ -13,6 +13,34 @@ permalink: /research/
   }
 </style>
 
+### Job Market Paper
+
+<span style="color:#2c7e5a;font-weight: 500;">
+  Family Matters: Globalization, Management, and Firm Productivity
+  <em style="color:#000;">(Job Market Paper)</em>
+</span>
+<ul class="no-bullets">
+	<li style="margin-top: -20px;">
+		<span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span>
+	</li>
+</ul>
+<div id="FamilyFirms_abstract" class="abstract" style="max-height: 0;">
+  <h6>
+    How does globalization affect firm management and productivity? I investigate this question using a product‑specific import‑competition shock in India, focusing on family‑managed firms—the predominant form of corporate governance in the developing world. Utilizing a novel manager‑firm matched dataset, I analyze tenure records and family ties of over six million company directors. Employing an event‑study approach, I find that firms exposed to import competition replace family managers with unrelated professional executives, increasing firm productivity by 20 percent.  To evaluate the aggregate implications, I construct a model of industrial equilibrium where family firms balance non‑pecuniary private benefits of family management against higher profits achievable through professional management. Consistent with the empirical findings, the model predicts that import competition drives the least‑productive family firms to adopt professional management to avoid exit. These results underscore managerial restructuring as a critical mechanism linking competition to productivity gains.
+  </h6>
+</div>
+<ul class="no-bullets">
+<li class="author-funding" style="font-size: 14px; margin-top: -20px">
+  Presentations (scheduled*): 
+  <a href="https://www.nber.org/conferences/si-2025-macroeconomics-and-productivity" target="_blank">NBER SI 2025 (Macro and Productivity)*</a>, 
+  <a href="https://editorialexpress.com/conference/SED2025/program/SED2025.html">SED 2025 Annual Meeting*</a>,
+  <a href="https://cepr.org/events/joint-workshop-incentives-management-and-organization-imo-entrepreneurship-strategy-and-0" target="_blank">CEPR IMO-ESF Joint Workshop*</a>
+</li>
+  <li class="author-funding" style="font-size: 14px;">Funding: IGC, PEDL</li>
+</ul> 
+<div style="height:25px;font-size:25px;">&nbsp;</div>
+
+
 ### Working Papers
 
 <a href="{{site.baseurl}}/files/Papers/BKLMP2024.pdf" style="color:#2c7e5a;font-weight: 500;"><u> Meritocracy across Countries </u></a>
@@ -39,31 +67,6 @@ permalink: /research/
 <br>
 
 ### Work in Progress
-
-<span style="color:#2c7e5a;font-weight: 500;">
-  Family Matters: Globalization, Management, and Firm Productivity
-  <em style="color:#000;">(Job Market Paper)</em>
-</span>
-<ul class="no-bullets">
-	<li style="margin-top: -20px;">
-		<span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span>
-	</li>
-</ul>
-<div id="FamilyFirms_abstract" class="abstract" style="max-height: 0;">
-  <h6>
-    How does globalization affect firm management and productivity? I investigate this question using a product‑specific import‑competition shock in India, focusing on family‑managed firms—the predominant form of corporate governance in the developing world. Utilizing a novel manager‑firm matched dataset, I analyze tenure records and family ties of over six million company directors. Employing an event‑study approach, I find that firms exposed to import competition replace family managers with unrelated professional executives, increasing firm productivity by 20 percent.  To evaluate the aggregate implications, I construct a model of industrial equilibrium where family firms balance non‑pecuniary private benefits of family management against higher profits achievable through professional management. Consistent with the empirical findings, the model predicts that import competition drives the least‑productive family firms to adopt professional management to avoid exit. These results underscore managerial restructuring as a critical mechanism linking competition to productivity gains.
-  </h6>
-</div>
-<ul class="no-bullets">
-<li class="author-funding" style="font-size: 14px; margin-top: -20px">
-  Presentations (scheduled*): 
-  <a href="https://www.nber.org/conferences/si-2025-macroeconomics-and-productivity" target="_blank">NBER SI 2025 (Macro and Productivity)*</a>, 
-  <a href="https://editorialexpress.com/conference/SED2025/program/SED2025.html">SED 2025 Annual Meeting*</a>,
-  <a href="https://cepr.org/events/joint-workshop-incentives-management-and-organization-imo-entrepreneurship-strategy-and-0" target="_blank">CEPR IMO-ESF Joint Workshop*</a>
-</li>
-  <li class="author-funding" style="font-size: 14px;">Funding: IGC, PEDL</li>
-</ul> 
-<div style="height:25px;font-size:25px;">&nbsp;</div>
 
 <span style="color:#2c7e5a;font-weight: 500;">Globalization and Domestic Industrial Policy</span>
 <ul class="no-bullets">
