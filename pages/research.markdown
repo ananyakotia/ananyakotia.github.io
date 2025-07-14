@@ -73,6 +73,7 @@ permalink: /research/
 <span style="color:#2c7e5a;font-weight: 500;">Globalization and Domestic Industrial Policy</span>
 <ul class="no-bullets">
   <li class="author-funding" style="margin-top: -20px;font-size: 14px;">Funding: IGC</li>
+  <li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft coming soon.</li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
@@ -89,13 +90,15 @@ permalink: /research/
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
 		with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
 	</li>
-	<li class="author-funding" style="font-size: 14px;">Funding: IGC, Open Philanthropy</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, Open Philanthropy</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Pilot in the field (July 2025).</li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
 <span style="color:#2c7e5a;font-weight: 500;">How Much Do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation</span>
 <ul class="no-bullets">
-	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">Funding: STEG</li>
+	<li class="author-funding" style="margin-top: -20px;font-size: 14px;"><strong>Funding:</strong> STEG</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft coming soon.</li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
@@ -105,7 +108,8 @@ permalink: /research/
 		<a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> and 
 		<a href="https://economics.mit.edu/people/phd-students/henry-zhang" target="_blank">Henry Zhang</a>
 	</li>
-	<li class="author-funding" style="font-size: 14px;">Funding: PEDL, STICERD, George and Obie Shultz Fund</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> PEDL, STICERD, George and Obie Shultz Fund</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft available upon request.</li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
@@ -115,7 +119,8 @@ permalink: /research/
 		with <a href="https://economics.sas.upenn.edu/people/chinmay-lohani" target="_blank">Chinmay Lohani</a> and 
 		<a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
 	</li>
-	<li class="author-funding" style="font-size: 14px;">Funding: STEG</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> STEG</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft coming soon.</li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
@@ -124,5 +129,5 @@ permalink: /research/
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
 		with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
 	</li>
-	<li class="author-funding" style="font-size: 14px;">Funding: PEDL, G²LM|LIC, IGC</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> PEDL, G²LM|LIC, IGC</li>
 </ul>
