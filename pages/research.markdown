@@ -16,7 +16,7 @@ permalink: /research/
 ### Job Market Paper
 
 <span style="color:#2c7e5a;font-weight: 500;">
-  Family Matters: Globalization, Management, and Firm Productivity
+  When Competition Compels Change: Trade, Management, and Firm Productivity
 </span>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;">
