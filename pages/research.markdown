@@ -50,7 +50,7 @@ permalink: /research/
 
 ### Working Papers
 
-<a href="{{site.baseurl}}/files/Papers/BKLMP2024.pdf" style="color:#2c7e5a;font-weight: 500;"><u> Meritocracy across Countries </u></a>
+<a href="{{site.baseurl}}/files/Papers/BKLMP2025.pdf" style="color:#2c7e5a;font-weight: 500;"><u> Meritocracy across Countries </u></a>
 <ul class="no-bullets">
 	<li class="author-funding" style="margin-top: -20px; font-size: 14px">
 		with <a href="https://www.orianabandiera.net" target="_blank">Oriana Bandiera</a>, 
