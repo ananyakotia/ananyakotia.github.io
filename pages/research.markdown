@@ -15,9 +15,7 @@ permalink: /research/
 
 ### Working Papers
 
-<span style="color:#2c7e5a;font-weight: 500;">
-  When Competition Compels Change: Trade, Management, and Firm Productivity (Job Market Paper)
-</span>
+<a href="{{site.baseurl}}/files/Papers/Kotia2025_tradeqr.pdf" style="color:#2c7e5a;font-weight: 500;"><u> When Competition Compels Change: Trade, Management, and Firm Productivity (Job Market Paper) </u></a>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;">
 		<span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span>
@@ -40,6 +38,8 @@ permalink: /research/
   <li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, PEDL</li>
 </ul> 
 <div style="height:25px;font-size:25px;">&nbsp;</div>
+
+
  
 <a href="{{site.baseurl}}/files/Papers/BKLMP2025.pdf" style="color:#2c7e5a;font-weight: 500;"><u> Meritocracy across Countries </u></a>
 <ul class="no-bullets">
@@ -65,9 +65,12 @@ permalink: /research/
 <a href="{{site.baseurl}}/files/Papers/KSZ2025.pdf" style="color:#2c7e5a;font-weight: 500;"><u> Aggregate Impacts of Command‑and‑Control Environmental Policy: Evidence from Court‑Ordered Mining Bans in India </u></a>
 <ul class="no-bullets">
 	<li class="author-funding" style="margin-top: -20px; font-size: 14px">
-		with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> and 
-		<a href="https://henryhzhang.com" target="_blank">Henry Zhang</a>
+		with 	<a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> and 
+					<a href="https://henryhzhang.com" target="_blank">Henry Zhang</a>
 	</li>
+	</li>
+		<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> PEDL, STICERD, George and Obie Shultz Fund</li>
+	</ul>
 </ul>
 <div id="mining_abstract" class="abstract" style="max-height: 0;">
   <h6>
@@ -75,23 +78,65 @@ permalink: /research/
   </h6>
 </div>
 
-<span style="color:#2c7e5a;font-weight: 500;"></span>
-<ul class="no-bullets">
-	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
-		<a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a> and 
-		<a href="https://economics.mit.edu/people/phd-students/henry-zhang" target="_blank">Henry Zhang</a>
-	</li>
-	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> PEDL, STICERD, George and Obie Shultz Fund</li>
-	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft available upon request.</li>
-</ul>
-<div style="height:25px;font-size:25px;">&nbsp;</div>
-
 <span style="color:#2c7e5a;font-weight: 500;">How Much Do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation</span>
 <ul class="no-bullets">
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;"><strong>Funding:</strong> STEG</li>
 	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft available upon request.</li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
+
+<br>
+
+### Work in Progress
+
+<span style="color:#2c7e5a;font-weight: 500;">AI and Bureaucratic Decision Making</span>
+<ul class="no-bullets">
+	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
+		with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
+	</li>
+</ul>
+<div style="height:25px;font-size:25px;">&nbsp;</div>
+
+<span style="color:#2c7e5a;font-weight: 500;">Management in India</span>
+<ul class="no-bullets">
+	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
+		with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
+	</li>
+</ul>
+<div style="height:25px;font-size:25px;">&nbsp;</div>
+
+<span style="color:#2c7e5a;font-weight: 500;">AI and Bureaucratic Decision Making</span>
+<ul class="no-bullets">
+	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
+		with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
+	</li>
+</ul>
+<div style="height:25px;font-size:25px;">&nbsp;</div>
+
+<span style="color:#2c7e5a;font-weight: 500;">AI and Judicial State Capacity in India</span>
+<ul class="no-bullets">
+	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
+		with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
+	</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, Open Philanthropy</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Pilot in the field (July 2025).</li>
+</ul>
+<div style="height:25px;font-size:25px;">&nbsp;</div>
+
+<span style="color:#2c7e5a;font-weight: 500;">Globalization and Domestic Industrial Policy</span>
+<ul class="no-bullets">
+  <li class="author-funding" style="margin-top: -20px;font-size: 14px;">Funding: IGC</li>
+  <li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft coming soon.</li>
+</ul>
+<div style="height:25px;font-size:25px;">&nbsp;</div>
+
+<span style="color:#2c7e5a;font-weight: 500;">Digitizing Historical Indian Plant‑Level Data on Labour Outcomes</span>
+<ul class="no-bullets">
+	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
+		with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
+	</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> PEDL, G²LM|LIC, IGC</li>
+</ul>
 
 <span style="color:#2c7e5a;font-weight: 500;">Labor Market Frictions, the Organization of Labor, and Structural Change</span>
 <ul class="no-bullets">
@@ -105,40 +150,6 @@ permalink: /research/
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
 
-<br>
 
-### Work in Progress
 
-<span style="color:#2c7e5a;font-weight: 500;">AI and Judicial State Capacity in India</span>
-<ul class="no-bullets">
-	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
-		with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
-	</li>
-	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, Open Philanthropy</li>
-	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Pilot in the field (July 2025).</li>
-</ul>
-<div style="height:25px;font-size:25px;">&nbsp;</div>
-
-<span style="color:#2c7e5a;font-weight: 500;">Digitizing Historical Indian Plant‑Level Data on Labour Outcomes</span>
-<ul class="no-bullets">
-	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
-		with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
-	</li>
-	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> PEDL, G²LM|LIC, IGC</li>
-</ul>
-
-<span style="color:#2c7e5a;font-weight: 500;">Globalization and Domestic Industrial Policy</span>
-<ul class="no-bullets">
-  <li class="author-funding" style="margin-top: -20px;font-size: 14px;">Funding: IGC</li>
-  <li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft coming soon.</li>
-</ul>
-<div style="height:25px;font-size:25px;">&nbsp;</div>
-
-<span style="color:#2c7e5a;font-weight: 500;">AI and Bureaucratic Decision Making</span>
-<ul class="no-bullets">
-	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
-		with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
-	</li>
-</ul>
-<div style="height:25px;font-size:25px;">&nbsp;</div>
 
