@@ -82,7 +82,6 @@ permalink: /research/
   </h6>
 </div>
 
-
 <span style="color:#2c7e5a;font-weight: 500;">How Much Do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation</span>
 <ul class="no-bullets">
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;"><strong>Funding:</strong> STEG</li>
@@ -113,22 +112,22 @@ permalink: /research/
 </ul>
 <div style="height:25px;font-size:25px;"></div>
 
-
-<span style="color:#2c7e5a;font-weight: 500;">AI and Bureaucratic Decision Making</span>
+<span style="color:#2c7e5a;font-weight: 500;">FDI and Firm Organization</span>
 <ul class="no-bullets">
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
-		with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
+		with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Namrata Kala</a> and <a href="https://namratakala.com/cv/" target="_blank">Utkarsh Saxena</a>
 	</li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
-<span style="color:#2c7e5a;font-weight: 500;">AI and Judicial State Capacity in India</span>
+<span style="color:#2c7e5a;font-weight: 500;">Labor Market Frictions, the Organization of Labor, and Structural Change</span>
 <ul class="no-bullets">
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
-		with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
+		with <a href="https://economics.sas.upenn.edu/people/chinmay-lohani" target="_blank">Chinmay Lohani</a> and 
+		<a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
 	</li>
-	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, Open Philanthropy</li>
-	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Pilot in the field (July 2025).</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> STEG</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft coming soon.</li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
@@ -147,16 +146,6 @@ permalink: /research/
 	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> PEDL, G²LM|LIC, IGC</li>
 </ul>
 
-<span style="color:#2c7e5a;font-weight: 500;">Labor Market Frictions, the Organization of Labor, and Structural Change</span>
-<ul class="no-bullets">
-	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
-		with <a href="https://economics.sas.upenn.edu/people/chinmay-lohani" target="_blank">Chinmay Lohani</a> and 
-		<a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
-	</li>
-	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> STEG</li>
-	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft coming soon.</li>
-</ul>
-<div style="height:25px;font-size:25px;">&nbsp;</div>
 
 
 
