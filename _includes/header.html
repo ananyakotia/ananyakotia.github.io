@@ -34,9 +34,13 @@
             </ul>
           </nav>
         </div>
-
       </div>
-
+        {% if page.url == '/' %}
+          {% assign about_page = site.pages | where: "permalink", "/about/" | first %}
+          <div class="about-home">
+            {{ about_page.content | markdownify }}
+          </div>
+        {% endif %}
     </div>
     <div class="panel-cover--overlay"></div>
 
