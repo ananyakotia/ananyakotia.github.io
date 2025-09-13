@@ -38,7 +38,10 @@
 
       </div>
       <div class="header-right">
-        <p class="panel-cover__description">{{ site.description }}</p>
+        {% assign about_page = site.pages | where: "permalink", "/about/" | first %}
+        <div class="panel-cover__description">
+          {{ about_page.content | markdownify }}
+        </div>
       </div>
     </div>
 
