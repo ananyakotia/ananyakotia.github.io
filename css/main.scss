@@ -242,6 +242,40 @@ ul.no-bullets li {
   overflow-y:auto;     /* inner pages */
 }
 
+/* === Home layout: profile left, description right ================== */
+.panel-main__content{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  max-width:960px;
+  margin:0 auto;
+}
+
+.header-left{
+  text-align:center;
+}
+
+.header-right{
+  text-align:left;
+  max-width:600px;
+  margin-left:40px;
+}
+
+@media (max-width:600px){
+  .panel-main__content{
+    flex-direction:column;
+  }
+  .header-right{
+    margin-left:0;
+    text-align:center;
+  }
+}
+
+.about-content{
+  max-width:600px;
+  margin:0 5% 40px auto;
+  text-align:left;
+}
 
 
 

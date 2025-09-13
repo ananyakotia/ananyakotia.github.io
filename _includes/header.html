@@ -7,6 +7,7 @@
   <div class="panel-main">
     <div class="panel-main__inner panel-inverted">
     <div class="panel-main__content">
+      <div class="header-left">
         <a href="{{ site.baseurl }}/" title="link to home of {{ site.title }}">
           <img src="{{ site.baseurl }}/images/profile.jpg" class="user-image" alt="picture">
           <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
@@ -34,14 +35,12 @@
             </ul>
           </nav>
         </div>
-        {% if page.url == '/' %}
-          {% assign about_page = site.pages | where: "permalink", "/about/" | first %}
-          <div class="about-home">
-            {{ about_page.content | markdownify }}
-          </div>
-        {% endif %}
 
       </div>
+      <div class="header-right">
+        <p class="panel-cover__description">{{ site.description }}</p>
+      </div>
+    </div>
 
     </div>
     <div class="panel-cover--overlay"></div>
