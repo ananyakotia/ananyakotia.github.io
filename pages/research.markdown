@@ -115,7 +115,7 @@ permalink: /research/
 <span style="color:#2c7e5a;font-weight: 500;">FDI and Firm Organization</span>
 <ul class="no-bullets">
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
-		with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Namrata Kala</a> and <a href="https://namratakala.com/cv/" target="_blank">Utkarsh Saxena</a>
+		with <a href="https://namratakala.com" target="_blank">Namrata Kala</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
 	</li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
