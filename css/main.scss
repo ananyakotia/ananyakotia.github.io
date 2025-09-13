@@ -170,12 +170,14 @@ coauthor {
     overflow: hidden;
     transition: max-height 0.3s ease-in-out;
     margin-bottom: 25px;
+    font-size: 16px;
+    line-height: 1.5;
 }
 
 .abstract-toggle {
     /* color: #007ACC; */
     margin-right: 10px;
-    font-size: 15px;
+    font-size: 14px;
     text-decoration: underline;
     cursor: pointer;
 }
