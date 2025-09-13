@@ -38,8 +38,6 @@ permalink: /research/
   <li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, PEDL</li>
 </ul> 
 <div style="height:25px;font-size:25px;">&nbsp;</div>
-
-
  
 <a href="{{site.baseurl}}/files/Papers/BKLMP2025.pdf" style="color:#2c7e5a;font-weight: 500;"><u> Meritocracy across Countries </u></a>
 <ul class="no-bullets">
