@@ -95,7 +95,7 @@ permalink: /research/
   <h6>
     Neoclassical growth models with standard parameter values provide powerful self-financing incentives to financially constrained entrepreneurs. This fundamental prediction has important implications for capital misallocation. If entrepreneurs can indeed save themselves out of financial constraints, capital misallocation should disappear on its own and impose a small, transient cost to aggregate productivity. This is contrary to a large body of empirical work that has documented high dispersion in marginal products of resources, particularly capital. Using micro firm-level data and the staggered implementation of a financial liberalization policy in India, I provide causal evidence on the relationship between financial constraints and self-financing by individual firms. I find that the behavior of treated firms that see an easing in their financial constraints does not conform with standard predictions of the neoclassical growth model.
   </h6>
-<div style="height:25px;font-size:25px;">&nbsp;</div>
+  </div>
 <ul class="no-bullets">
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;"><strong>Funding:</strong> STEG</li>
 	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft available upon request.</li>
