@@ -70,18 +70,18 @@ details summary::-webkit-details-marker {
 }
 
 summary::-webkit-details-marker {
-  display: none
+  display: none;
 }
 summary:after {
-  border-radius: 5px; 
-  content: "+"; 
-  color: #000; 
-  float: left; 
-  font-size: 1.5em; 
-  font-weight: bold; 
-  margin: -5px 10px 0 0; 
-  padding: 0; 
-  text-align: center; 
+  border-radius: 5px;
+  content: "+";
+  color: #000;
+  float: left;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: -5px 10px 0 0;
+  padding: 0;
+  text-align: center;
   width: 20px;
 }
 
@@ -117,7 +117,6 @@ h1 {
   font-size: 60px;
   text-align: center;
 }
-
 
 h2 {
   font-size: 26px;
@@ -216,7 +215,6 @@ ul.no-bullets li {
   display:flex;
   flex-wrap:wrap;        /* let the list wrap */
   justify-content:center;
-  gap:0.2rem 1.2rem;     /* row gap | column gap */
   row-gap:0.2rem;        /* vertical spacing */
   column-gap:1.2rem;     /* horizontal spacing */
   list-style:none;
@@ -245,7 +243,6 @@ ul.no-bullets li {
   }
 }
 
-/* ——— allow vertical scroll if content is taller than the window ——— */
 /* allow vertical scroll if content is taller than the window */
 .panel-cover{
   overflow-y:auto;     /* home page */
@@ -258,7 +255,6 @@ ul.no-bullets li {
 /* === Home layout: profile left, description right ================== */
 .panel-main__content{
   display:flex;
-  justify-content:center;
   flex-direction:column;
   align-items:center;
   max-width:960px;
@@ -297,7 +293,6 @@ ul.no-bullets li {
 }
 
 @media (max-width:600px){
-  .panel-main__content{
   .top-content{
     flex-direction:column;
     align-items:center;
@@ -313,9 +308,3 @@ ul.no-bullets li {
   margin:0 5% 40px auto;
   text-align:left;
 }
-
-
-
-
-
-
