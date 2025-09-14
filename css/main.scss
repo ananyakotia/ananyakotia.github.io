@@ -254,13 +254,14 @@ ul.no-bullets li {
 .header-left{
   text-align:center;
   display:flex;
+  max-width:350px;
   flex-direction:column;
   justify-content:center;
 }
 
 .header-right{
   text-align:left;
-  max-width:540px;
+  max-width:610px;
   margin-left:40px;
   display:flex;
   flex-direction:column;
