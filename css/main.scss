@@ -70,18 +70,18 @@ details summary::-webkit-details-marker {
 }
 
 summary::-webkit-details-marker {
-  display: none;
+  display: none
 }
 summary:after {
-  border-radius: 5px;
-  content: "+";
-  color: #000;
-  float: left;
-  font-size: 1.5em;
-  font-weight: bold;
-  margin: -5px 10px 0 0;
-  padding: 0;
-  text-align: center;
+  border-radius: 5px; 
+  content: "+"; 
+  color: #000; 
+  float: left; 
+  font-size: 1.5em; 
+  font-weight: bold; 
+  margin: -5px 10px 0 0; 
+  padding: 0; 
+  text-align: center; 
   width: 20px;
 }
 
@@ -117,6 +117,7 @@ h1 {
   font-size: 60px;
   text-align: center;
 }
+
 
 h2 {
   font-size: 26px;
@@ -201,22 +202,11 @@ ul.no-bullets li {
 }
 
 /* === TWO-ROW NAVIGATION LAYOUT ===================================== */
-
-.navigation-wrapper{
-  display:block;
-  position:static;
-  width:100%;
-  padding:0;
-  background:transparent;
-  border:none;
-}
-
 .nav-buttons{
   display:flex;
   flex-wrap:wrap;        /* let the list wrap */
   justify-content:center;
-  row-gap:0.2rem;        /* vertical spacing */
-  column-gap:1.2rem;     /* horizontal spacing */
+  gap:0.2rem 1.2rem;     /* row gap | column gap */
   list-style:none;
   padding:0;
   margin:1.2rem 0 0;     /* some air above */
@@ -243,7 +233,7 @@ ul.no-bullets li {
   }
 }
 
-/* allow vertical scroll if content is taller than the window */
+/* ——— allow vertical scroll if content is taller than the window ——— */
 .panel-cover{
   overflow-y:auto;     /* home page */
 }
@@ -255,24 +245,11 @@ ul.no-bullets li {
 /* === Home layout: profile left, description right ================== */
 .panel-main__content{
   display:flex;
-  flex-direction:column;
-  align-items:center;
+  justify-content:center;
+
   max-width:960px;
   margin:0 auto;
   min-height:100vh;
-}
-
-.top-content{
-  display:flex;
-  justify-content:center;
-  width:100%;
-}
-
-.header-bottom{
-  width:100%;
-  display:flex;
-  flex-direction:column;
-  align-items:center;
 }
 
 .header-left{
@@ -293,7 +270,8 @@ ul.no-bullets li {
 }
 
 @media (max-width:600px){
-  .top-content{
+  .panel-main__content{
+
     flex-direction:column;
     align-items:center;
   }
@@ -308,3 +286,4 @@ ul.no-bullets li {
   margin:0 5% 40px auto;
   text-align:left;
 }
+
