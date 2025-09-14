@@ -202,6 +202,16 @@ ul.no-bullets li {
 }
 
 /* === TWO-ROW NAVIGATION LAYOUT ===================================== */
+
+.navigation-wrapper{
+  display:block;
+  position:static;
+  width:100%;
+  padding:0;
+  background:transparent;
+  border:none;
+}
+
 .nav-buttons{
   display:flex;
   flex-wrap:wrap;        /* let the list wrap */
@@ -246,9 +256,24 @@ ul.no-bullets li {
 .panel-main__content{
   display:flex;
   justify-content:center;
+  flex-direction:column;
+  align-items:center;
   max-width:960px;
   margin:0 auto;
   min-height:100vh;
+}
+
+.top-content{
+  display:flex;
+  justify-content:center;
+  width:100%;
+}
+
+.header-bottom{
+  width:100%;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
 }
 
 .header-left{
@@ -270,6 +295,7 @@ ul.no-bullets li {
 
 @media (max-width:600px){
   .panel-main__content{
+  .top-content{
     flex-direction:column;
     align-items:center;
   }
