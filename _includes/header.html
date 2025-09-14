@@ -38,13 +38,15 @@
         </div>
 
       </div>
-      <div class="header-right">
+      {% if page.url == "/" %}
+     <div class="header-right">
         {% assign about_page = site.pages | where: "permalink", "/about/" | first %}
         <div class="panel-cover__description">
           {{ about_page.content | markdownify }}
         </div>
       </div>
-    </div>
+       {% endif %}
+   </div>
 
     </div>
     <div class="panel-cover--overlay"></div>
