@@ -24,8 +24,6 @@ $(document).ready(function () {
   if (window.location.pathname !== '{{ site.baseurl }}/' && window.location.pathname !== '{{ site.baseurl }}/index.html') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
-  // Collapse the cover panel on all pages by default
-  $('.panel-cover').addClass('panel-cover--collapsed')
 
   $('.btn-mobile-menu').click(function () {
     $('.navigation-wrapper').toggleClass('visible animated bounceInDown')
@@ -51,3 +49,7 @@ window.addEventListener("popstate", function(event) {
     
     // Push the current state back so that user stays on the same page.
     // This effectively "eats" the back action.
+    history.pushState(null, null, location.href);
+  }
+});
+
