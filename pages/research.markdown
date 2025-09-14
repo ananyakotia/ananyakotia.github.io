@@ -33,7 +33,7 @@ permalink: /research/
   <a href="https://editorialexpress.com/conference/SED2025/program/SED2025.html" target="_blank">SED 2025 Annual Meeting</a>, 
   <a href="https://egc.yale.edu/events/2025/firms-trade-and-development-conference-2025" target="_blank">IGC/EGC Conference on Firms, Trade, and Development 2025 (Yale)*</a>,
   <a href="" target="_blank">ASSA 2026 Annual Meeting Poster Session*</a>,
-  <a href="https://cepr.org/system/files/2025-08/IMO-ESF%202025%20-%20Programme.pdf" target="_blank">CEPR IMO-ESF Joint Workshop (Bocconi)*</a>,
+  <a href="https://cepr.org/system/files/2025-08/IMO-ESF%202025%20-%20Programme.pdf" target="_blank">CEPR IMO-ESF Joint Workshop (Bocconi)*</a>
 </li>
   <li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, PEDL</li>
 </ul> 
