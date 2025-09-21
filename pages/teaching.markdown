@@ -16,7 +16,7 @@ permalink: /teaching/
   <li><em>Teaching evaluations</em>: 2020–21: 4.5/5; 2021–22: 4.7/5; 2023–24: 4.7/5.</li>
 </ul>
 
-### Selected student feedback for EC307
+#### Selected student feedback for EC307
 
 <ul class="no-bullets teaching-quotes">
 	<li>“Incredibly good teaching! Goes beyond and tells us the key points we need to learn from the course. Always helpful when he explains how we can understand the regressions better (especially the equations).” <span class="quote-term">(Winter term 2024)</span></li>
