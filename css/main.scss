@@ -362,13 +362,13 @@ ul.no-bullets li {
   display: grid;
   grid-template-columns: auto auto auto;
   align-items: center;
-  gap: -5px;
+  gap: 10px;
 }
 
 .teaching-page .evaluation-year {
   font-weight: 600;
   color: #2c7e5a;
-  min-width: 72px;
+  min-width: 54px;
 }
 
 .teaching-page .evaluation-bar {
