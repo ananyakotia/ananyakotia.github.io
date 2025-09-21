@@ -312,11 +312,9 @@ ul.no-bullets li {
 }
 
 .teaching-page .teaching-quotes {
-  margin: 14px 0 40px;
-  padding-left: 1.25rem;
+  margin: 14px 0 40px 1rem;   /* indent same as bullet list */
+  padding-left: 1.3rem;       /* space between bar and text */
   border-left: 3px solid #d8d8d8;
-  margin-left: 1rem;   /* same as .teaching-details */
-  padding-left: 1.3rem; /* same as .teaching-details */
 }
 
 .teaching-page .teaching-quotes li {
