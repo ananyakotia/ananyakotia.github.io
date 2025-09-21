@@ -287,3 +287,18 @@ ul.no-bullets li {
   text-align:left;
 }
 
+
+@media all and (min-width: 961px) {
+  .content-wrapper {
+    max-width: 1100px;
+  }
+
+  .content-wrapper__inner {
+    margin: 0 5%;
+  }
+}
+
+.teaching-page blockquote {
+  font-size: 1.5em;
+  line-height: 1.6;
+}

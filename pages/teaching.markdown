@@ -1,16 +1,17 @@
----
 layout: page
 title: "Teaching"
 permalink: /teaching/
 ---
 
+<div class="teaching-page" markdown="1">
+
 ## London School of Economics
 
-[EC307: Undergraduate-level Development Economics](https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/EC/2025_EC307.htm)
+### [EC307: Undergraduate-level Development Economics](https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/EC/2025_EC307.htm)
 
 - Teaching assistant to Professors Oriana Bandiera and Robin Burgess in 2020–21, 2021–22, and 2023–24.
-- Awarded the [LSE Teaching Award 2021–22](https://info.lse.ac.uk/staff/divisions/Eden-Centre/Education-awards/LSE-Class-Teacher-Awards), recognising the top approximately 10% (6–8 of 80) of department teaching assistants.
-- Teaching evaluations for EC307: 2020–21: 4.5/5; 2021–22: 4.7/5; 2023–24: 4.7/5.
+- *[LSE Teaching Award 2021–22](https://info.lse.ac.uk/staff/divisions/Eden-Centre/Education-awards/LSE-Class-Teacher-Awards)*: top approximately 10% (6–8 of 80) of department teaching assistants.
+- *Teaching evaluations*: 2020–21: 4.5/5; 2021–22: 4.7/5; 2023–24: 4.7/5.
 
 ### Selected student feedback for EC307
 
@@ -30,13 +31,15 @@ permalink: /teaching/
 
 ## STEG
 
-[Virtual Course on Graduate-level Heterogeneous Agent Macroeconomics](https://steg.cepr.org/events/virtual-course-key-concepts-macro-development)
+### [Virtual Course on Graduate-level Heterogeneous Agent Macroeconomics](https://steg.cepr.org/events/virtual-course-key-concepts-macro-development)
 
 - Teaching assistant to Professor Benjamin Moll, 2021.
 
 ## IZA/FCDO
 
-[Online Development Economics Course for Sub-Saharan Africa](https://g2lm-lic.iza.org/2021/09/21/iza-fcdo-online-development-economics-course-for-sub-saharan-africa/)
+### [Online Development Economics Course for Sub-Saharan Africa](https://g2lm-lic.iza.org/2021/09/21/iza-fcdo-online-development-economics-course-for-sub-saharan-africa/)
 
 - Teaching assistant to Professors Oriana Bandiera and Robin Burgess, 2021.
 - Supported 1,440 participants from 43 countries.
+
+</div>
