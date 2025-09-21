@@ -44,7 +44,7 @@ permalink: /teaching/
 #### Selected student feedback for EC307
 {: .feedback-heading }
 
-<ul class="no-bullets teaching-quotes">
+<ul class="teaching-quotes">
 	<li>“Incredibly good teaching! Goes beyond and tells us the key points we need to learn from the course. Always helpful when he explains how we can understand the regressions better (especially the equations).” <span class="quote-term">(Winter term 2024)</span></li>
 	<li>“Kotia is such an excellent teacher. He communicates ideas effectively and is always ready to help out students in or after class. He’s also good at linking problem set materials with his own knowledge of related papers which is very nice for broadening our understanding of Development Economics.” <span class="quote-term">(Autumn term 2022)</span></li>
 	<li>“He is also really good at answering questions in detail and I like the way he makes the slides.” <span class="quote-term">(Autumn term 2021)</span></li>
