@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Teaching"
+hide_title: true
 permalink: /teaching/
 ---
 
