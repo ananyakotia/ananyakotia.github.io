@@ -355,20 +355,20 @@ ul.no-bullets li {
 .teaching-page .evaluation-bars {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 8px;
 }
 
 .teaching-page .evaluation-entry {
   display: grid;
   grid-template-columns: auto auto auto;
   align-items: center;
-  gap: 12px;
+  gap: 10px;
 }
 
 .teaching-page .evaluation-year {
   font-weight: 600;
   color: #2c7e5a;
-  min-width: 90px;
+  min-width: 72px;
 }
 
 .teaching-page .evaluation-bar {
@@ -412,3 +412,5 @@ ul.no-bullets li {
     min-width: 0;
   }
 }
+
+
