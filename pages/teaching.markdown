@@ -17,14 +17,14 @@ permalink: /teaching/
 
 ### Selected student feedback for EC307
 
-<ul class="teaching-quotes">
-  <li>“He explains all of the key concepts extremely well, I always feel that I understand the paper substantially more after his classes.” <span class="quote-term">(Autumn term 2021)</span></li>
-  <li>“He is also really good at answering questions in detail and I like the way he makes the slides.” <span class="quote-term">(Autumn term 2021)</span></li>
-  <li>“Kotia was the most engaging class teacher I had this term. He was clearly passionate and knowledgeable about the material and wanted to help us understand the material as well.” <span class="quote-term">(Autumn term 2022)</span></li>
-  <li>“He was able to summarise ridiculously hard econometric concepts into easy to digest, quick lessons. He involved the class, he spoke at a wonderful pace and had very clear PowerPoint. He also showed extreme mastery of the subject.” <span class="quote-term">(Autumn term 2022)</span></li>
-  <li>“Kotia is such an excellent teacher. He communicates ideas effectively and is always ready to help out students in or after class. He’s also good at linking problem set materials with his own knowledge of related papers which is very nice for broadening our understanding of Development Economics.” <span class="quote-term">(Autumn term 2022)</span></li>
-  <li>“Incredibly good teaching! Goes beyond and tells us the key points we need to learn from the course. Always helpful when he explains how we can understand the regressions better (especially the equations).” <span class="quote-term">(Winter term 2024)</span></li>
-  <li>“Kotia always explains ideas effectively, ensuring not to just answer problem set questions, but to provide wider context and intuition. I have found this very useful in understanding papers and their wider objectives.” <span class="quote-term">(Winter term 2024)</span></li>
+<ul class="no-bullets teaching-quotes">
+	<li>“Incredibly good teaching! Goes beyond and tells us the key points we need to learn from the course. Always helpful when he explains how we can understand the regressions better (especially the equations).” <span class="quote-term">(Winter term 2024)</span></li>
+	<li>“Kotia is such an excellent teacher. He communicates ideas effectively and is always ready to help out students in or after class. He’s also good at linking problem set materials with his own knowledge of related papers which is very nice for broadening our understanding of Development Economics.” <span class="quote-term">(Autumn term 2022)</span></li>
+	<li>“He explains all of the key concepts extremely well, I always feel that I understand the paper substantially more after his classes.” <span class="quote-term">(Autumn term 2021)</span></li>
+	<li>“He is also really good at answering questions in detail and I like the way he makes the slides.” <span class="quote-term">(Autumn term 2021)</span></li>
+	<li>“Kotia was the most engaging class teacher I had this term. He was clearly passionate and knowledgeable about the material and wanted to help us understand the material as well.” <span class="quote-term">(Autumn term 2022)</span></li>
+	<!--  <li>“He was able to summarise ridiculously hard econometric concepts into easy to digest, quick lessons. He involved the class, he spoke at a wonderful pace and had very clear PowerPoint. He also showed extreme mastery of the subject.” <span class="quote-term">(Autumn term 2022)</span></li>
+  	<li>“Kotia always explains ideas effectively, ensuring not to just answer problem set questions, but to provide wider context and intuition. I have found this very useful in understanding papers and their wider objectives.” <span class="quote-term">(Winter term 2024)</span></li> -->
 </ul>
 
 ### STEG
