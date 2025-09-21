@@ -41,7 +41,7 @@ permalink: /teaching/
   </li>
 </ul>
 
-#### Selected student feedback for EC307
+#### Selected student feedback for EC307 {.feedback-heading}
 
 <ul class="no-bullets teaching-quotes">
 	<li>“Incredibly good teaching! Goes beyond and tells us the key points we need to learn from the course. Always helpful when he explains how we can understand the regressions better (especially the equations).” <span class="quote-term">(Winter term 2024)</span></li>
