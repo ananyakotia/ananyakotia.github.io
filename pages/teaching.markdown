@@ -17,7 +17,7 @@ permalink: /teaching/
 
 ### Selected student feedback for EC307
 
-<ul class="no-bullets teaching-quotes">
+<ul class="teaching-quotes">
   <li>“He explains all of the key concepts extremely well, I always feel that I understand the paper substantially more after his classes.” <span class="quote-term">(Autumn term 2021)</span></li>
   <li>“He is also really good at answering questions in detail and I like the way he makes the slides.” <span class="quote-term">(Autumn term 2021)</span></li>
   <li>“Kotia was the most engaging class teacher I had this term. He was clearly passionate and knowledgeable about the material and wanted to help us understand the material as well.” <span class="quote-term">(Autumn term 2022)</span></li>
@@ -30,7 +30,7 @@ permalink: /teaching/
 ### STEG
 
 <a href="https://steg.cepr.org/events/virtual-course-key-concepts-macro-development" style="color:#2c7e5a;font-weight: 500;" target="_blank" rel="noopener"><u>Virtual Course on Graduate-level Heterogeneous Agent Macroeconomics</u></a>
-<ul class="no-bullets teaching-details">
+<ul class="teaching-details">
   <li>Teaching assistant to Professor Benjamin Moll, 2021.</li>
 </ul>
 
