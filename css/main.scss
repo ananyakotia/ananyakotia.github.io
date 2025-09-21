@@ -360,9 +360,9 @@ ul.no-bullets li {
 
 .teaching-page .evaluation-entry {
   display: grid;
-  grid-template-columns: max-content 1fr auto; 
+  grid-template-columns: max-content 260px max-content; /* year | fixed bar | score */
   align-items: center;
-  gap: 10px;
+  column-gap: 6px; /* adjust spacing between items */
 }
 
 .teaching-page .evaluation-year {
