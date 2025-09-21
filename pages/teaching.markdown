@@ -10,12 +10,11 @@ permalink: /teaching/
 ### London School of Economics
 
 <a href="https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/EC/2025_EC307.htm" style="color:#2c7e5a;font-weight: 500;" target="_blank" rel="noopener"><u>EC307: Undergraduate-level Development Economics</u></a>
-<ul class="no-bullets teaching-details">
+<ul class="teaching-details">
   <li>Teaching assistant to Professors Oriana Bandiera and Robin Burgess in 2020–21, 2021–22, and 2023–24.</li>
   <li><em><a href="https://info.lse.ac.uk/staff/divisions/Eden-Centre/Education-awards/LSE-Class-Teacher-Awards" target="_blank" rel="noopener">LSE Teaching Award 2021–22</a></em>: top approximately 10% (6–8 of 80) of department teaching assistants.</li>
- <div style="height:8px;font-size:8px;">&nbsp;</div>
   <li class="teaching-evaluations">
-    <span class="evaluation-label"><em>Teaching evaluations</em></span>
+    <strong class="evaluation-label">Teaching evaluations</strong>
     <div class="evaluation-bars">
       <div class="evaluation-entry">
         <span class="evaluation-year">2020–21</span>
