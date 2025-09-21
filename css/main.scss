@@ -342,9 +342,14 @@ ul.no-bullets li {
 }
 
 .teaching-page .teaching-details .evaluation-label {
-  display: inline-block;
+  display: block;
   margin-bottom: 10px;
   font-size: 16px;
+  font-weight: 600;
+}
+
+.teaching-page .teaching-details li.teaching-evaluations .evaluation-bars {
+  margin-left: 1.1rem;
 }
 
 .teaching-page .evaluation-bars {
