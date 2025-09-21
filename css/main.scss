@@ -362,7 +362,7 @@ ul.no-bullets li {
   display: grid;
   grid-template-columns: max-content 260px max-content; /* year | fixed bar | score */
   align-items: center;
-  column-gap: 6px; /* adjust spacing between items */
+  column-gap: 12px; /* adjust spacing between items */
 }
 
 .teaching-page .evaluation-year {
