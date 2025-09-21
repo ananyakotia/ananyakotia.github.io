@@ -37,7 +37,7 @@ permalink: /teaching/
 ### IZA/FCDO
 
 <a href="https://g2lm-lic.iza.org/2021/09/21/iza-fcdo-online-development-economics-course-for-sub-saharan-africa/" style="color:#2c7e5a;font-weight: 500;" target="_blank" rel="noopener"><u>Online Development Economics Course for Sub-Saharan Africa</u></a>
-<ul class="no-bullets teaching-details">
+<ul class="teaching-details">
   <li>Teaching assistant to Professors Oriana Bandiera and Robin Burgess, 2021.</li>
   <li>Supported 1,440 participants from 43 countries.</li>
 </ul>
