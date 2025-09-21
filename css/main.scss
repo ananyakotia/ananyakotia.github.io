@@ -335,3 +335,72 @@ ul.no-bullets li {
   display: inline-block;
   margin-left: 6px;
 }
+
+.teaching-page .teaching-details li.teaching-evaluations {
+  display: block;
+}
+
+.teaching-page .teaching-details .evaluation-label {
+  display: inline-block;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.teaching-page .evaluation-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.teaching-page .evaluation-entry {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 12px;
+}
+
+.teaching-page .evaluation-year {
+  font-weight: 600;
+  color: #2c7e5a;
+  min-width: 90px;
+}
+
+.teaching-page .evaluation-bar {
+  position: relative;
+  background: #e3ebe6;
+  border-radius: 999px;
+  height: 12px;
+  overflow: hidden;
+}
+
+.teaching-page .evaluation-bar::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  box-shadow: inset 0 0 0 1px rgba(44, 126, 90, 0.15);
+}
+
+.teaching-page .evaluation-bar-fill {
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #2c7e5a, #44a375);
+  width: calc(var(--score, 0) * 100%);
+}
+
+.teaching-page .evaluation-score {
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+  color: #353839;
+}
+
+@media (max-width: 540px) {
+  .teaching-page .evaluation-entry {
+    grid-template-columns: 1fr;
+    gap: 6px;
+  }
+
+  .teaching-page .evaluation-year {
+    min-width: 0;
+  }
+}

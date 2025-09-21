@@ -13,7 +13,32 @@ permalink: /teaching/
 <ul class="no-bullets teaching-details">
   <li>Teaching assistant to Professors Oriana Bandiera and Robin Burgess in 2020–21, 2021–22, and 2023–24.</li>
   <li><em><a href="https://info.lse.ac.uk/staff/divisions/Eden-Centre/Education-awards/LSE-Class-Teacher-Awards" target="_blank" rel="noopener">LSE Teaching Award 2021–22</a></em>: top approximately 10% (6–8 of 80) of department teaching assistants.</li>
-  <li><em>Teaching evaluations</em>: 2020–21: 4.5/5; 2021–22: 4.7/5; 2023–24: 4.7/5.</li>
+  <li class="teaching-evaluations">
+    <span class="evaluation-label"><em>Teaching evaluations</em></span>
+    <div class="evaluation-bars">
+      <div class="evaluation-entry">
+        <span class="evaluation-year">2020–21</span>
+        <div class="evaluation-bar" role="img" aria-label="2020–21 evaluation score 4.5 out of 5">
+          <div class="evaluation-bar-fill" style="--score: 0.9;"></div>
+        </div>
+        <span class="evaluation-score">4.5 / 5</span>
+      </div>
+      <div class="evaluation-entry">
+        <span class="evaluation-year">2021–22</span>
+        <div class="evaluation-bar" role="img" aria-label="2021–22 evaluation score 4.7 out of 5">
+          <div class="evaluation-bar-fill" style="--score: 0.94;"></div>
+        </div>
+        <span class="evaluation-score">4.7 / 5</span>
+      </div>
+      <div class="evaluation-entry">
+        <span class="evaluation-year">2023–24</span>
+        <div class="evaluation-bar" role="img" aria-label="2023–24 evaluation score 4.7 out of 5">
+          <div class="evaluation-bar-fill" style="--score: 0.94;"></div>
+        </div>
+        <span class="evaluation-score">4.7 / 5</span>
+      </div>
+    </div>
+  </li>
 </ul>
 
 #### Selected student feedback for EC307
