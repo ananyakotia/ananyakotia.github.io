@@ -298,7 +298,38 @@ ul.no-bullets li {
   }
 }
 
-.teaching-page blockquote {
-  font-size: 1.5em;
+.teaching-page .teaching-details {
+  margin: 12px 0 28px;
+}
+
+.teaching-page .teaching-details li {
+  font-size: 16px;
   line-height: 1.6;
+  color: #353839;
+}
+
+.teaching-page .teaching-quotes {
+  margin: 14px 0 40px;
+  padding-left: 1.25rem;
+  border-left: 3px solid #d8d8d8;
+}
+
+.teaching-page .teaching-quotes li {
+  font-size: 16px;
+  line-height: 1.6;
+  font-style: italic;
+  color: #4c4c4c;
+  margin-bottom: 14px;
+}
+
+.teaching-page .teaching-quotes li:last-child {
+  margin-bottom: 0;
+}
+
+.teaching-page .teaching-quotes .quote-term {
+  color: #7a7a7a;
+  font-style: normal;
+  font-size: 15px;
+  display: inline-block;
+  margin-left: 6px;
 }
