@@ -139,6 +139,8 @@ permalink: /research/
 	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, Open Philanthropy</li>
 </ul>
 
+<div style="height:25px;font-size:25px;">&nbsp;</div>
+
 <span style="color:#2c7e5a;font-weight: 500;">Labor Market Frictions, the Organization of Labor, and Structural Change</span>
 <ul class="no-bullets">
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
