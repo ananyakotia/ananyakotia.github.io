@@ -131,6 +131,14 @@ permalink: /research/
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
+<span style="color:#2c7e5a;font-weight: 500;">AI and Judicial State Capacity</span>
+<ul class="no-bullets">
+	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
+		with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
+	</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, Open Philanthropy</li>
+</ul>
+
 <span style="color:#2c7e5a;font-weight: 500;">Labor Market Frictions, the Organization of Labor, and Structural Change</span>
 <ul class="no-bullets">
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
@@ -148,14 +156,6 @@ permalink: /research/
   <li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft coming soon.</li>
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
-
-<span style="color:#2c7e5a;font-weight: 500;">Digitizing Historical Indian Plant‑Level Data on Labour Outcomes</span>
-<ul class="no-bullets">
-	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
-		with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
-	</li>
-	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> PEDL, G²LM|LIC, IGC</li>
-</ul>
 
 
 
