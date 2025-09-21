@@ -13,6 +13,7 @@ permalink: /teaching/
 <ul class="no-bullets teaching-details">
   <li>Teaching assistant to Professors Oriana Bandiera and Robin Burgess in 2020–21, 2021–22, and 2023–24.</li>
   <li><em><a href="https://info.lse.ac.uk/staff/divisions/Eden-Centre/Education-awards/LSE-Class-Teacher-Awards" target="_blank" rel="noopener">LSE Teaching Award 2021–22</a></em>: top approximately 10% (6–8 of 80) of department teaching assistants.</li>
+ <div style="height:8px;font-size:8px;">&nbsp;</div>
   <li class="teaching-evaluations">
     <span class="evaluation-label"><em>Teaching evaluations</em></span>
     <div class="evaluation-bars">
