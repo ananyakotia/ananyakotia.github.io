@@ -287,7 +287,6 @@ ul.no-bullets li {
   text-align:left;
 }
 
-
 @media all and (min-width: 961px) {
   .content-wrapper {
     max-width: 1100px;
@@ -300,6 +299,9 @@ ul.no-bullets li {
 
 .teaching-page .teaching-details {
   margin: 12px 0 28px;
+  margin-left: 1rem;
+  padding-left: 1.3rem;
+  list-style: disc;
 }
 
 .teaching-page .teaching-details li {
@@ -332,4 +334,4 @@ ul.no-bullets li {
   font-size: 15px;
   display: inline-block;
   margin-left: 6px;
-}
+
