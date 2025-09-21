@@ -362,7 +362,7 @@ ul.no-bullets li {
   display: grid;
   grid-template-columns: auto auto auto;
   align-items: center;
-  gap: 5px;
+  gap: -5px;
 }
 
 .teaching-page .evaluation-year {
