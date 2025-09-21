@@ -360,16 +360,21 @@ ul.no-bullets li {
 
 .teaching-page .evaluation-entry {
   display: grid;
-  grid-template-columns: max-content 260px max-content; /* year | fixed bar | score */
+  /* fixed year column | fixed bar | score */
+  grid-template-columns: 88px 260px max-content;
   align-items: center;
-  column-gap: 12px; /* adjust spacing between items */
+  column-gap: 12px;
 }
 
 .teaching-page .evaluation-year {
-  font-weight: 600;
-  color: #2c7e5a;
-  min-width: 54px;
+  /* keep all bars aligned regardless of digits */
+  text-align: right;
+  /* optional: equal-width digits so 1,2,3,4,0 line up */
+  font-variant-numeric: tabular-nums;
+  /* remove this; it fights the fixed column */
+  min-width: 0;
 }
+
 
 .teaching-page .evaluation-bar {
   position: relative;
