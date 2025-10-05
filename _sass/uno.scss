@@ -945,14 +945,14 @@ body {
 	background: #fae3df; }
 
 a {
-	text-decoration: underline;
-    color: #b9301c; }
-    a:hover {
-        color: #8a2415;
-        -o-transition: .5s;
-        -ms-transition: .5s;
-        -moz-transition: .5s;
-        -webkit-transition: .5s; }
+	text-decoration: none;
+	color: #000000; }
+	a:hover {
+		color: #b9301c;
+		-o-transition: .5s;
+		-ms-transition: .5s;
+		-moz-transition: .5s;
+		-webkit-transition: .5s; }
 
 h1,
 h2,
