@@ -33,8 +33,9 @@ permalink: /research/
   <a href="https://editorialexpress.com/conference/SED2025/program/SED2025.html" target="_blank">SED 2025 Annual Meeting</a>, 
   <a href="https://cepr.org/system/files/2025-08/IMO-ESF%202025%20-%20Programme.pdf" target="_blank">CEPR IMO-ESF Joint Workshop (Bocconi)</a>,
   <a href="https://neudc2025.com/program/" target="_blank">NEUDC (Tufts)*</a>,
-  <a href="https://egc.yale.edu/events/2025/conference-program-firms-trade-and-development-2025" target="_blank">IGC/EGC Conference on Firms, Trade, and Development 2025 (Yale)*</a>,
-  <a href="" target="_blank">AEA Annual Meeting Poster Session*</a>,
+  <a href="https://egc.yale.edu/events/2025/conference-program-firms-trade-and-development-2025" target="_blank">IGC/EGC Conference on Firms, Trade, and Development 2025 (Yale)*</a>,  
+  <a href="https://www.econometricsociety.org/regional-activities/schedule/2025/12/07/2025-European-Winter-Meeting-Nicosia-Cyprus" target="_blank">Econometric Society European Winter Meeting*</a>,
+  <a href="https://www.aeaweb.org/conference/2026/preliminary/2307?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrAxrawGlCArI" target="_blank">AEA Annual Meeting Poster Session*</a>,
   <a href="" target="_blank">CEPR Paris Symposium Poster Session*</a>
 </li>
   <li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, PEDL</li>
