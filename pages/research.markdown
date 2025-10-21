@@ -15,7 +15,7 @@ permalink: /research/
 
 ### Working Papers
 
-<a href="{{site.baseurl}}/files/Papers/Kotia2025_tradeqr.pdf" style="color:#2c7e5a;font-weight: 500;"><u> When Competition Compels Change: Gains from Trade within the Firm <span style="color:#B7410E;">(Job Market Paper)</span> </u></a>
+<a href="{{site.baseurl}}/files/Papers/Kotia2025_tradeqr.pdf" style="color:#2c7e5a;font-weight: 500;"><u> When Competition Compels Change: Trade, Management, and Productivity <span style="color:#B7410E;">(Job Market Paper)</span> </u></a>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;">
 		<span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span>
