@@ -120,8 +120,7 @@ permalink: /research/
 <span style="color:#2c7e5a;font-weight:500;">Management in India</span>
 <ul class="no-bullets">
   <li class="author-funding" style="margin-top:-20px;font-size:14px;">
-    with <a href="https://nbloom.people.stanford.edu" target="_blank" rel="noopener">Nick Bloom</a>, 
-         <a href="http://www.klenow.com" target="_blank" rel="noopener">Pete Klenow</a>,
+    with <a href="https://nbloom.people.stanford.edu" target="_blank" rel="noopener">Nick Bloom</a>,
          <a href="https://meghapatnaik.github.io" target="_blank" rel="noopener">Megha Patnaik</a>,
          Mert Akan, and Janak Nabar
   </li>
