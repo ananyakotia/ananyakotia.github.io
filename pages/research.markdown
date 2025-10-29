@@ -15,7 +15,10 @@ permalink: /research/
 
 ### Working Papers
 
-<a href="{{site.baseurl}}/files/Papers/Kotia2025_tradeqr.pdf" style="color:#2c7e5a;font-weight: 500;"><u> When Competition Compels Change: Trade, Management, and Productivity </u></a> <span style="color:#B7410E;">[Job Market Paper]</span>
+<a href="{{site.baseurl}}/files/Papers/Kotia2025_tradeqr.pdf" style="color:#2c7e5a;font-weight: 500;"><u> When Competition Compels Change: Trade, Management, and Productivity</u></a> 
+<span style="background-color:#f2f2f2; color:#B7410E; font-size:13px; font-weight:600; padding:2px 6px; border-radius:4px; margin-left:5px;">
+  Job Market Paper
+</span>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;">
 		<span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span>
