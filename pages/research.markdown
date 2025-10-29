@@ -55,8 +55,9 @@ permalink: /research/
 	<li>
 		<span class="abstract-toggle" data-abstract-id="BKMLP_abstract">▷ Abstract</span> 
 		<a href="https://www.nber.org/papers/w32375" target="_blank" style="font-size: 14px;"><u>NBER Working Paper No. 32375 </u></a>
-		<a href="{{site.baseurl}}/files/Papers/BKLMP_SupplementaryAppendix.pdf" target="_blank" style="font-size: 14px;"><u> Supplementary Appendix</u></a>
+		<a href="{{site.baseurl}}/files/Papers/BKLMP_SupplementaryAppendix.pdf" target="_blank" style="font-size: 14px;"><u>&nbsp;&nbsp; Supplementary Appendix</u></a>
 	</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Submitted.</li>
 </ul> 
 <div id="BKMLP_abstract" class="abstract" style="max-height: 0;">
   <h6>
