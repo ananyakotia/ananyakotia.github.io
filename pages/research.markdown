@@ -15,7 +15,7 @@ permalink: /research/
 
 ### Working Papers
 
-<a href="{{site.baseurl}}/files/Papers/Kotia2025_tradeqr.pdf" style="color:#2c7e5a;font-weight: 500;"><u> When Competition Compels Change: Trade, Management, and Productivity <span style="color:#B7410E;">(Job Market Paper)</span> </u></a>
+<a href="{{site.baseurl}}/files/Papers/Kotia2025_tradeqr.pdf" style="color:#2c7e5a;font-weight: 500;"><u> When Competition Compels Change: Trade, Management, and Productivity </u></a> <span style="color:#B7410E;">[Job Market Paper]</span>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;">
 		<span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span>
@@ -55,7 +55,7 @@ permalink: /research/
 	<li>
 		<span class="abstract-toggle" data-abstract-id="BKMLP_abstract">▷ Abstract</span> 
 		<a href="https://www.nber.org/papers/w32375" target="_blank" style="font-size: 14px;"><u>NBER Working Paper No. 32375 </u></a>
-		<a href="{{site.baseurl}}/files/Papers/BKLMP_SupplementaryAppendix.pdf" target="_blank" style="font-size: 14px;"><u>&nbsp;&nbsp; Supplementary Appendix</u></a>
+		<a href="{{site.baseurl}}/files/Papers/BKLMP_SupplementaryAppendix.pdf" target="_blank" style="font-size: 14px;">&nbsp;&nbsp; <u>Supplementary Appendix</u></a>
 	</li>
 	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Submitted.</li>
 </ul> 
