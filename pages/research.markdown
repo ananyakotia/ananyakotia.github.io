@@ -144,7 +144,9 @@ permalink: /research/
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
 		with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
 	</li>
-	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, Open Philanthropy</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, Open Philanthropy
+	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Pilot Complete.
+	</li>
 </ul>
 
 <div style="height:25px;font-size:25px;">&nbsp;</div>
