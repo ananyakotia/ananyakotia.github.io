@@ -58,13 +58,16 @@ permalink: /research/
 		<a href="https://www.nber.org/papers/w32375" target="_blank" style="font-size: 14px;"><u>NBER Working Paper No. 32375 </u></a>
 		<a href="{{site.baseurl}}/files/Papers/BKLMP_SupplementaryAppendix.pdf" target="_blank" style="font-size: 14px;">&nbsp;&nbsp; <u>Supplementary Appendix</u></a>
 	</li>
-	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Submitted.</li>
 </ul> 
 <div id="BKMLP_abstract" class="abstract" style="max-height: 0;">
   <h6>
 	We study the micro sources and macro consequences of worker-job matching across countries with large income differences. Using internationally comparable data on over 120,000 individuals in 30 countries, we document that workers' skills align more closely with their jobs' skill requirements in higher-income countries, indicative of more meritocratic labor market matching. We interpret this fact through an equilibrium matching model with cross-country differences in three fundamentals: (i) endowments of worker skills and job requirements determining match feasibility; (ii) technology determining the returns to matching; and (iii) idiosyncratic frictions capturing how nonproductive traits affect matching. A developmentaccounting exercise based on the model, estimated separately for each country, shows that variation in matching frictions explains only a small share of cross-country output gaps. However, improved worker-job matching substantially amplifies the gains from adopting frontier endowments and technology.  
 	</h6>
 </div>
+<ul class="no-bullets">	
+	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Submitted.</li>
+</ul> 
+
 
 
 <a href="{{site.baseurl}}/files/Papers/KSZ2025.pdf" style="color:#2c7e5a;font-weight:500;">
@@ -78,6 +81,13 @@ permalink: /research/
   <li>
 		<span class="abstract-toggle" data-abstract-id="mining_abstract">▷ Abstract</span>
 	</li>
+</ul>
+<div id="mining_abstract" class="abstract" style="max-height: 0;">
+  <h6>
+    We estimate the aggregate impacts of court-ordered iron ore mining bans in India and consider the counterfactual welfare gains from an alternative policy to the ban. The local sectoral ban is a command-and-control (CAC) policy that is commonly applied to natural resource settings, usually when the regulator has a signal of widespread non-compliance. The Supreme Court of India imposed bans on iron ore mining and outbound iron ore trade in two states in response to reports that mines operated under fake environmental permits and underpaid mining royalties. Using firm-level industrial survey data, mine-level output data, and bilateral mine-to-firm auction data, we decompose the bans’ effects into trade, production networks, and local labor demand channels. Our results indicate persistent declines in employment, capital stock, and borrowing by iron-consuming plants, despite the temporary duration of the ban. These findings highlight the economic spillovers caused by CAC policies, especially in industries that are upstream in the supply chain.
+  </h6>
+</div>
+<ul class="no-bullets">
   <li class="author-funding" style="font-size:14px;">
     <strong>Funding:</strong> PEDL, STICERD, George and Obie Shultz Fund
   </li>
