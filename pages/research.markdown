@@ -108,7 +108,7 @@ permalink: /research/
   <h6>
     Neoclassical growth models with standard parameter values provide powerful self-financing incentives to financially constrained entrepreneurs. This fundamental prediction has important implications for capital misallocation. If entrepreneurs can indeed save themselves out of financial constraints, capital misallocation should disappear on its own and impose a small, transient cost to aggregate productivity. This is contrary to a large body of empirical work that has documented high dispersion in marginal products of resources, particularly capital. Using micro firm-level data and the staggered implementation of a financial liberalization policy in India, I provide causal evidence on the relationship between financial constraints and self-financing by individual firms. I find that the behavior of treated firms that see an easing in their financial constraints does not conform with standard predictions of the neoclassical growth model.
   </h6>
-  </div>
+ </div>
 <ul class="no-bullets">
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;"><strong>Funding:</strong> STEG</li>
 	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft available upon request.</li>
@@ -204,19 +204,21 @@ permalink: /research/
 
 <span style="color:#2c7e5a;font-weight: 500;">Globalization and Domestic Industrial Policy</span>
 <ul class="no-bullets">
-    <li>
+	<li style="margin-top: -20px;">
     <span class="abstract-toggle" data-abstract-id="qr_abstract">▷ Abstract</span>
   </li>
-  <li 
-  	class="author-funding" style="font-size: 14px;">Funding: IGC
-  </li>
-  <li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft coming soon.</li>
 </ul>
 <div id="qr_abstract" class="abstract" style="max-height:0;">
   <h6>
 		How do the pro-competitive effects of trade liberalization interact with domestic distortions? On the one hand, trade may reduce misallocation as productive firms expand and enter at the expense of unproductive firms. In the presence of domestic distortions, however, these reallocation and selection channels may be driven by political connections or unequal access to credit rather than productivity alone, thereby exacerbating misallocation and attenuating gains from trade. Thus, whether opening to trade can improve allocative efficiency in an economy that suffers domestic distortions is ultimately an empirical question. In this project, I exploit a previously unstudied shock to import competition in India and study how it interacts with a specific product-market distortion: a long-standing policy of product-specific protection for SMEs.
 	</h6>
 </div>
+<ul class="no-bullets">
+  <li 
+  	class="author-funding" style="font-size: 14px;">Funding: IGC
+  </li>
+  <li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft coming soon.</li>
+</ul>
 
 
 
