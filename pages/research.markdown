@@ -164,6 +164,7 @@ permalink: /research/
     <span class="abstract-toggle" data-abstract-id="transcription_abstract">▷ Abstract</span>
   </li>
   <li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, Open Philanthropy
+  </li>
 	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Pilot Complete.
 	</li>
 </ul>
