@@ -45,6 +45,7 @@ permalink: /research/
 </ul> 
 <div style="height:25px;font-size:25px;">&nbsp;</div>
  
+
 <a href="{{site.baseurl}}/files/Papers/BKLMP2025.pdf" style="color:#2c7e5a;font-weight: 500;"><u> Meritocracy across Countries </u></a>
 <ul class="no-bullets">
 	<li class="author-funding" style="margin-top: -20px; font-size: 14px">
@@ -67,7 +68,7 @@ permalink: /research/
 <ul class="no-bullets">	
 	<li class="author-funding" style="margin-top: -20px; font-size: 14px;"><strong>Status:</strong> Submitted.</li>
 </ul> 
-
+<div style="height:25px;font-size:25px;">&nbsp;</div>
 
 
 <a href="{{site.baseurl}}/files/Papers/KSZ2025.pdf" style="color:#2c7e5a;font-weight:500;">
@@ -92,7 +93,7 @@ permalink: /research/
     <strong>Funding:</strong> PEDL, STICERD, George and Obie Shultz Fund
   </li>
 </ul>
-
+<div style="height:25px;font-size:25px;">&nbsp;</div>
 
 <span style="color:#2c7e5a;font-weight: 500;">How Much Do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation</span>
 <ul class="no-bullets">
@@ -202,6 +203,7 @@ permalink: /research/
 	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft coming soon.
 	</li>
 </ul>
+<div style="height:25px;font-size:25px;">&nbsp;</div>
 
 
 <span style="color:#2c7e5a;font-weight: 500;">Globalization and Domestic Industrial Policy</span>
