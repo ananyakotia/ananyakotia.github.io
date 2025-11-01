@@ -182,10 +182,11 @@ permalink: /research/
 	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Pilot Complete.
 	</li>
 </ul>
+<div style="height:25px;font-size:25px;">&nbsp;</div>
 
 <span style="color:#2c7e5a;font-weight: 500;">Labor Market Frictions, the Organization of Labor, and Structural Change</span>
 <ul class="no-bullets">
-	<li class="author-funding" style="font-size: 14px;">
+	<li class="author-funding" style="margin-top: -20px; font-size: 14px;">
 		with <a href="https://economics.sas.upenn.edu/people/chinmay-lohani" target="_blank">Chinmay Lohani</a> and 
 		<a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
 	</li>
