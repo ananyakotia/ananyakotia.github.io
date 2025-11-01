@@ -165,11 +165,16 @@ permalink: /research/
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
 		with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
 	</li>
-	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, Open Philanthropy
+  <li>
+    <span class="abstract-toggle" data-abstract-id="transcription_abstract">▷ Abstract</span>
+  </li>
+  <li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, Open Philanthropy
 	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Pilot Complete.
 	</li>
 </ul>
-
+<div id="transcription_abstract" class="abstract" style="max-height:0;">
+  <h6>
+		Access to timely justice is a cornerstone of state capacity, yet judicial systems across the Global South face severe administrative bottlenecks and chronic backlogs--- in India alone, it would take nearly 300 years to clear the backlog of over 50 million pending cases. This study evaluates whether artificial intelligence can meaningfully strengthen the state's judicial capacity through one of the largest randomized controlled trials ever conducted in courts. We partner with over 1,500 courtrooms across Andhra Pradesh and Odisha in India to introduce an AI platform that provides real-time transcription, translation, and automated case-flow management for judges and court staff. The experiment measures how workflow automation affects judicial productivity, hearing duration, and case resolution rates, using daily administrative and survey data on court proceedings and judgments. The study will provide the first causal evidence on how frontier AI technologies can improve bureaucratic efficiency in core state institutions, enhance decision quality, and inform the design of scalable digital infrastructure for justice delivery in low- and middle-income countries.</div>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
 <span style="color:#2c7e5a;font-weight: 500;">Labor Market Frictions, the Organization of Labor, and Structural Change</span>
