@@ -53,8 +53,6 @@ permalink: /research/
 		<a href="https://www.economoser.com" target="_blank">Chris Moser</a>, 
 		<a href="https://www.columbia.edu/~ap3116/" target="_blank">Andrea Prat</a>
 	</li>
-</ul>
-<ul class="no-bullets">
 	<li>
 		<span class="abstract-toggle" data-abstract-id="BKMLP_abstract">▷ Abstract</span> 
 		<a href="https://www.nber.org/papers/w32375" target="_blank" style="font-size: 14px;"><u>NBER Working Paper No. 32375 </u></a>
@@ -126,7 +124,7 @@ permalink: /research/
 </ul>
 <div id="AIbureaucracy_abstract" class="abstract" style="max-height:0;">
   <h6>
-		Excessive litigation in tax administration often stems from bureaucratic risk aversion rather than legal necessity. Tax officers, wary that exercising discretion might invite allegations of corruption or favoritism, tend to appeal every adverse decision, regardless of merit. This culture of defensive decision-making fuels administrative overload and inconsistent judgments. This project studies whether artificial intelligence can improve the quality, consistency, and efficiency of legal reasoning among tax officers handling appellate cases. We develop and deploy an AI-assisted ``Tax Co-Pilot'' that summarizes case histories, highlights relevant precedents, and predicts the likelihood of success on appeal. The intervention is tested through a randomized rollout among quasi-judicial officers in the tax and revenue departments of the Indian government. By combining administrative data with officer-level behavioral metrics, we plan to examine how information frictions and cognitive constraints shape state performance. The study contributes to the economics of bureaucracy, public administration, and technology adoption, offering new insights into how AI tools can enhance decision quality in complex legal and regulatory settings.  
+		Excessive litigation in tax administration often stems from bureaucratic risk aversion rather than legal necessity. Tax officers, wary that exercising discretion might invite allegations of corruption or favoritism, tend to appeal every adverse decision, regardless of merit. This culture of defensive decision-making fuels administrative overload and inconsistent judgments. This project studies whether artificial intelligence can improve the quality, consistency, and efficiency of legal reasoning among tax officers handling appellate cases. We develop and deploy an AI-assisted "Tax Co-Pilot" that summarizes case histories, highlights relevant precedents, and predicts the likelihood of success on appeal. The intervention is tested through a randomized rollout among quasi-judicial officers in the tax and revenue departments of the Indian government. By combining administrative data with officer-level behavioral metrics, we plan to examine how information frictions and cognitive constraints shape state performance. The study contributes to the economics of bureaucracy, public administration, and technology adoption, offering new insights into how AI tools can enhance decision quality in complex legal and regulatory settings.  
 	</h6>
 </div>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
