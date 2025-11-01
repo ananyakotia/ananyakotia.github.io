@@ -75,7 +75,7 @@ permalink: /research/
     with <a href="https://saxenautkarsh.com" target="_blank" rel="noopener">Utkarsh Saxena</a> and 
          <a href="https://henryhzhang.com" target="_blank" rel="noopener">Henry Zhang</a>
   </li>
-  <li style="margin-top: -20px;">
+  <li>
 		<span class="abstract-toggle" data-abstract-id="mining_abstract">▷ Abstract</span>
 	</li>
   <li class="author-funding" style="font-size:14px;">
@@ -118,7 +118,7 @@ permalink: /research/
 	</li>
 </ul>
 <ul class="no-bullets">
-  <li style="margin-top:-20px;">
+  <li>
     <span class="abstract-toggle" data-abstract-id="AIbureaucracy_abstract">▷ Abstract</span>
   </li>
 </ul>
