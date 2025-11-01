@@ -88,9 +88,6 @@ permalink: /research/
   </h6>
 </div>
 
-
-<div style="height:25px;font-size:25px;">&nbsp;</div>
-
 <span style="color:#2c7e5a;font-weight: 500;">How Much Do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation</span>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;">
@@ -125,7 +122,6 @@ permalink: /research/
 		Excessive litigation in tax administration often stems from bureaucratic risk aversion rather than legal necessity. Tax officers, wary that exercising discretion might invite allegations of corruption or favoritism, tend to appeal every adverse decision, regardless of merit. This culture of defensive decision-making fuels administrative overload and inconsistent judgments. This project studies whether artificial intelligence can improve the quality, consistency, and efficiency of legal reasoning among tax officers handling appellate cases. We develop and deploy an AI-assisted "Tax Co-Pilot" that summarizes case histories, highlights relevant precedents, and predicts the likelihood of success on appeal. The intervention is tested through a randomized rollout among quasi-judicial officers in the tax and revenue departments of the Indian government. By combining administrative data with officer-level behavioral metrics, we plan to examine how information frictions and cognitive constraints shape state performance. The study contributes to the economics of bureaucracy, public administration, and technology adoption, offering new insights into how AI tools can enhance decision quality in complex legal and regulatory settings.  
 	</h6>
 </div>
-<div style="height:25px;font-size:25px;">&nbsp;</div>
 
 <span style="color:#2c7e5a;font-weight:500;">Management in India</span>
 <ul class="no-bullets">
@@ -143,7 +139,6 @@ permalink: /research/
 		We study how family control and professionalization shape firm performance and organization using nationwide administrative records on over 350,000 registered Indian firms spanning the 1980s to the present, including director genealogies and tenure histories. We construct firm-year measures of family presence on boards and deploy event-study designs around leadership transitions and shifts toward professional boards. Supermajority family boards are systematically smaller and less productive: revenues, profits, and exporting are lower when more than three quarters of directors are family, relative to otherwise similar firms. Dynamic estimates around patriarch exit show post-transition improvements in operating outcomes and profitability ratios. Together, the evidence maps who professionalizes, when, and with what consequences for scale, productivity, and managerial practices in Indian firms.  
 	</h6>
 </div>
-<div style="height:25px;font-size:25px;"></div>
 
 <span style="color:#2c7e5a;font-weight: 500;">FDI and Firm Organization</span>
 <ul class="no-bullets">
@@ -159,7 +154,6 @@ permalink: /research/
 		This project examines how restrictions on foreign direct investment (FDI) from China affected capital inflows and firm behavior in India. Using transaction-level administrative data on FDI inflows and an event-study design, we document a sharp and sustained decline in investment originating from China and Hong Kong following a 2020 policy change, with no comparable change in inflows from other countries. We then link these FDI shocks to administrative firm-level data to study how the withdrawal of foreign capital reshaped firm ownership structures, investment behavior, and internal organization. In particular, we investigate whether reduced access to foreign partners led firms to alter managerial practices, decision-making processes, and technology adoption. Planned work seeks to combine these data sources to provide causal evidence on how sudden restrictions to international capital flows propagate through firms, shaping organizational practices and productivity in a large emerging economy.	
 	</h6>
 </div>
-<div style="height:25px;font-size:25px;">&nbsp;</div>
 
 <span style="color:#2c7e5a;font-weight: 500;">AI and Judicial State Capacity</span>
 <ul class="no-bullets">
@@ -178,7 +172,6 @@ permalink: /research/
 		Access to timely justice is a cornerstone of state capacity, yet judicial systems across the Global South face severe administrative bottlenecks and chronic backlogs--- in India alone, it would take nearly 300 years to clear the backlog of over 50 million pending cases. This study evaluates whether artificial intelligence can meaningfully strengthen the state's judicial capacity through one of the largest randomized controlled trials ever conducted in courts. We partner with over 1,500 courtrooms across Andhra Pradesh and Odisha in India to introduce an AI platform that provides real-time transcription, translation, and automated case-flow management for judges and court staff. The experiment measures how workflow automation affects judicial productivity, hearing duration, and case resolution rates, using daily administrative and survey data on court proceedings and judgments. The study will provide the first causal evidence on how frontier AI technologies can improve bureaucratic efficiency in core state institutions, enhance decision quality, and inform the design of scalable digital infrastructure for justice delivery in low- and middle-income countries.
 	</h6>
 </div>
-<div style="height:25px;font-size:25px;">&nbsp;</div>
 
 <span style="color:#2c7e5a;font-weight: 500;">Labor Market Frictions, the Organization of Labor, and Structural Change</span>
 <ul class="no-bullets">
@@ -197,7 +190,6 @@ permalink: /research/
 		This project studies the long-run effects of the 1982-1984 expansion of India's Industrial Disputes Act (IDA), which extended strict firing regulations from manufacturing firms with more than 300 workers to those with more than 100. The amendment required firms above this threshold to obtain government approval before laying off blue-collar workers, permission that was rarely granted. Using microdata from the Annual Survey of Industries from 1974 to 1990, we employ an event-study design to show that affected firms experienced substantial exit, employment losses, and capital contraction, with much larger declines in labor-intensive industries relative to capital-intensive ones. The reform therefore shifted the composition of India's industrial base toward more capital-intensive production. Ongoing work builds a structural model to quantify how such labor market distortions slowed structural transformation by impeding the movement of workers from agriculture into manufacturing and dampening overall productivity growth.	
 	</h6>
 </div>
-<div style="height:25px;font-size:25px;">&nbsp;</div>
 
 <span style="color:#2c7e5a;font-weight: 500;">Globalization and Domestic Industrial Policy</span>
 <ul class="no-bullets">
