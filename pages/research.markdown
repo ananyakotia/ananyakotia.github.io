@@ -194,17 +194,26 @@ permalink: /research/
 </ul>
 <div id="labor_abstract" class="abstract" style="max-height:0;">
   <h6>
-		This project studies the long-run effects of the 1982-1984 expansion of India's \textit{Industrial Disputes Act} (IDA), which extended strict firing regulations from manufacturing firms with more than 300 workers to those with more than 100. The amendment required firms above this threshold to obtain government approval before laying off blue-collar workers, permission that was rarely granted. Using microdata from the Annual Survey of Industries from 1974 to 1990, we employ an event-study design to show that affected firms experienced substantial exit, employment losses, and capital contraction, with much larger declines in labor-intensive industries relative to capital-intensive ones. The reform therefore shifted the composition of India's industrial base toward more capital-intensive production. Ongoing work builds a structural model to quantify how such labor market distortions slowed structural transformation by impeding the movement of workers from agriculture into manufacturing and dampening overall productivity growth.	
+		This project studies the long-run effects of the 1982-1984 expansion of India's Industrial Disputes Act (IDA), which extended strict firing regulations from manufacturing firms with more than 300 workers to those with more than 100. The amendment required firms above this threshold to obtain government approval before laying off blue-collar workers, permission that was rarely granted. Using microdata from the Annual Survey of Industries from 1974 to 1990, we employ an event-study design to show that affected firms experienced substantial exit, employment losses, and capital contraction, with much larger declines in labor-intensive industries relative to capital-intensive ones. The reform therefore shifted the composition of India's industrial base toward more capital-intensive production. Ongoing work builds a structural model to quantify how such labor market distortions slowed structural transformation by impeding the movement of workers from agriculture into manufacturing and dampening overall productivity growth.	
 	</h6>
 </div>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
 <span style="color:#2c7e5a;font-weight: 500;">Globalization and Domestic Industrial Policy</span>
 <ul class="no-bullets">
-  <li class="author-funding" style="margin-top: -20px;font-size: 14px;">Funding: IGC</li>
+    <li>
+    <span class="abstract-toggle" data-abstract-id="qr_abstract">▷ Abstract</span>
+  </li>
+  <li 
+  	class="author-funding" style="margin-top: -20px;font-size: 14px;">Funding: IGC
+  </li>
   <li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft coming soon.</li>
 </ul>
-<div style="height:25px;font-size:25px;">&nbsp;</div>
+<div id="qr_abstract" class="abstract" style="max-height:0;">
+  <h6>
+		How do the pro-competitive effects of trade liberalization interact with domestic distortions? On the one hand, trade may reduce misallocation as productive firms expand and enter at the expense of unproductive firms. In the presence of domestic distortions, however, these reallocation and selection channels may be driven by political connections or unequal access to credit rather than productivity alone, thereby exacerbating misallocation and attenuating gains from trade. Thus, whether opening to trade can improve allocative efficiency in an economy that suffers domestic distortions is ultimately an empirical question. In this project, I exploit a previously unstudied shock to import competition in India and study how it interacts with a specific product-market distortion: a long-standing policy of product-specific protection for SMEs.
+	</h6>
+</div>
 
 
 
