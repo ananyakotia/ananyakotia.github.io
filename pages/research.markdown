@@ -116,8 +116,6 @@ permalink: /research/
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
 		with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
 	</li>
-</ul>
-<ul class="no-bullets">
   <li>
     <span class="abstract-toggle" data-abstract-id="AIbureaucracy_abstract">▷ Abstract</span>
   </li>
@@ -136,7 +134,15 @@ permalink: /research/
          <a href="https://meghapatnaik.github.io" target="_blank" rel="noopener">Megha Patnaik</a>,
          Mert Akan, and Janak Nabar
   </li>
+   <li>
+    <span class="abstract-toggle" data-abstract-id="IMOPS_abstract">▷ Abstract</span>
+  </li>
 </ul>
+<div id="IMOPS_abstract" class="abstract" style="max-height:0;">
+  <h6>
+		We study how family control and professionalization shape firm performance and organization using nationwide administrative records on over 350,000 registered Indian firms spanning the 1980s to the present, including director genealogies and tenure histories. We construct firm-year measures of family presence on boards and deploy event-study designs around leadership transitions and shifts toward professional boards. Supermajority family boards are systematically smaller and less productive: revenues, profits, and exporting are lower when more than three quarters of directors are family, relative to otherwise similar firms. Dynamic estimates around patriarch exit show post-transition improvements in operating outcomes and profitability ratios. Together, the evidence maps who professionalizes, when, and with what consequences for scale, productivity, and managerial practices in Indian firms.  
+	</h6>
+</div>
 <div style="height:25px;font-size:25px;"></div>
 
 <span style="color:#2c7e5a;font-weight: 500;">FDI and Firm Organization</span>
@@ -144,7 +150,14 @@ permalink: /research/
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
 		with <a href="https://namratakala.com" target="_blank">Namrata Kala</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
 	</li>
+  <li>
+    <span class="abstract-toggle" data-abstract-id="FDI_abstract">▷ Abstract</span>
+  </li>	
 </ul>
+<div id="FDI_abstract" class="abstract" style="max-height:0;">
+  <h6>
+		This project examines how restrictions on foreign direct investment (FDI) from China affected capital inflows and firm behavior in India. Using transaction-level administrative data on FDI inflows and an event-study design, we document a sharp and sustained decline in investment originating from China and Hong Kong following a 2020 policy change, with no comparable change in inflows from other countries. We then link these FDI shocks to administrative firm-level data to study how the withdrawal of foreign capital reshaped firm ownership structures, investment behavior, and internal organization. In particular, we investigate whether reduced access to foreign partners led firms to alter managerial practices, decision-making processes, and technology adoption. Planned work seeks to combine these data sources to provide causal evidence on how sudden restrictions to international capital flows propagate through firms, shaping organizational practices and productivity in a large emerging economy.	</h6>
+</div>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
 <span style="color:#2c7e5a;font-weight: 500;">AI and Judicial State Capacity</span>
