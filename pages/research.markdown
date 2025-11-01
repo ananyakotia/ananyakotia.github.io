@@ -65,7 +65,7 @@ permalink: /research/
 	</h6>
 </div>
 <ul class="no-bullets">	
-	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Submitted.</li>
+	<li class="author-funding" style="margin-top: -20px; font-size: 14px;"><strong>Status:</strong> Submitted.</li>
 </ul> 
 
 
@@ -191,14 +191,18 @@ permalink: /research/
   <li>
     <span class="abstract-toggle" data-abstract-id="labor_abstract">▷ Abstract</span>
   </li>	
-	<li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> STEG</li>
-	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft coming soon.</li>
 </ul>
 <div id="labor_abstract" class="abstract" style="max-height:0;">
   <h6>
 		This project studies the long-run effects of the 1982-1984 expansion of India's Industrial Disputes Act (IDA), which extended strict firing regulations from manufacturing firms with more than 300 workers to those with more than 100. The amendment required firms above this threshold to obtain government approval before laying off blue-collar workers, permission that was rarely granted. Using microdata from the Annual Survey of Industries from 1974 to 1990, we employ an event-study design to show that affected firms experienced substantial exit, employment losses, and capital contraction, with much larger declines in labor-intensive industries relative to capital-intensive ones. The reform therefore shifted the composition of India's industrial base toward more capital-intensive production. Ongoing work builds a structural model to quantify how such labor market distortions slowed structural transformation by impeding the movement of workers from agriculture into manufacturing and dampening overall productivity growth.	
 	</h6>
 </div>
+<ul class="no-bullets">
+	<li class="author-funding" style="margin-top: -20px; font-size: 14px;"><strong>Funding:</strong> STEG</li>
+	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft coming soon.
+	</li>
+</ul>
+
 
 <span style="color:#2c7e5a;font-weight: 500;">Globalization and Domestic Industrial Policy</span>
 <ul class="no-bullets">
@@ -213,7 +217,7 @@ permalink: /research/
 </div>
 <ul class="no-bullets">
   <li 
-  	class="author-funding" style="font-size: 14px;">Funding: IGC
+  	class="author-funding" style="margin-top: -20px; font-size: 14px;">Funding: IGC
   </li>
   <li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft coming soon.</li>
 </ul>
