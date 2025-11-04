@@ -95,7 +95,7 @@ permalink: /research/
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
-<span style="color:#2c7e5a;font-weight: 500;">How Much Do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation</span>
+<a href="{{site.baseurl}}/files/Papers/eep.pdf" style="color:#2c7e5a;font-weight: 500;"><u> How Much Do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation </u></a>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;">
 		<span class="abstract-toggle" data-abstract-id="eep_abstract">▷ Abstract</span>
