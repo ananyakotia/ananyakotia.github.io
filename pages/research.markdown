@@ -108,7 +108,6 @@ permalink: /research/
  </div>
 <ul class="no-bullets">
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;"><strong>Funding:</strong> STEG</li>
-	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft available upon request.</li>
 </ul>
 
 <br>
