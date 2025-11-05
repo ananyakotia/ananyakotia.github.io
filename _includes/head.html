@@ -20,18 +20,18 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
   {% if site.author.twitter_username %}
   <meta name="twitter:creator" content="{{ site.author.twitter_username }}">
   {% endif %}
-  <meta name="twitter:image" content="{{ site.baseurl }}/images/favicons/logo.PNG" />
+  <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/images/profile.jpg" />
 
   <meta property="og:type" content="article">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:image" content="{{ site.baseurl }}/images/favicons/logo.PNG" />
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/profile.jpg" />
 
   <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl }}/images/favicons/logo.PNG">
   <link rel="apple-touch-icon" sizes="60x60" href="{{ site.baseurl }}/images/favicons/logo.PNG">
