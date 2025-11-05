@@ -8,13 +8,13 @@ permalink: /about/
 I am a PhD candidate at the Department of Economics, London School of Economics. <strong>I am on the 2025-26 academic job market</strong>. My research is at the intersection of development economics, finance, and trade, and uses micro data to study heterogeneity in firm behaviour, and the aggregate implications of this heterogeneity for trade and macro models.
 <style>
   .about-page a {
-    color: #1a73e8;
+    color: ##C36241;
     text-decoration: underline;
   }
 
   .about-page a:hover,
   .about-page a:focus {
-    color: #0b4cc2;
+    color: #40A1C2;
   }
 </style>
 <div class="about-page">
