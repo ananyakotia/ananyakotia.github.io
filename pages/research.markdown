@@ -114,7 +114,7 @@ permalink: /research/
 
 ### Work in Progress
 
-<span style="color:#2c7e5a;font-weight: 500;">AI and Bureaucratic Decision Making</span>
+<span style="color:#2c7e5a;font-weight: 500;">Improving Tax Administration via AI: Randomized Evaluation of a Decision Support Tool </span>
 <ul class="no-bullets">
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
 		with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
@@ -125,7 +125,7 @@ permalink: /research/
 </ul>
 <div id="AIbureaucracy_abstract" class="abstract" style="max-height:0;">
   <h6>
-		Excessive litigation in tax administration often stems from bureaucratic risk aversion rather than legal necessity. Tax officers, wary that exercising discretion might invite allegations of corruption or favoritism, tend to appeal every adverse decision, regardless of merit. This culture of defensive decision-making fuels administrative overload and inconsistent judgments. This project studies whether artificial intelligence can improve the quality, consistency, and efficiency of legal reasoning among tax officers handling appellate cases. We develop and deploy an AI-assisted "Tax Co-Pilot" that summarizes case histories, highlights relevant precedents, and predicts the likelihood of success on appeal. The intervention is tested through a randomized rollout among quasi-judicial officers in the tax and revenue departments of the Indian government. By combining administrative data with officer-level behavioral metrics, we plan to examine how information frictions and cognitive constraints shape state performance. The study contributes to the economics of bureaucracy, public administration, and technology adoption, offering new insights into how AI tools can enhance decision quality in complex legal and regulatory settings.  
+	Legal decision makers in tax administration face heavy caseloads and large, heterogeneous case records. We design and deploy an AI decision support system that complements human judgment by summarizing case histories, surfacing the most relevant precedents with citations, and estimating the probability that a further appeal would succeed. The tool will be embedded in the existing workflow of quasi-judicial tax officers in India and rolled out using a randomized evaluation. We will measure impacts on decision quality, consistency, and efficiency, and examine how access to probability estimates shifts appeals toward cases with stronger legal merit. Primary outcomes include higher-court affirmation rates, alignment with precedent, processing time, backlog, and appeal selection.
 	</h6>
 </div>
 
