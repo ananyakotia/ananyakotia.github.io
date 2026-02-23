@@ -42,6 +42,8 @@ Competition reallocates resources toward more productive firms, raising aggregat
 </ul> 
 <div style="height:25px;font-size:25px;">&nbsp;</div>
  
+<div style="height:25px;font-size:25px;">&nbsp;</div>
+
 
 <a href="{{site.baseurl}}/files/Papers/BKLMP2025.pdf" style="color:#2c7e5a;font-weight: 500;"><u> Meritocracy across Countries </u></a>
 <ul class="no-bullets">
@@ -71,21 +73,6 @@ Competition reallocates resources toward more productive firms, raising aggregat
 
 ### Work in Progress
 
-<span style="color:#2c7e5a;font-weight: 500;">Improving Tax Administration via AI: Randomized Evaluation of a Decision Support Tool </span>
-<ul class="no-bullets">
-	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
-		with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
-	</li>
-  <li>
-    <span class="abstract-toggle" data-abstract-id="AIbureaucracy_abstract">▷ Abstract</span>
-  </li>
-</ul>
-<div id="AIbureaucracy_abstract" class="abstract" style="max-height:0;">
-  <h6>
-	Legal decision makers in tax administration face heavy caseloads and large, heterogeneous case records. We design and deploy an AI decision support system that complements human judgment by summarizing case histories, surfacing the most relevant precedents with citations, and estimating the probability that a further appeal would succeed. The tool will be embedded in the existing workflow of quasi-judicial tax officers in India and rolled out using a randomized evaluation. We will measure impacts on decision quality, consistency, and efficiency, and examine how access to probability estimates shifts appeals toward cases with stronger legal merit. Primary outcomes include higher-court affirmation rates, alignment with precedent, processing time, backlog, and appeal selection.
-	</h6>
-</div>
-
 <span style="color:#2c7e5a;font-weight:500;">Management in India</span>
 <ul class="no-bullets">
   <li class="author-funding" style="margin-top:-20px;font-size:14px;">
@@ -100,6 +87,21 @@ Competition reallocates resources toward more productive firms, raising aggregat
 <div id="IMOPS_abstract" class="abstract" style="max-height:0;">
   <h6>
 		We study how family control and professionalization shape firm performance and organization using nationwide administrative records on over 350,000 registered Indian firms spanning the 1980s to the present, including director genealogies and tenure histories. We construct firm-year measures of family presence on boards and deploy event-study designs around leadership transitions and shifts toward professional boards. Supermajority family boards are systematically smaller and less productive: revenues, profits, and exporting are lower when more than three quarters of directors are family, relative to otherwise similar firms. Dynamic estimates around patriarch exit show post-transition improvements in operating outcomes and profitability ratios. Together, the evidence maps who professionalizes, when, and with what consequences for scale, productivity, and managerial practices in Indian firms.  
+	</h6>
+</div>
+
+<span style="color:#2c7e5a;font-weight: 500;">Improving Tax Administration via AI: Randomized Evaluation of a Decision Support Tool </span>
+<ul class="no-bullets">
+	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
+		with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
+	</li>
+  <li>
+    <span class="abstract-toggle" data-abstract-id="AIbureaucracy_abstract">▷ Abstract</span>
+  </li>
+</ul>
+<div id="AIbureaucracy_abstract" class="abstract" style="max-height:0;">
+  <h6>
+	Legal decision makers in tax administration face heavy caseloads and large, heterogeneous case records. We design and deploy an AI decision support system that complements human judgment by summarizing case histories, surfacing the most relevant precedents with citations, and estimating the probability that a further appeal would succeed. The tool will be embedded in the existing workflow of quasi-judicial tax officers in India and rolled out using a randomized evaluation. We will measure impacts on decision quality, consistency, and efficiency, and examine how access to probability estimates shifts appeals toward cases with stronger legal merit. Primary outcomes include higher-court affirmation rates, alignment with precedent, processing time, backlog, and appeal selection.
 	</h6>
 </div>
 
@@ -119,6 +121,7 @@ Competition reallocates resources toward more productive firms, raising aggregat
 </div>-->
 
 <span style="color:#2c7e5a;font-weight: 500;">AI and Judicial State Capacity</span>
+
 <ul class="no-bullets">
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
 		with <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
@@ -138,7 +141,6 @@ Competition reallocates resources toward more productive firms, raising aggregat
 	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Pilot Complete.
 	</li>
 </ul>
-<div style="height:25px;font-size:25px;">&nbsp;</div>
 
 <!--<span style="color:#2c7e5a;font-weight: 500;">Globalization and Domestic Industrial Policy</span>
 <ul class="no-bullets">
