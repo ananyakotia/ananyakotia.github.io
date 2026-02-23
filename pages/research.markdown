@@ -103,7 +103,7 @@ Competition reallocates resources toward more productive firms, raising aggregat
 	</h6>
 </div>
 
-<span style="color:#2c7e5a;font-weight: 500;">FDI and Firm Organization</span>
+<!--<span style="color:#2c7e5a;font-weight: 500;">FDI and Firm Organization</span>
 <ul class="no-bullets">
 	<li class="author-funding" style="margin-top: -20px;font-size: 14px;">
 		with <a href="https://namratakala.com" target="_blank">Namrata Kala</a> and <a href="https://saxenautkarsh.com" target="_blank">Utkarsh Saxena</a>
@@ -116,7 +116,7 @@ Competition reallocates resources toward more productive firms, raising aggregat
   <h6>
 		This project examines how restrictions on foreign direct investment (FDI) from China affected capital inflows and firm behavior in India. Using transaction-level administrative data on FDI inflows and an event-study design, we document a sharp and sustained decline in investment originating from China and Hong Kong following a 2020 policy change, with no comparable change in inflows from other countries. We then link these FDI shocks to administrative firm-level data to study how the withdrawal of foreign capital reshaped firm ownership structures, investment behavior, and internal organization. In particular, we investigate whether reduced access to foreign partners led firms to alter managerial practices, decision-making processes, and technology adoption. Planned work seeks to combine these data sources to provide causal evidence on how sudden restrictions to international capital flows propagate through firms, shaping organizational practices and productivity in a large emerging economy.	
 	</h6>
-</div>
+</div>-->
 
 <span style="color:#2c7e5a;font-weight: 500;">AI and Judicial State Capacity</span>
 <ul class="no-bullets">
@@ -140,7 +140,7 @@ Competition reallocates resources toward more productive firms, raising aggregat
 </ul>
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
-<span style="color:#2c7e5a;font-weight: 500;">Globalization and Domestic Industrial Policy</span>
+<!--<span style="color:#2c7e5a;font-weight: 500;">Globalization and Domestic Industrial Policy</span>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;">
     <span class="abstract-toggle" data-abstract-id="qr_abstract">▷ Abstract</span>
@@ -156,12 +156,11 @@ Competition reallocates resources toward more productive firms, raising aggregat
   	class="author-funding" style="margin-top: -20px; font-size: 14px;">Funding: IGC
   </li>
   <li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Draft coming soon.</li>
-</ul>
+</ul>-->
 
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
-<span style="color:#2c7e5a;font-weight: 500;">Labor Regulations, Firm Dynamics and Sectoral
-Reallocation: Evidence from India</span>
+<span style="color:#2c7e5a;font-weight: 500;">How Much Do Firms Save? Financial Frictions and the Microeconomic Implications of the Euler Equation</span>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;">
 		<span class="abstract-toggle" data-abstract-id="eep_abstract">▷ Abstract</span>
@@ -210,13 +209,13 @@ tion.
 	</h6>
 </div>
 <ul class="no-bullets">
-	<li class="author-funding" style="margin-top: -20px; font-size: 14px;"><strong>Funding:</strong> STEG</li>
+	<li class="author-funding" style="margin-top: -20px; font-size: 14px;"><strong>Funding:</strong> STEG
 	</li>
 </ul>
 
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
-<span style="color:#2c7e5a;font-weight: 500;">  <u>Aggregate Impacts of Command-and-Control Environmental Policy: Evidence from Court-Ordered Mining Bans in India</u>
+<!--<span style="color:#2c7e5a;font-weight: 500;">  <u>Aggregate Impacts of Command-and-Control Environmental Policy: Evidence from Court-Ordered Mining Bans in India</u>
 </span>
 <ul class="no-bullets">
   <li class="author-funding" style="margin-top:-20px;font-size:14px;">
@@ -236,7 +235,7 @@ tion.
   <li class="author-funding" style="margin-top: -20px; font-size:14px;">
     <strong>Funding:</strong> PEDL, STICERD, George and Obie Shultz Fund
   </li>
-</ul>
+</ul>-->
 
 
 
