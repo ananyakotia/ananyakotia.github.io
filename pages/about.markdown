@@ -5,8 +5,7 @@ hide_title: true
 permalink: /about/
 ---
 
-I am a PhD candidate at the Department of Economics, London School of Economics. <strong><span style="color:#40A1C2;">I am on the 2025-26 academic job market</span></strong>. My research is at the intersection of development economics, finance, and trade, and uses micro data to study heterogeneity in firm behaviour, and the aggregate implications of this heterogeneity for trade and macro models.
-
+I am a PhD candidate at the Department of Economics, London School of Economics. My research is at the intersection of development economics, finance, and trade, and uses micro data to study heterogeneity in firm behaviour, and the aggregate implications of this heterogeneity for trade and macro models.
 
 I am also the Founder and Director of the <a href="https://www.idli.dev" target="_blank" style="color:#C36241;text-decoration:underline;" onmouseover="this.style.color='#C28C40'" onmouseout="this.style.color='#C36241'">India Data Lab Initiative (IDLI)</a>, an open-source platform that harmonizes over 50 unit-level firm and household surveys from India's Annual Survey of Industries and  National Sample Surveys from 1982 to the present. The initiative aims to promote quantitative historical research by reducing the duplication of  data-cleaning efforts across the research community.
 
