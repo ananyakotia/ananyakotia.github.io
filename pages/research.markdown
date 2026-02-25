@@ -63,8 +63,6 @@ Competition reallocates resources toward more productive firms, raising aggregat
 	</h6>
 </div>
 
-<div style="height:25px;font-size:25px;">&nbsp;</div>
-
 <br>
 
 ### Work in Progress
