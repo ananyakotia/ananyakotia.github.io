@@ -64,9 +64,7 @@ Competition reallocates resources toward more productive firms, raising aggregat
 	We study the micro sources and macro consequences of worker-job matching across countries with large income differences. Using internationally comparable data on over 120,000 individuals in 30 countries, we document that workers' skills align more closely with their jobs' skill requirements in higher-income countries, indicative of more meritocratic labor market matching. We interpret this fact through an equilibrium matching model with cross-country differences in three fundamentals: (i) endowments of worker skills and job requirements determining match feasibility; (ii) technology determining the returns to matching; and (iii) idiosyncratic frictions capturing how nonproductive traits affect matching. A development accounting exercise based on the model, estimated separately for each country, shows that variation in matching frictions explains only a small share of cross-country output gaps. However, improved worker-job matching substantially amplifies the gains from adopting frontier endowments and technology.  
 	</h6>
 </div>
-<ul class="no-bullets">	
-	<li class="author-funding" style="margin-top: -20px; font-size: 14px;"><strong>Status:</strong> Submitted.</li>
-</ul> 
+
 <div style="height:25px;font-size:25px;">&nbsp;</div>
 
 <br>
@@ -138,8 +136,6 @@ Competition reallocates resources toward more productive firms, raising aggregat
 <ul class="no-bullets">
   <li class="author-funding" style="margin-top: -20px;font-size: 14px;"><strong>Funding:</strong> IGC, Open Philanthropy
   </li>
-	<li class="author-funding" style="font-size: 14px;"><strong>Status:</strong> Pilot Complete.
-	</li>
 </ul>
 
 <!--<span style="color:#2c7e5a;font-weight: 500;">Globalization and Domestic Industrial Policy</span>
