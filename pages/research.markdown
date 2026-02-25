@@ -42,8 +42,6 @@ Competition reallocates resources toward more productive firms, raising aggregat
 </ul> 
 <div style="height:25px;font-size:25px;">&nbsp;</div>
  
-<div style="height:25px;font-size:25px;">&nbsp;</div>
-
 
 <a href="{{site.baseurl}}/files/Papers/BKLMP2025.pdf" style="color:#2c7e5a;font-weight: 500;"><u> Meritocracy across Countries </u></a>
 <ul class="no-bullets">
