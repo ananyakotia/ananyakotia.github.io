@@ -49,10 +49,9 @@ Competition reallocates resources toward more productive firms, raising aggregat
 		with <a href="https://www.orianabandiera.net" target="_blank">Oriana Bandiera</a>, 
 		<a href="https://sites.google.com/site/ilselindenlaub/" target="_blank">Ilse Lindenlaub</a>, 
 		<a href="https://www.economoser.com" target="_blank">Chris Moser</a>, 
-		<a href="https://www.columbia.edu/~ap3116/" target="_blank">Andrea Prat</a>
+		<a href="https://www.columbia.edu/~ap3116/" target="_blank">Andrea Prat</a>. R&R at Econometrica
 	</li>
 	<li>
-	<span style="font-style: italic; font-size: 14px;">R&R at Econometrica</span>
 	<span class="abstract-toggle" data-abstract-id="BKMLP_abstract">▷ Abstract</span> 
 		<a href="https://www.nber.org/papers/w32375" target="_blank" style="font-size: 14px;"><u>NBER Working Paper No. 32375 </u></a>
 		<a href="{{site.baseurl}}/files/Papers/BKLMP_SupplementaryAppendix.pdf" target="_blank" style="font-size: 14px;">&nbsp;&nbsp; <u>Supplementary Appendix</u></a>
