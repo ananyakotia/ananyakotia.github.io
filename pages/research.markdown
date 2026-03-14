@@ -49,7 +49,7 @@ Competition reallocates resources toward more productive firms, raising aggregat
 		with <a href="https://www.orianabandiera.net" target="_blank">Oriana Bandiera</a>, 
 		<a href="https://sites.google.com/site/ilselindenlaub/" target="_blank">Ilse Lindenlaub</a>, 
 		<a href="https://www.economoser.com" target="_blank">Chris Moser</a>, 
-		<a href="https://www.columbia.edu/~ap3116/" target="_blank">Andrea Prat</a>. R&R at Econometrica
+		<a href="https://www.columbia.edu/~ap3116/" target="_blank">Andrea Prat</a>. <i>R&R at Econometrica<i>. 
 	</li>
 	<li>
 	<span class="abstract-toggle" data-abstract-id="BKMLP_abstract">▷ Abstract</span> 
