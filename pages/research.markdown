@@ -52,7 +52,8 @@ Competition reallocates resources toward more productive firms, raising aggregat
 		<a href="https://www.columbia.edu/~ap3116/" target="_blank">Andrea Prat</a>
 	</li>
 	<li>
-		<span class="abstract-toggle" data-abstract-id="BKMLP_abstract">▷ Abstract</span> 
+	<span style="font-style: italic;">R&R at Econometrica</span>
+	<span class="abstract-toggle" data-abstract-id="BKMLP_abstract">▷ Abstract</span> 
 		<a href="https://www.nber.org/papers/w32375" target="_blank" style="font-size: 14px;"><u>NBER Working Paper No. 32375 </u></a>
 		<a href="{{site.baseurl}}/files/Papers/BKLMP_SupplementaryAppendix.pdf" target="_blank" style="font-size: 14px;">&nbsp;&nbsp; <u>Supplementary Appendix</u></a>
 	</li>
