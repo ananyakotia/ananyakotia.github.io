@@ -49,7 +49,7 @@ Competition reallocates resources toward more productive firms, raising aggregat
 		with <a href="https://www.orianabandiera.net" target="_blank">Oriana Bandiera</a>, 
 		<a href="https://sites.google.com/site/ilselindenlaub/" target="_blank">Ilse Lindenlaub</a>, 
 		<a href="https://www.economoser.com" target="_blank">Chris Moser</a>, 
-		<a href="https://www.columbia.edu/~ap3116/" target="_blank">Andrea Prat. Revise & Resubmit at Econometrica.</a> 
+		<a href="https://www.columbia.edu/~ap3116/" target="_blank">Andrea Prat. <em>Revise &amp; Resubmit at Econometrica.</em></a> 
 	</li>
 	<li>
 	<span class="abstract-toggle" data-abstract-id="BKMLP_abstract">▷ Abstract</span> 
@@ -230,7 +230,6 @@ tion.
     <strong>Funding:</strong> PEDL, STICERD, George and Obie Shultz Fund
   </li>
 </ul>-->
-
 
 
 
