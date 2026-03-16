@@ -16,9 +16,9 @@ permalink: /research/
 ### Working Papers
 
 <a href="{{site.baseurl}}/files/Papers/Kotia2025_tradeqr.pdf" style="color:#2c7e5a;font-weight: 500;"><u> When Competition Compels Change: Trade, Management, and Productivity</u></a> 
-<!--<span style="background-color:#f2f2f2; color:#B7410E; font-size:13px; font-weight:600; padding:2px 6px; border-radius:4px; margin-left:5px;">
+<span style="background-color:#f2f2f2; color:#B7410E; font-size:13px; font-weight:600; padding:2px 6px; border-radius:4px; margin-left:5px;">
   Job Market Paper
-</span>-->
+</span>
 <ul class="no-bullets">
 	<li style="margin-top: -20px;">
 		<span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span>
@@ -38,7 +38,7 @@ Competition reallocates resources toward more productive firms, raising aggregat
 	<a href="https://cepr.org/system/files/2025-08/IMO-ESF%202025%20-%20Programme.pdf" target="_blank">CEPR IMO-ESF Joint Workshop (Bocconi)</a>,
   <a href="https://neudc2025.com/program/" target="_blank">NEUDC (Tufts)</a>
 </li>-->
-  <li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, PEDL</li>
+  <li class="author-funding" style="font-size: 14px; margin-top: -20px"><strong>Funding:</strong> IGC, PEDL</li>
 </ul> 
 <div style="height:25px;font-size:25px;">&nbsp;</div>
  
