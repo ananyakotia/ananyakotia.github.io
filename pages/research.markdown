@@ -30,14 +30,14 @@ Competition reallocates resources toward more productive firms, raising aggregat
   </h6>
 </div>
 <ul class="no-bullets">
-<li class="author-funding" style="font-size: 14px; margin-top: -20px">
+<!--<<li class="author-funding" style="font-size: 14px; margin-top: -20px">
   <strong>Presentations (scheduled*):</strong> 
   <a href="https://www.nber.org/conferences/si-2025-macroeconomics-and-productivity" target="_blank">NBER SI 2025 (Macro and Productivity)</a>, 
   <a href="https://editorialexpress.com/conference/SED2025/program/SED2025.html" target="_blank">SED 2025 Annual Meeting</a>, 
 	<a href="https://egc.yale.edu/events/2025/conference-program-firms-trade-and-development-2025" target="_blank">IGC/EGC Conference on Firms, Trade, and Development 2025 (Yale)</a>,  
 	<a href="https://cepr.org/system/files/2025-08/IMO-ESF%202025%20-%20Programme.pdf" target="_blank">CEPR IMO-ESF Joint Workshop (Bocconi)</a>,
   <a href="https://neudc2025.com/program/" target="_blank">NEUDC (Tufts)</a>
-</li>
+</li>-->
   <li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, PEDL</li>
 </ul> 
 <div style="height:25px;font-size:25px;">&nbsp;</div>
