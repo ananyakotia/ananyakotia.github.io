@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Data Research Assistant"
+title: "Research Assistant"
 hide_title: true
-permalink: /data-ra/
+permalink: /ra/
 ---
 
 <style>
