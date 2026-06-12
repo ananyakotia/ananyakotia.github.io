@@ -269,6 +269,32 @@ ul.no-bullets li {
   justify-content:center;
 }
 
+.home-hiring {
+  margin: 18px 30px 0;
+  text-align: left;
+}
+
+.home-hiring a {
+  display: inline-block;
+  padding: 10px 18px;
+  border: 1px solid #f1b199;
+  border-radius: 20px;
+  background: #B7410E;
+  color: #fff !important;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.1;
+  text-decoration: none;
+  text-shadow: none;
+  white-space: nowrap;
+}
+
+.home-hiring a:hover {
+  background: #8f2f0a;
+  border-color: #f1b199;
+  color: #fff !important;
+}
+
 @media (max-width:600px){
   .panel-main__content{
 
@@ -278,6 +304,11 @@ ul.no-bullets li {
   .header-right{
     margin-left:0;
     text-align:center;
+  }
+
+  .home-hiring {
+    margin: 18px 30px 0;
+    text-align: center;
   }
 }
 
@@ -423,5 +454,3 @@ ul.no-bullets li {
   margin-left: 1rem;
   padding-left: 1.3rem;
 }
-
-
