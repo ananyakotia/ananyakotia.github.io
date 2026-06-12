@@ -115,6 +115,7 @@ I am hiring a full-time Research Assistant to support multiple ongoing research 
   <div><strong>Start date:</strong> As soon as possible</div>
   <div><strong>Commitment:</strong> 12 months</div>
   <div><strong>Time commitment:</strong> Full-time</div>
+  <div><strong>Application deadline:</strong> Rolling</div>
 </div>
 
 ## Overview
@@ -151,7 +152,7 @@ Candidates who are proactive, careful with data, and excited about empirical res
 
 ## How To Apply
 
-Please complete the application form below and upload the requested materials, including your CV and a sample code file.
+Please complete the application form below and upload the requested materials, including your CV and a sample code file. Applications will be reviewed on a rolling basis.
 
 <a class="ra-button" href="https://forms.gle/h9VqayuLRgAqVxSTA" target="_blank" rel="noopener">Apply using this form</a>
 

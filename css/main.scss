@@ -217,6 +217,10 @@ ul.no-bullets li {
   font-weight:600;
 }
 
+.navigation__item--mobile-hiring {
+  display: none;
+}
+
 /* force the row break exactly after CV ------------------------------ */
 .nav-buttons .break{
   flex-basis:100%;       /* new line without extra height */
@@ -309,6 +313,26 @@ ul.no-bullets li {
   .home-hiring {
     margin: 18px 30px 0;
     text-align: center;
+  }
+}
+
+@media all and (max-width: 960px) {
+  .nav-buttons .navigation__item--mobile-hiring {
+    display: block;
+    margin-top: .45em;
+  }
+
+  .nav-buttons .navigation__item--mobile-hiring a {
+    background: #B7410E;
+    border-color: #B7410E;
+    color: #fff !important;
+    opacity: 1;
+  }
+
+  .nav-buttons .navigation__item--mobile-hiring a:hover {
+    background: #8f2f0a;
+    border-color: #8f2f0a;
+    color: #fff !important;
   }
 }
 
