@@ -15,30 +15,18 @@ permalink: /research/
 
 ### Working Papers
 
-<a href="{{site.baseurl}}/files/Papers/Kotia2025_tradeqr.pdf" style="color:#2c7e5a;font-weight: 500;"><u> When Competition Compels Change: Trade, Management, and Productivity</u></a> 
-<span style="background-color:#f2f2f2; color:#B7410E; font-size:13px; font-weight:600; padding:2px 6px; border-radius:4px; margin-left:5px;">
-  Job Market Paper
-</span>
-<ul class="no-bullets">
-	<li style="margin-top: -20px;">
-		<span class="abstract-toggle" data-abstract-id="FamilyFirms_abstract">▷ Abstract</span>
-	</li>
-</ul>
-<div id="FamilyFirms_abstract" class="abstract" style="max-height: 0;">
-  <h6>
-Competition reallocates resources toward more productive firms, raising aggregate productivity. In this paper, I show that competition also operates within firms, inducing organizational change that raises managerial efficiency. I exploit a product-specific import competition shock in India, assembling novel data on family-managed firms—the predominant form of corporate governance worldwide—with tenure records and family ties for over 6 million company executives and directors. Using an event-study design, I show that exposed firms respond to import competition by replacing family managers with non-family, professional executives. Firms that professionalize experience productivity gains of over 30 percent. To quantify the aggregate implications of these managerial adjustments, I develop a quantitative model embedding a management choice within a model of heterogeneous firms with monopolistic competition. Firms trade off the non-pecuniary private benefits associated with family management against the profit gains from professionalization. Using my model, I estimate that import liberalization increased aggregate productivity in India by 12 percent, with within-firm improvements in managerial allocation explaining nearly 30 percent of this increase.
-  </h6>
-</div>
+<span style="color:#2c7e5a;font-weight: 500;">When Competition Compels Change: Trade, Management, and Productivity</span>
 <ul class="no-bullets">
 <!--<<li class="author-funding" style="font-size: 14px; margin-top: -20px">
-  <strong>Presentations (scheduled*):</strong> 
+	  <strong>Presentations (scheduled*):</strong> 
   <a href="https://www.nber.org/conferences/si-2025-macroeconomics-and-productivity" target="_blank">NBER SI 2025 (Macro and Productivity)</a>, 
   <a href="https://editorialexpress.com/conference/SED2025/program/SED2025.html" target="_blank">SED 2025 Annual Meeting</a>, 
 	<a href="https://egc.yale.edu/events/2025/conference-program-firms-trade-and-development-2025" target="_blank">IGC/EGC Conference on Firms, Trade, and Development 2025 (Yale)</a>,  
 	<a href="https://cepr.org/system/files/2025-08/IMO-ESF%202025%20-%20Programme.pdf" target="_blank">CEPR IMO-ESF Joint Workshop (Bocconi)</a>,
   <a href="https://neudc2025.com/program/" target="_blank">NEUDC (Tufts)</a>
-</li>-->
-  <li class="author-funding" style="font-size: 14px; margin-top: -20px"><strong>Funding:</strong> IGC, PEDL</li>
+	</li>-->
+  <li class="author-funding" style="font-size: 14px; margin-top: -20px"><strong>Updated draft coming soon</strong></li>
+  <li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, PEDL</li>
 </ul> 
 <div style="height:25px;font-size:25px;">&nbsp;</div>
  
@@ -230,7 +218,6 @@ tion.
     <strong>Funding:</strong> PEDL, STICERD, George and Obie Shultz Fund
   </li>
 </ul>-->
-
 
 
 
