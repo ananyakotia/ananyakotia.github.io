@@ -1,0 +1,21 @@
+---
+layout: null
+title: "Curriculum Vitae"
+permalink: /cv/
+---
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body class="cv-viewer">
+    <script>
+      if (window.matchMedia('(max-width: 700px)').matches) {
+        window.location.replace('{{ site.baseurl }}/files/CV/KotiaCV.pdf')
+      }
+    </script>
+    <iframe
+      class="cv-viewer__frame"
+      src="{{ site.baseurl }}/files/CV/KotiaCV.pdf"
+      title="Ananya Kotia - Curriculum Vitae"
+    ></iframe>
+  </body>
+</html>
