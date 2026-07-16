@@ -5,6 +5,18 @@ sitemap:
 ---
 
 $(document).ready(function () {
+  // Keep the address out of the static HTML and assemble mail links in the browser.
+  document.querySelectorAll('.js-email').forEach(function (link) {
+    try {
+      var email = window.atob(link.getAttribute('data-email'))
+      link.setAttribute('href', 'mailto:' + email)
+      var label = link.querySelector('[data-email-label]')
+      if (label) label.textContent = email
+    } catch (error) {
+      // Leave the human-readable fallback in place if decoding is unavailable.
+    }
+  })
+
   $('a.blog-button').click(function (e) {
     if ($('.panel-cover').hasClass('panel-cover--collapsed')) return
     currentWidth = $('.panel-cover').width()
@@ -52,4 +64,3 @@ window.addEventListener("popstate", function(event) {
     history.pushState(null, null, location.href);
   }
 });
-

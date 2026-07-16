@@ -6,14 +6,12 @@ permissions:
 title: Ananya Kotia
 # description: Ph.D. Candidate, Department of Economics <br /> London School of Economics 
 url: 'https://ananyakotia.com'
-email: kotia@stanford.edu
 baseurl: ""
 google_analytics: '89138162'
 # disqus_shortname: 'your-disqus-name'
 
 author:
   name: 'Ananya Kotia'
-  email: kotia@stanford.edu
 
 defaults:
   -
@@ -50,4 +48,3 @@ whitelist:
 
 plugins: ['jekyll-paginate', 'jekyll-seo-tag']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
-

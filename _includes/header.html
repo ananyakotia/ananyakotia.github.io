@@ -30,11 +30,10 @@
 
               <li class="navigation__item"><a href="https://twitter.com/ananyakotia"  aria-label="Twitter">
                     <i class="fa fa-twitter"></i></a></li>
-              <li class="navigation__item"><a href="mailto:kotia@stanford.edu"        aria-label="E-mail">
+              <li class="navigation__item"><a class="js-email" href="#" data-email="a290aWFAc3RhbmZvcmQuZWR1" aria-label="Email Ananya Kotia">
                     <i class="fa fa-envelope"></i></a></li>
               <li class="navigation__item"><a href="https://scholar.google.com/citations?user=90qfeUEAAAAJ&hl=en" aria-label="Google Scholar">
                     <i class="ai ai-google-scholar"></i></a></li>
-              <li class="navigation__item navigation__item--mobile-hiring"><a href="{{ site.baseurl }}/ra/">Hiring: Research Assistant</a></li>
             </ul>
           </nav>
         </div>
@@ -45,9 +44,6 @@
         {% assign about_page = site.pages | where: "permalink", "/about/" | first %}
         <div class="panel-cover__description">
           {{ about_page.content | markdownify }}
-        </div>
-        <div class="home-hiring">
-          <a href="{{ site.baseurl }}/ra/">Hiring: Research Assistant</a>
         </div>
       </div>
        {% endif %}
