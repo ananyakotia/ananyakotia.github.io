@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Teaching"
+title: "Kotia | Teaching"
 hide_title: true
 permalink: /teaching/
 ---

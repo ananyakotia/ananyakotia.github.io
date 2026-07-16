@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research"
+title: "Kotia | Research"
 hide_title: true
 permalink: /research/
 ---
@@ -218,6 +218,5 @@ tion.
     <strong>Funding:</strong> PEDL, STICERD, George and Obie Shultz Fund
   </li>
 </ul>-->
-
 
 

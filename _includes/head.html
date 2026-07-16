@@ -1,4 +1,3 @@
-{% seo title=false %}
 <head>
   <meta name="google-site-verification" content="hxB9Z-tgGCEUPie823EalLe5XYzzMyV01r_2jkOz1vk" />
   <meta charset="utf-8">
@@ -12,7 +11,7 @@
   {% include analytics.html %}
   {% endif %}
   
-  <title>Kotia | {% if page.title == "About" or page.url == "/" %}Bio{% elsif page.title %}{{ page.title }}{% else %}Bio{% endif %}</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}Kotia | Bio{% endif %}</title>
   <meta name="description" content="{{ site.description }}">
   <meta name="author" content="{{ site.author.name }}">
   <meta name="HandheldFriendly" content="True">

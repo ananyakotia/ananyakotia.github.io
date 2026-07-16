@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research Assistant"
+title: "Kotia | Research Assistant"
 hide_title: true
 permalink: /ra/
 ---

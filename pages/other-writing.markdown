@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Other Writing"
+title: "Kotia | Other Writing"
 hide_title: true
 permalink: /other-writing/
 ---
@@ -78,5 +78,4 @@ ul {
 <br/>
 
 ### Chapters & Policy Notes -->
-
 

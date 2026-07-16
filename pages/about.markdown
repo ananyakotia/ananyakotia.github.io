@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "Kotia | Bio"
 hide_title: true
 permalink: /about/
 ---
