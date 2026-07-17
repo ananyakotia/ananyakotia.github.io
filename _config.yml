@@ -40,11 +40,14 @@ kramdown:
 
 timezone: EST5EDT
 
-gems:
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
   - jekyll-sitemap
-
-whitelist:
-  - jekyll-sitemap
-
-plugins: ['jekyll-paginate', 'jekyll-seo-tag']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
+exclude:
+  - AGENTS.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - website.sublime-project
+  - website.sublime-workspace
