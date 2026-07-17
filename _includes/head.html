@@ -12,6 +12,42 @@
   {% endif %}
   
   <title>{% if page.title %}{{ page.title }}{% else %}Kotia | Bio{% endif %}</title>
+  <script>
+    (function () {
+      var expectedTitle = {{ page.title | default: "Kotia | Bio" | jsonify }};
+      var titleElement = document.querySelector('title');
+      var isRestoringTitle = false;
+
+      function restoreTabTitle() {
+        if (!titleElement || isRestoringTitle) return;
+
+        // Force Safari to refresh a stale tab/history label, even when the
+        // document already contains the expected title.
+        isRestoringTitle = true;
+        titleElement.textContent = expectedTitle + '\u2060';
+        window.setTimeout(function () {
+          titleElement.textContent = expectedTitle;
+          isRestoringTitle = false;
+        }, 0);
+      }
+
+      restoreTabTitle();
+      window.addEventListener('load', restoreTabTitle);
+      window.addEventListener('pageshow', restoreTabTitle);
+      window.addEventListener('focus', restoreTabTitle);
+      document.addEventListener('visibilitychange', restoreTabTitle);
+
+      new MutationObserver(function () {
+        if (!isRestoringTitle && titleElement.textContent !== expectedTitle) {
+          restoreTabTitle();
+        }
+      }).observe(titleElement, {
+        childList: true,
+        characterData: true,
+        subtree: true
+      });
+    }());
+  </script>
   <meta name="description" content="{{ site.description }}">
   <meta name="author" content="{{ site.author.name }}">
   <meta name="HandheldFriendly" content="True">
