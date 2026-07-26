@@ -15,7 +15,7 @@ permalink: /research/
 
 ### Working Papers
 
-<span style="color:#2c7e5a;font-weight: 500;">When Competition Compels Change: Trade, Management, and Productivity</span>
+<a href="{{site.baseurl}}/files/Papers/Kotia2025_tradeqr.pdf" style="color:#2c7e5a;font-weight: 500;"><u>When Competition Compels Change: Trade, Management, and Productivity</u></a>
 <ul class="no-bullets">
 <!--<<li class="author-funding" style="font-size: 14px; margin-top: -20px">
 	  <strong>Presentations (scheduled*):</strong> 
@@ -25,8 +25,7 @@ permalink: /research/
 	<a href="https://cepr.org/system/files/2025-08/IMO-ESF%202025%20-%20Programme.pdf" target="_blank">CEPR IMO-ESF Joint Workshop (Bocconi)</a>,
   <a href="https://neudc2025.com/program/" target="_blank">NEUDC (Tufts)</a>
 	</li>-->
-  <li class="author-funding" style="font-size: 14px; margin-top: -20px"><strong>Updated draft coming soon</strong></li>
-  <li class="author-funding" style="font-size: 14px;"><strong>Funding:</strong> IGC, PEDL</li>
+  <li class="author-funding" style="font-size: 14px; margin-top: -20px"><strong>Funding:</strong> IGC, PEDL</li>
 </ul> 
 <div style="height:25px;font-size:25px;">&nbsp;</div>
  
@@ -218,5 +217,4 @@ tion.
     <strong>Funding:</strong> PEDL, STICERD, George and Obie Shultz Fund
   </li>
 </ul>-->
-
 
