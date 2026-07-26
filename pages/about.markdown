@@ -10,6 +10,8 @@ I am a Postdoctoral Fellow at the <a href="https://siepr.stanford.edu" target="_
 
 I am also the Founder and Director of the <a href="https://www.idli.dev" target="_blank" style="color:#C36241;text-decoration:underline;" onmouseover="this.style.color='#C28C40'" onmouseout="this.style.color='#C36241'">India Data Lab Initiative (IDLI)</a>, an open-source platform that harmonizes over 50 unit-level firm and household surveys from India's Annual Survey of Industries and  National Sample Surveys from 1982 to the present. The initiative aims to promote quantitative historical research by reducing the duplication of  data-cleaning efforts across the research community.
 
+I received a PhD in Economics from LSE in 2026. You can find my CV <a href="{{ site.baseurl }}/files/CV/KotiaCV.pdf" style="color:#C36241;text-decoration:underline;">here</a>.
+
 <section class="about-contact" aria-label="Contact">
   <h3>Contact</h3>
   <div class="about-contact__details">
